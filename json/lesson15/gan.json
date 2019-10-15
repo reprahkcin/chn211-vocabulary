@@ -1,0 +1,23 @@
+{
+    "id":"gan",
+    "english":"gàn",
+    "strokes":3,
+    "wordAudio":"audio/words/gan.mp3",
+    "mainGraphic":"images/lesson15/characters/gan.png",
+    "strokeAudio":[
+      "audio/strokes/01.mp3",
+      "audio/strokes/02.mp3",
+      "audio/strokes/03.mp3"
+      ],
+    "strokePng":[
+      "images/lesson15/gan/gan-01.png",
+      "images/lesson15/gan/gan-02.png",
+      "images/lesson15/gan/gan-03.png"
+      ],
+    "characterAnimated":"images/character-animated/gan.mp4",
+    "timecodes":[
+      "00:00:00",
+      "00:00:02",
+      "00:00:04"
+      ]
+}

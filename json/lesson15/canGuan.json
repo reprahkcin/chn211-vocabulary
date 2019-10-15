@@ -1,0 +1,32 @@
+{
+    "id":"canGuan",
+    "english":"cān guān",
+    "strokes":6,
+    "wordAudio":"audio/words/canGuan.mp3",
+    "mainGraphic":"images/lesson15/characters/canGuan.png",
+    "strokeAudio":[
+      "audio/strokes/01.mp3",
+      "audio/strokes/02.mp3",
+      "audio/strokes/03.mp3",
+      "audio/strokes/04.mp3",
+      "audio/strokes/05.mp3",
+      "audio/strokes/06.mp3"
+      ],
+    "strokePng":[
+      "images/lesson15/canGuan/canGuan-01.png",
+      "images/lesson15/canGuan/canGuan-02.png",
+      "images/lesson15/canGuan/canGuan-03.png",
+      "images/lesson15/canGuan/canGuan-04.png",
+      "images/lesson15/canGuan/canGuan-05.png",
+      "images/lesson15/canGuan/canGuan-06.png"
+      ],
+    "characterAnimated":"images/character-animated/canGuan.mp4",
+    "timecodes":[
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10"
+      ]
+}

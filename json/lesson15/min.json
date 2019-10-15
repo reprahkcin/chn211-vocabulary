@@ -1,0 +1,29 @@
+{
+    "id":"min",
+    "english":"mín",
+    "strokes":5,
+    "wordAudio":"audio/words/01.mp3",
+    "mainGraphic":"images/lesson15/characters/min.png",
+    "strokeAudio":[
+      "audio/strokes/01.mp3",
+      "audio/strokes/02.mp3",
+      "audio/strokes/03.mp3",
+      "audio/strokes/04.mp3",
+      "audio/strokes/05.mp3"
+      ],
+    "strokePng":[
+      "images/lesson15/min/min-01.png",
+      "images/lesson15/min/min-02.png",
+      "images/lesson15/min/min-03.png",
+      "images/lesson15/min/min-04.png",
+      "images/lesson15/min/min-05.png"
+      ],
+    "characterAnimated":"images/character-animated/min.mp4",
+    "timecodes":[
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08"
+      ]
+}

@@ -1,0 +1,27 @@
+{
+    "id":"bi",
+    "english":"bì",
+    "strokes":4,
+    "wordAudio":"audio/words/bi.mp3",
+    "mainGraphic":"images/lesson15/characters/bi.png",
+    "strokeAudio":[
+      "audio/strokes/01.mp3",
+      "audio/strokes/02.mp3",
+      "audio/strokes/03.mp3",
+      "audio/strokes/04.mp3",
+      "audio/strokes/05.mp3"
+      ],
+    "strokePng":[
+      "images/lesson15/bi/bi-01.png",
+      "images/lesson15/bi/bi-02.png",
+      "images/lesson15/bi/bi-03.png",
+      "images/lesson15/bi/bi-04.png"
+      ],
+    "characterAnimated":"images/character-animated/bi.mp4",
+    "timecodes":[
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06"
+      ]
+}

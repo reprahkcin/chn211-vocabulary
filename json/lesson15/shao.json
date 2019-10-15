@@ -1,0 +1,26 @@
+{
+    "id":"shao",
+    "english":"shǎo",
+    "strokes":4,
+    "wordAudio":"audio/words/shao.mp3",
+    "mainGraphic":"images/lesson15/characters/shao.png",
+    "strokeAudio":[
+      "audio/strokes/01.mp3",
+      "audio/strokes/02.mp3",
+      "audio/strokes/03.mp3",
+      "audio/strokes/04.mp3"
+      ],
+    "strokePng":[
+      "images/lesson15/shao/shao-01.png",
+      "images/lesson15/shao/shao-02.png",
+      "images/lesson15/shao/shao-03.png",
+      "images/lesson15/shao/shao-04.png"
+      ],
+    "characterAnimated":"images/character-animated/shao.mp4",
+    "timecodes":[
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06"
+      ]
+}
