@@ -1,0 +1,47 @@
+{
+    "id":"zhiYe",
+    "english":"zhí yè",
+    "strokes":11,
+    "wordAudio":"audio/words/zhiYe.mp3",
+    "mainGraphic":"images/lesson16/characters/zhiYe.png",
+    "strokeAudio":[
+      "audio/strokes/01.mp3",
+      "audio/strokes/02.mp3",
+      "audio/strokes/03.mp3",
+      "audio/strokes/04.mp3",
+      "audio/strokes/05.mp3",
+      "audio/strokes/06.mp3",
+      "audio/strokes/07.mp3",
+      "audio/strokes/08.mp3",
+      "audio/strokes/09.mp3",
+      "audio/strokes/10.mp3",
+      "audio/strokes/11.mp3"
+      ],
+    "strokePng":[
+      "images/lesson16/zhiYe/zhiYe-01.png",
+      "images/lesson16/zhiYe/zhiYe-02.png",
+      "images/lesson16/zhiYe/zhiYe-03.png",
+      "images/lesson16/zhiYe/zhiYe-04.png",
+      "images/lesson16/zhiYe/zhiYe-05.png",
+      "images/lesson16/zhiYe/zhiYe-06.png",
+      "images/lesson16/zhiYe/zhiYe-07.png",
+      "images/lesson16/zhiYe/zhiYe-08.png",
+      "images/lesson16/zhiYe/zhiYe-09.png",
+      "images/lesson16/zhiYe/zhiYe-10.png",
+      "images/lesson16/zhiYe/zhiYe-11.png"
+      ],
+    "characterAnimated":"images/character-animated/zhiYe.mp4",
+    "timecodes":[
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10",
+      "00:00:12",
+      "00:00:14",
+      "00:00:16",
+      "00:00:18",
+      "00:00:20"
+    ]
+}

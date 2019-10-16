@@ -1,0 +1,26 @@
+{
+    "id":"sa",
+    "english":"sà",
+    "strokes":4,
+    "wordAudio":"audio/words/sa.mp3",
+    "mainGraphic":"images/lesson16/characters/sa.png",
+    "strokeAudio":[
+      "audio/strokes/01.mp3",
+      "audio/strokes/02.mp3",
+      "audio/strokes/03.mp3",
+      "audio/strokes/04.mp3"
+      ],
+    "strokePng":[
+      "images/lesson16/sa/sa-01.png",
+      "images/lesson16/sa/sa-02.png",
+      "images/lesson16/sa/sa-03.png",
+      "images/lesson16/sa/sa-04.png"
+      ],
+    "characterAnimated":"images/character-animated/sa.mp4",
+    "timecodes":[
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06"
+    ]
+}

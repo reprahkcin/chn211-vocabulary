@@ -1,0 +1,47 @@
+{
+    "id":"tuShuGuan",
+    "english":"tú shū guǎn",
+    "strokes":11,
+    "wordAudio":"audio/words/tuShuGuan.mp3",
+    "mainGraphic":"images/lesson16/characters/tuShuGuan.png",
+    "strokeAudio":[
+      "audio/strokes/01.mp3",
+      "audio/strokes/02.mp3",
+      "audio/strokes/03.mp3",
+      "audio/strokes/04.mp3",
+      "audio/strokes/05.mp3",
+      "audio/strokes/06.mp3",
+      "audio/strokes/07.mp3",
+      "audio/strokes/08.mp3",
+      "audio/strokes/09.mp3",
+      "audio/strokes/10.mp3",
+      "audio/strokes/11.mp3"
+      ],
+    "strokePng":[
+      "images/lesson16/tuShuGuan/tuShuGuan-01.png",
+      "images/lesson16/tuShuGuan/tuShuGuan-02.png",
+      "images/lesson16/tuShuGuan/tuShuGuan-03.png",
+      "images/lesson16/tuShuGuan/tuShuGuan-04.png",
+      "images/lesson16/tuShuGuan/tuShuGuan-05.png",
+      "images/lesson16/tuShuGuan/tuShuGuan-06.png",
+      "images/lesson16/tuShuGuan/tuShuGuan-07.png",
+      "images/lesson16/tuShuGuan/tuShuGuan-08.png",
+      "images/lesson16/tuShuGuan/tuShuGuan-09.png",
+      "images/lesson16/tuShuGuan/tuShuGuan-10.png",
+      "images/lesson16/tuShuGuan/tuShuGuan-11.png"
+      ],
+    "characterAnimated":"images/character-animated/tuShuGuan.mp4",
+    "timecodes":[
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10",
+      "00:00:12",
+      "00:00:14",
+      "00:00:16",
+      "00:00:18",
+      "00:00:20"
+    ]
+}

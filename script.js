@@ -5,7 +5,7 @@ var strokes = [];
 var strokeNumber = 0;
 
 function preload(){
-   object = loadJSON('json/lesson15/dong.json');
+   object = loadJSON('json/lesson16/buCuo.json');
 }
 
 function setup(){
