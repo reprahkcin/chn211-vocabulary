@@ -1,6 +1,7 @@
 {
+    "name":"Directory Json File",
     "lesson":{
-        "15":[
+        "fifteen":[
             "json/lesson15/min.json",
             "json/lesson15/bi.json",
             "json/lesson15/gan.json",
@@ -33,7 +34,7 @@
             "json/lesson15/de.json",
             "json/lesson15/shao.json"
         ],
-        "16":[
+        "sixteen":[
             "json/lesson16/biao.json",
             "json/lesson16/sa.json",
             "json/lesson16/guan.json",
@@ -61,7 +62,7 @@
             "json/lesson16/chaShi.json",
             "json/lesson16/shiYong.json"
         ],
-        "17":[
+        "seventeen":[
             "json/lesson17/bi.json",
             "json/lesson17/ji.json",
             "json/lesson17/chan.json",

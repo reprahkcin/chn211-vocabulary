@@ -4,18 +4,25 @@ var bg;
 var strokes = [];
 var strokeNumber = 0;
 
+
+
 function preload(){
-   object = loadJSON('json/lesson16/buCuo.json');
+    directory = loadJSON('json/directory.json', ()=>{
+        object = loadJSON(directory.lesson.fifteen[3]);
+    });
 }
 
 function setup(){
-    createCanvas(300, 300);
+
+    var canvas = createCanvas(300, 300);
+    canvas.parent('canvas')
     bg = loadImage('images/guide.png')
     for (let index = 0; index < object.strokePng.length; index++) {
         img = loadImage(object.strokePng[index]);
         strokes.push(img);
     }
-    createP(object.english);
+    var eng = createElement('h1',object.english);
+    eng.parent('english');
     image(bg, 0, 0);
 }
 
@@ -38,4 +45,5 @@ function draw(){
 function loadStroke(placeHolder){
     image(strokes[placeHolder], 0,0);
 }
+
 
