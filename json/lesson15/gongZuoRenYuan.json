@@ -1,35 +1,40 @@
 {
-    "id":"gongZuoRenYuan",
-    "english":"gōng zuò rén yuán",
-    "strokes":7,
-    "wordAudio":"audio/words/gongZuoRenYuan.mp3",
-    "mainGraphic":"images/lesson15/characters/gongZuoRenYuan.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3",
-      "audio/strokes/05.mp3",
-      "audio/strokes/06.mp3",
-      "audio/strokes/07.mp3"
-      ],
-    "strokePng":[
-      "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-01.png",
-      "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-02.png",
-      "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-03.png",
-      "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-04.png",
-      "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-05.png",
-      "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-06.png",
-      "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-07.png"
-      ],
-    "characterAnimated":"images/character-animated/gongZuoRenYuan.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06",
-      "00:00:08",
-      "00:00:10",
-      "00:00:12"
-      ]
+  "id": "gongZuoRenYuan",
+  "english": "gōng zuò rén yuán",
+  "strokes": 7,
+  "wordAudio": "audio/words/gongZuoRenYuan.mp3",
+  "mainGraphics": [
+    "images/lesson15/characters/gongZuoRenYuan-a.png",
+    "images/lesson15/characters/gongZuoRenYuan-b.png",
+    "images/lesson15/characters/gongZuoRenYuan-c.png",
+    "images/lesson15/characters/gongZuoRenYuan-d.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3",
+    "audio/strokes/05.mp3",
+    "audio/strokes/06.mp3",
+    "audio/strokes/07.mp3"
+  ],
+  "strokePng": [
+    "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-01.png",
+    "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-02.png",
+    "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-03.png",
+    "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-04.png",
+    "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-05.png",
+    "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-06.png",
+    "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-07.png"
+  ],
+  "characterAnimated": "images/character-animated/gongZuoRenYuan.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12"
+  ]
 }

@@ -1,32 +1,34 @@
 {
-    "id":"zao",
-    "english":"zǎo",
-    "strokes":6,
-    "wordAudio":"audio/words/zao.mp3",
-    "mainGraphic":"images/lesson15/characters/zao.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3",
-      "audio/strokes/05.mp3",
-      "audio/strokes/06.mp3"
-      ],
-    "strokePng":[
-      "images/lesson15/zao/zao-01.png",
-      "images/lesson15/zao/zao-02.png",
-      "images/lesson15/zao/zao-03.png",
-      "images/lesson15/zao/zao-04.png",
-      "images/lesson15/zao/zao-05.png",
-      "images/lesson15/zao/zao-06.png"
-      ],
-    "characterAnimated":"images/character-animated/zao.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06",
-      "00:00:08",
-      "00:00:10"
-      ]
+  "id": "zao",
+  "english": "zǎo",
+  "strokes": 6,
+  "wordAudio": "audio/words/zao.mp3",
+  "mainGraphics": [
+    "images/lesson15/characters/zao.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3",
+    "audio/strokes/05.mp3",
+    "audio/strokes/06.mp3"
+  ],
+  "strokePng": [
+    "images/lesson15/zao/zao-01.png",
+    "images/lesson15/zao/zao-02.png",
+    "images/lesson15/zao/zao-03.png",
+    "images/lesson15/zao/zao-04.png",
+    "images/lesson15/zao/zao-05.png",
+    "images/lesson15/zao/zao-06.png"
+  ],
+  "characterAnimated": "images/character-animated/zao.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10"
+  ]
 }

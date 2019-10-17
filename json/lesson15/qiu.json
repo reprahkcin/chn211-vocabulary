@@ -1,29 +1,31 @@
 {
-    "id":"qiu",
-    "english":"qiū",
-    "strokes":5,
-    "wordAudio":"audio/words/qiu.mp3",
-    "mainGraphic":"images/lesson15/characters/qiu.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3",
-      "audio/strokes/05.mp3"
-      ],
-    "strokePng":[
-      "images/lesson15/qiu/qiu-01.png",
-      "images/lesson15/qiu/qiu-02.png",
-      "images/lesson15/qiu/qiu-03.png",
-      "images/lesson15/qiu/qiu-04.png",
-      "images/lesson15/qiu/qiu-05.png"
-      ],
-    "characterAnimated":"images/character-animated/qiu.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06",
-      "00:00:08"
-      ]
+  "id": "qiu",
+  "english": "qiū",
+  "strokes": 5,
+  "wordAudio": "audio/words/qiu.mp3",
+  "mainGraphics": [
+    "images/lesson15/characters/qiu.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3",
+    "audio/strokes/05.mp3"
+  ],
+  "strokePng": [
+    "images/lesson15/qiu/qiu-01.png",
+    "images/lesson15/qiu/qiu-02.png",
+    "images/lesson15/qiu/qiu-03.png",
+    "images/lesson15/qiu/qiu-04.png",
+    "images/lesson15/qiu/qiu-05.png"
+  ],
+  "characterAnimated": "images/character-animated/qiu.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08"
+  ]
 }

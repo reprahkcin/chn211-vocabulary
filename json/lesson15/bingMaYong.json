@@ -1,35 +1,39 @@
 {
-    "id":"bingMaYong",
-    "english":"bīng mǎ yǒng",
-    "strokes":7,
-    "wordAudio":"audio/words/bingMaYong.mp3",
-    "mainGraphic":"images/lesson15/characters/bingMaYong.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3",
-      "audio/strokes/05.mp3",
-      "audio/strokes/06.mp3",
-      "audio/strokes/07.mp3"
-      ],
-    "strokePng":[
-      "images/lesson15/bingMaYong/bingMaYong-01.png",
-      "images/lesson15/bingMaYong/bingMaYong-02.png",
-      "images/lesson15/bingMaYong/bingMaYong-03.png",
-      "images/lesson15/bingMaYong/bingMaYong-04.png",
-      "images/lesson15/bingMaYong/bingMaYong-05.png",
-      "images/lesson15/bingMaYong/bingMaYong-06.png",
-      "images/lesson15/bingMaYong/bingMaYong-07.png"
-      ],
-    "characterAnimated":"images/character-animated/bingMaYong.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06",
-      "00:00:08",
-      "00:00:10",
-      "00:00:12"
-      ]
+  "id": "bingMaYong",
+  "english": "bīng mǎ yǒng",
+  "strokes": 7,
+  "wordAudio": "audio/words/bingMaYong.mp3",
+  "mainGraphics": [
+    "images/lesson15/characters/bingMaYong-a.png",
+    "images/lesson15/characters/bingMaYong-b.png",
+    "images/lesson15/characters/bingMaYong-c.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3",
+    "audio/strokes/05.mp3",
+    "audio/strokes/06.mp3",
+    "audio/strokes/07.mp3"
+  ],
+  "strokePng": [
+    "images/lesson15/bingMaYong/bingMaYong-01.png",
+    "images/lesson15/bingMaYong/bingMaYong-02.png",
+    "images/lesson15/bingMaYong/bingMaYong-03.png",
+    "images/lesson15/bingMaYong/bingMaYong-04.png",
+    "images/lesson15/bingMaYong/bingMaYong-05.png",
+    "images/lesson15/bingMaYong/bingMaYong-06.png",
+    "images/lesson15/bingMaYong/bingMaYong-07.png"
+  ],
+  "characterAnimated": "images/character-animated/bingMaYong.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12"
+  ]
 }

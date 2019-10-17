@@ -1,26 +1,28 @@
 {
-    "id":"you",
-    "english":"yóu",
-    "strokes":4,
-    "wordAudio":"audio/words/you.mp3",
-    "mainGraphic":"images/lesson15/characters/you.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3"
-      ],
-    "strokePng":[
-      "images/lesson15/you/you-01.png",
-      "images/lesson15/you/you-02.png",
-      "images/lesson15/you/you-03.png",
-      "images/lesson15/you/you-04.png"
-      ],
-    "characterAnimated":"images/character-animated/you.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06"
-      ]
+  "id": "you",
+  "english": "yóu",
+  "strokes": 4,
+  "wordAudio": "audio/words/you.mp3",
+  "mainGraphics": [
+    "images/lesson15/characters/you.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3"
+  ],
+  "strokePng": [
+    "images/lesson15/you/you-01.png",
+    "images/lesson15/you/you-02.png",
+    "images/lesson15/you/you-03.png",
+    "images/lesson15/you/you-04.png"
+  ],
+  "characterAnimated": "images/character-animated/you.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06"
+  ]
 }

@@ -1,44 +1,46 @@
 {
-    "id":"huan2",
-    "english":"huàn",
-    "strokes":10,
-    "wordAudio":"audio/words/huan2.mp3",
-    "mainGraphic":"images/lesson15/characters/huan2.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3",
-      "audio/strokes/05.mp3",
-      "audio/strokes/06.mp3",
-      "audio/strokes/07.mp3",
-      "audio/strokes/08.mp3",
-      "audio/strokes/09.mp3",
-      "audio/strokes/10.mp3"
-      ],
-    "strokePng":[
-      "images/lesson15/huan2/huan2-01.png",
-      "images/lesson15/huan2/huan2-02.png",
-      "images/lesson15/huan2/huan2-03.png",
-      "images/lesson15/huan2/huan2-04.png",
-      "images/lesson15/huan2/huan2-05.png",
-      "images/lesson15/huan2/huan2-06.png",
-      "images/lesson15/huan2/huan2-07.png",
-      "images/lesson15/huan2/huan2-08.png",
-      "images/lesson15/huan2/huan2-09.png",
-      "images/lesson15/huan2/huan2-10.png"
-      ],
-    "characterAnimated":"images/character-animated/huan2.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06",
-      "00:00:08",
-      "00:00:10",
-      "00:00:12",
-      "00:00:14",
-      "00:00:16",
-      "00:00:18"
-      ]
+  "id": "huan2",
+  "english": "huàn",
+  "strokes": 10,
+  "wordAudio": "audio/words/huan2.mp3",
+  "mainGraphics": [
+    "images/lesson15/characters/huan2.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3",
+    "audio/strokes/05.mp3",
+    "audio/strokes/06.mp3",
+    "audio/strokes/07.mp3",
+    "audio/strokes/08.mp3",
+    "audio/strokes/09.mp3",
+    "audio/strokes/10.mp3"
+  ],
+  "strokePng": [
+    "images/lesson15/huan2/huan2-01.png",
+    "images/lesson15/huan2/huan2-02.png",
+    "images/lesson15/huan2/huan2-03.png",
+    "images/lesson15/huan2/huan2-04.png",
+    "images/lesson15/huan2/huan2-05.png",
+    "images/lesson15/huan2/huan2-06.png",
+    "images/lesson15/huan2/huan2-07.png",
+    "images/lesson15/huan2/huan2-08.png",
+    "images/lesson15/huan2/huan2-09.png",
+    "images/lesson15/huan2/huan2-10.png"
+  ],
+  "characterAnimated": "images/character-animated/huan2.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14",
+    "00:00:16",
+    "00:00:18"
+  ]
 }

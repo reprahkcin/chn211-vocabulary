@@ -3,7 +3,10 @@
     "english":"zhí yè",
     "strokes":11,
     "wordAudio":"audio/words/zhiYe.mp3",
-    "mainGraphic":"images/lesson16/characters/zhiYe.png",
+    "mainGraphics":[
+      "images/lesson16/characters/zhiYe-a.png",
+      "images/lesson16/characters/zhiYe-b.png"
+    ],
     "strokeAudio":[
       "audio/strokes/01.mp3",
       "audio/strokes/02.mp3",

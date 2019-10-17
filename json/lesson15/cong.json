@@ -1,26 +1,28 @@
 {
-    "id":"cong",
-    "english":"cóng",
-    "strokes":4,
-    "wordAudio":"audio/words/cong.mp3",
-    "mainGraphic":"images/lesson15/characters/cong.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3"
-      ],
-    "strokePng":[
-      "images/lesson15/cong/cong-01.png",
-      "images/lesson15/cong/cong-02.png",
-      "images/lesson15/cong/cong-03.png",
-      "images/lesson15/cong/cong-04.png"
-      ],
-    "characterAnimated":"images/character-animated/cong.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06"
-      ]
+  "id": "cong",
+  "english": "cóng",
+  "strokes": 4,
+  "wordAudio": "audio/words/cong.mp3",
+  "mainGraphics": [
+    "images/lesson15/characters/cong.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3"
+  ],
+  "strokePng": [
+    "images/lesson15/cong/cong-01.png",
+    "images/lesson15/cong/cong-02.png",
+    "images/lesson15/cong/cong-03.png",
+    "images/lesson15/cong/cong-04.png"
+  ],
+  "characterAnimated": "images/character-animated/cong.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06"
+  ]
 }

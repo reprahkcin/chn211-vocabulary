@@ -1,32 +1,35 @@
 {
-    "id":"xiAn",
-    "english":"xī ān",
-    "strokes":6,
-    "wordAudio":"audio/words/xiAn.mp3",
-    "mainGraphic":"images/lesson15/characters/xiAn.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3",
-      "audio/strokes/05.mp3",
-      "audio/strokes/06.mp3"
-      ],
-    "strokePng":[
-      "images/lesson15/xiAn/xiAn-01.png",
-      "images/lesson15/xiAn/xiAn-02.png",
-      "images/lesson15/xiAn/xiAn-03.png",
-      "images/lesson15/xiAn/xiAn-04.png",
-      "images/lesson15/xiAn/xiAn-05.png",
-      "images/lesson15/xiAn/xiAn-06.png"
-      ],
-    "characterAnimated":"images/character-animated/xiAn.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06",
-      "00:00:08",
-      "00:00:10"
-      ]
+  "id": "xiAn",
+  "english": "xī ān",
+  "strokes": 6,
+  "wordAudio": "audio/words/xiAn.mp3",
+  "mainGraphics": [
+    "images/lesson15/characters/xiAn-a.png",
+    "images/lesson15/characters/xiAn-b.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3",
+    "audio/strokes/05.mp3",
+    "audio/strokes/06.mp3"
+  ],
+  "strokePng": [
+    "images/lesson15/xiAn/xiAn-01.png",
+    "images/lesson15/xiAn/xiAn-02.png",
+    "images/lesson15/xiAn/xiAn-03.png",
+    "images/lesson15/xiAn/xiAn-04.png",
+    "images/lesson15/xiAn/xiAn-05.png",
+    "images/lesson15/xiAn/xiAn-06.png"
+  ],
+  "characterAnimated": "images/character-animated/xiAn.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10"
+  ]
 }

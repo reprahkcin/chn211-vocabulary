@@ -1,26 +1,30 @@
 {
-    "id":"wangFuJing",
-    "english":"wáng fǔ jǐng",
-    "strokes":4,
-    "wordAudio":"audio/words/wangFuJing.mp3",
-    "mainGraphic":"images/lesson15/characters/wangFuJing.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3"
-      ],
-    "strokePng":[
-      "images/lesson15/wangFuJing/wangFuJing-01.png",
-      "images/lesson15/wangFuJing/wangFuJing-02.png",
-      "images/lesson15/wangFuJing/wangFuJing-03.png",
-      "images/lesson15/wangFuJing/wangFuJing-04.png"
-      ],
-    "characterAnimated":"images/character-animated/wangFuJing.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06"
-      ]
+  "id": "wangFuJing",
+  "english": "wáng fǔ jǐng",
+  "strokes": 4,
+  "wordAudio": "audio/words/wangFuJing.mp3",
+  "mainGraphics": [
+    "images/lesson15/characters/wangFuJing-a.png",
+    "images/lesson15/characters/wangFuJing-b.png",
+    "images/lesson15/characters/wangFuJing-c.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3"
+  ],
+  "strokePng": [
+    "images/lesson15/wangFuJing/wangFuJing-01.png",
+    "images/lesson15/wangFuJing/wangFuJing-02.png",
+    "images/lesson15/wangFuJing/wangFuJing-03.png",
+    "images/lesson15/wangFuJing/wangFuJing-04.png"
+  ],
+  "characterAnimated": "images/character-animated/wangFuJing.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06"
+  ]
 }

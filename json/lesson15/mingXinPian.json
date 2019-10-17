@@ -1,41 +1,45 @@
 {
-    "id":"mingXinPian",
-    "english":"míng xìn piàn",
-    "strokes":9,
-    "wordAudio":"audio/words/mingXinPian.mp3",
-    "mainGraphic":"images/lesson15/characters/mingXinPian.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3",
-      "audio/strokes/05.mp3",
-      "audio/strokes/06.mp3",
-      "audio/strokes/07.mp3",
-      "audio/strokes/08.mp3",
-      "audio/strokes/09.mp3"
-      ],
-    "strokePng":[
-      "images/lesson15/mingXinPian/mingXinPian-01.png",
-      "images/lesson15/mingXinPian/mingXinPian-02.png",
-      "images/lesson15/mingXinPian/mingXinPian-03.png",
-      "images/lesson15/mingXinPian/mingXinPian-04.png",
-      "images/lesson15/mingXinPian/mingXinPian-05.png",
-      "images/lesson15/mingXinPian/mingXinPian-06.png",
-      "images/lesson15/mingXinPian/mingXinPian-07.png",
-      "images/lesson15/mingXinPian/mingXinPian-08.png",
-      "images/lesson15/mingXinPian/mingXinPian-09.png"
-      ],
-    "characterAnimated":"images/character-animated/mingXinPian.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06",
-      "00:00:08",
-      "00:00:10",
-      "00:00:12",
-      "00:00:14",
-      "00:00:16"
-      ]
+  "id": "mingXinPian",
+  "english": "míng xìn piàn",
+  "strokes": 9,
+  "wordAudio": "audio/words/mingXinPian.mp3",
+  "mainGraphics": [
+    "images/lesson15/characters/mingXinPian-a.png",
+    "images/lesson15/characters/mingXinPian-b.png",
+    "images/lesson15/characters/mingXinPian-c.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3",
+    "audio/strokes/05.mp3",
+    "audio/strokes/06.mp3",
+    "audio/strokes/07.mp3",
+    "audio/strokes/08.mp3",
+    "audio/strokes/09.mp3"
+  ],
+  "strokePng": [
+    "images/lesson15/mingXinPian/mingXinPian-01.png",
+    "images/lesson15/mingXinPian/mingXinPian-02.png",
+    "images/lesson15/mingXinPian/mingXinPian-03.png",
+    "images/lesson15/mingXinPian/mingXinPian-04.png",
+    "images/lesson15/mingXinPian/mingXinPian-05.png",
+    "images/lesson15/mingXinPian/mingXinPian-06.png",
+    "images/lesson15/mingXinPian/mingXinPian-07.png",
+    "images/lesson15/mingXinPian/mingXinPian-08.png",
+    "images/lesson15/mingXinPian/mingXinPian-09.png"
+  ],
+  "characterAnimated": "images/character-animated/mingXinPian.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14",
+    "00:00:16"
+  ]
 }

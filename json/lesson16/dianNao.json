@@ -1,44 +1,47 @@
 {
-    "id":"dianNao",
-    "english":"diàn nǎo",
-    "strokes":10,
-    "wordAudio":"audio/words/dianNao.mp3",
-    "mainGraphic":"images/lesson16/characters/dianNao.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3",
-      "audio/strokes/05.mp3",
-      "audio/strokes/06.mp3",
-      "audio/strokes/07.mp3",
-      "audio/strokes/08.mp3",
-      "audio/strokes/09.mp3",
-      "audio/strokes/10.mp3"
-      ],
-    "strokePng":[
-      "images/lesson16/dianNao/dianNao-01.png",
-      "images/lesson16/dianNao/dianNao-02.png",
-      "images/lesson16/dianNao/dianNao-03.png",
-      "images/lesson16/dianNao/dianNao-04.png",
-      "images/lesson16/dianNao/dianNao-05.png",
-      "images/lesson16/dianNao/dianNao-06.png",
-      "images/lesson16/dianNao/dianNao-07.png",
-      "images/lesson16/dianNao/dianNao-08.png",
-      "images/lesson16/dianNao/dianNao-09.png",
-      "images/lesson16/dianNao/dianNao-10.png"
-      ],
-    "characterAnimated":"images/character-animated/dianNao.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06",
-      "00:00:08",
-      "00:00:10",
-      "00:00:12",
-      "00:00:14",
-      "00:00:16",
-      "00:00:18"
-      ]
+  "id": "dianNao",
+  "english": "diàn nǎo",
+  "strokes": 10,
+  "wordAudio": "audio/words/dianNao.mp3",
+  "mainGraphics": [
+    "images/lesson16/characters/dianNao-a.png",
+    "images/lesson16/characters/dianNao-b.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3",
+    "audio/strokes/05.mp3",
+    "audio/strokes/06.mp3",
+    "audio/strokes/07.mp3",
+    "audio/strokes/08.mp3",
+    "audio/strokes/09.mp3",
+    "audio/strokes/10.mp3"
+  ],
+  "strokePng": [
+    "images/lesson16/dianNao/dianNao-01.png",
+    "images/lesson16/dianNao/dianNao-02.png",
+    "images/lesson16/dianNao/dianNao-03.png",
+    "images/lesson16/dianNao/dianNao-04.png",
+    "images/lesson16/dianNao/dianNao-05.png",
+    "images/lesson16/dianNao/dianNao-06.png",
+    "images/lesson16/dianNao/dianNao-07.png",
+    "images/lesson16/dianNao/dianNao-08.png",
+    "images/lesson16/dianNao/dianNao-09.png",
+    "images/lesson16/dianNao/dianNao-10.png"
+  ],
+  "characterAnimated": "images/character-animated/dianNao.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14",
+    "00:00:16",
+    "00:00:18"
+  ]
 }

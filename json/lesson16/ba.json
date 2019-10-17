@@ -1,35 +1,37 @@
 {
-    "id":"ba",
-    "english":"bǎ",
-    "strokes":7,
-    "wordAudio":"audio/words/ba.mp3",
-    "mainGraphic":"images/lesson16/characters/ba.png",
-    "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3",
-      "audio/strokes/05.mp3",
-      "audio/strokes/06.mp3",
-      "audio/strokes/07.mp3"
-      ],
-    "strokePng":[
-      "images/lesson16/ba/ba-01.png",
-      "images/lesson16/ba/ba-02.png",
-      "images/lesson16/ba/ba-03.png",
-      "images/lesson16/ba/ba-04.png",
-      "images/lesson16/ba/ba-05.png",
-      "images/lesson16/ba/ba-06.png",
-      "images/lesson16/ba/ba-07.png"
-      ],
-    "characterAnimated":"images/character-animated/ba.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06",
-      "00:00:08",
-      "00:00:10",
-      "00:00:12"
-      ]
+  "id": "ba",
+  "english": "bǎ",
+  "strokes": 7,
+  "wordAudio": "audio/words/ba.mp3",
+  "mainGraphics": [
+    "images/lesson16/characters/ba.png"
+  ],
+  "strokeAudio": [
+    "audio/strokes/01.mp3",
+    "audio/strokes/02.mp3",
+    "audio/strokes/03.mp3",
+    "audio/strokes/04.mp3",
+    "audio/strokes/05.mp3",
+    "audio/strokes/06.mp3",
+    "audio/strokes/07.mp3"
+  ],
+  "strokePng": [
+    "images/lesson16/ba/ba-01.png",
+    "images/lesson16/ba/ba-02.png",
+    "images/lesson16/ba/ba-03.png",
+    "images/lesson16/ba/ba-04.png",
+    "images/lesson16/ba/ba-05.png",
+    "images/lesson16/ba/ba-06.png",
+    "images/lesson16/ba/ba-07.png"
+  ],
+  "characterAnimated": "images/character-animated/ba.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12"
+  ]
 }
