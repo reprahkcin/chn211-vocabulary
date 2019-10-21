@@ -8,7 +8,7 @@ var strokeNumber = 0;
 
 function preload(){
     directory = loadJSON('json/directory.json', ()=>{
-        object = loadJSON(directory.lesson.fifteen[3]);
+        object = loadJSON(directory.lesson.seventeen[6]);
     });
 }
 
