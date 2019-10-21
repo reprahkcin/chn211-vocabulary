@@ -1,0 +1,36 @@
+{
+    "id": "meiGuanXi",
+    "english": "méi guān xì",
+    "strokes": 6,
+    "wordAudio": "audio/words/meiGuanXi.mp3",
+    "mainGraphics": [
+        "images/lesson17/characters/meiGuanXi-a.png",
+        "images/lesson17/characters/meiGuanXi-b.png",
+        "images/lesson17/characters/meiGuanXi-c.png"
+    ],
+    "strokeAudio": [
+        "audio/strokes/01.mp3",
+        "audio/strokes/02.mp3",
+        "audio/strokes/03.mp3",
+        "audio/strokes/04.mp3",
+        "audio/strokes/05.mp3",
+        "audio/strokes/06.mp3"
+    ],
+    "strokePng": [
+        "images/lesson17/meiGuanXi/meiGuanXi-01.png",
+        "images/lesson17/meiGuanXi/meiGuanXi-02.png",
+        "images/lesson17/meiGuanXi/meiGuanXi-03.png",
+        "images/lesson17/meiGuanXi/meiGuanXi-04.png",
+        "images/lesson17/meiGuanXi/meiGuanXi-05.png",
+        "images/lesson17/meiGuanXi/meiGuanXi-06.png"
+    ],
+    "characterAnimated": "images/character-animated/meiGuanXi.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08",
+        "00:00:10"
+    ]
+}

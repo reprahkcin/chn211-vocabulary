@@ -1,0 +1,37 @@
+{
+    "id": "ji2",
+    "english": "jí",
+    "strokes": 7,
+    "wordAudio": "audio/words/ji2.mp3",
+    "mainGraphics": [
+        "images/lesson17/characters/ji2.png"
+    ],
+    "strokeAudio": [
+        "audio/strokes/01.mp3",
+        "audio/strokes/02.mp3",
+        "audio/strokes/03.mp3",
+        "audio/strokes/04.mp3",
+        "audio/strokes/05.mp3",
+        "audio/strokes/06.mp3",
+        "audio/strokes/07.mp3"
+    ],
+    "strokePng": [
+        "images/lesson17/ji2/ji2-01.png",
+        "images/lesson17/ji2/ji2-02.png",
+        "images/lesson17/ji2/ji2-03.png",
+        "images/lesson17/ji2/ji2-04.png",
+        "images/lesson17/ji2/ji2-05.png",
+        "images/lesson17/ji2/ji2-06.png",
+        "images/lesson17/ji2/ji2-07.png"
+    ],
+    "characterAnimated": "images/character-animated/ji2.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08",
+        "00:00:10",
+        "00:00:12"
+    ]
+}

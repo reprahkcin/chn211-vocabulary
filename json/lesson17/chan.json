@@ -1,0 +1,34 @@
+{
+    "id": "chan",
+    "english": "chǎn",
+    "strokes": 6,
+    "wordAudio": "audio/words/chan.mp3",
+    "mainGraphics": [
+        "images/lesson17/characters/chan.png"
+    ],
+    "strokeAudio": [
+        "audio/strokes/01.mp3",
+        "audio/strokes/02.mp3",
+        "audio/strokes/03.mp3",
+        "audio/strokes/04.mp3",
+        "audio/strokes/05.mp3",
+        "audio/strokes/06.mp3"
+    ],
+    "strokePng": [
+        "images/lesson17/chan/chan-01.png",
+        "images/lesson17/chan/chan-02.png",
+        "images/lesson17/chan/chan-03.png",
+        "images/lesson17/chan/chan-04.png",
+        "images/lesson17/chan/chan-05.png",
+        "images/lesson17/chan/chan-06.png"
+    ],
+    "characterAnimated": "images/character-animated/chan.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08",
+        "00:00:10"
+    ]
+}

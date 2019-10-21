@@ -1,0 +1,25 @@
+{
+    "id": "yi",
+    "english": "yǐ",
+    "strokes": 3,
+    "wordAudio": "audio/words/yi.mp3",
+    "mainGraphics": [
+        "images/lesson17/characters/yi.png"
+    ],
+    "strokeAudio": [
+        "audio/strokes/01.mp3",
+        "audio/strokes/02.mp3",
+        "audio/strokes/03.mp3"
+    ],
+    "strokePng": [
+        "images/lesson17/yi/yi-01.png",
+        "images/lesson17/yi/yi-02.png",
+        "images/lesson17/yi/yi-03.png"
+    ],
+    "characterAnimated": "images/character-animated/yi.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ji",
+    "english": "jí",
+    "strokes": 3,
+    "wordAudio": "audio/words/ji.mp3",
+    "mainGraphics": [
+        "images/lesson17/characters/ji.png"
+    ],
+    "strokeAudio": [
+        "audio/strokes/01.mp3",
+        "audio/strokes/02.mp3",
+        "audio/strokes/03.mp3"
+    ],
+    "strokePng": [
+        "images/lesson17/ji/ji-01.png",
+        "images/lesson17/ji/ji-02.png",
+        "images/lesson17/ji/ji-03.png"
+    ],
+    "characterAnimated": "images/character-animated/ji.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04"
+    ]
+}

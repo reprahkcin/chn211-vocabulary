@@ -1,0 +1,41 @@
+{
+    "id": "shangDian",
+    "english": "shāng diàn",
+    "strokes": 8,
+    "wordAudio": "audio/words/shangDian.mp3",
+    "mainGraphics": [
+        "images/lesson17/characters/shangDian-a.png",
+        "images/lesson17/characters/shangDian-b.png"
+    ],
+    "strokeAudio": [
+        "audio/strokes/01.mp3",
+        "audio/strokes/02.mp3",
+        "audio/strokes/03.mp3",
+        "audio/strokes/04.mp3",
+        "audio/strokes/05.mp3",
+        "audio/strokes/06.mp3",
+        "audio/strokes/07.mp3",
+        "audio/strokes/08.mp3"
+    ],
+    "strokePng": [
+        "images/lesson17/shangDian/shangDian-01.png",
+        "images/lesson17/shangDian/shangDian-02.png",
+        "images/lesson17/shangDian/shangDian-03.png",
+        "images/lesson17/shangDian/shangDian-04.png",
+        "images/lesson17/shangDian/shangDian-05.png",
+        "images/lesson17/shangDian/shangDian-06.png",
+        "images/lesson17/shangDian/shangDian-07.png",
+        "images/lesson17/shangDian/shangDian-08.png"
+    ],
+    "characterAnimated": "images/character-animated/shangDian.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08",
+        "00:00:10",
+        "00:00:12",
+        "00:00:14"
+    ]
+}
