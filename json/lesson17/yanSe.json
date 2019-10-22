@@ -3,6 +3,7 @@
     "english": "yán sè",
     "strokes": 21,
     "wordAudio": "audio/words/yanSe.mp3",
+    "importantCharacter":[0,1],
     "mainGraphics": [
         "images/lesson17/characters/yanSe-a.png",
         "images/lesson17/characters/yanSe-b.png"
