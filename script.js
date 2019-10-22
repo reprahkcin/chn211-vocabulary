@@ -4,8 +4,6 @@ var bg;
 var strokes = [];
 var strokeNumber = 0;
 
-
-
 function preload(){
     directory = loadJSON('json/directory.json', ()=>{
         object = loadJSON(directory.lesson.seventeen[6]);
@@ -36,6 +34,8 @@ function mousePressed(){
     if (strokeNumber > strokes.length) {
         strokeNumber = 0;
     }
+
+    simplifyTimecode(13);
 }
 
 function draw(){
@@ -46,4 +46,17 @@ function loadStroke(placeHolder){
     image(strokes[placeHolder], 0,0);
 }
 
+function simplifyTimecode(index){
+    var ts = 0;
+    try{
+        timecode = object.timecodes[index];
+        ts = timecode.split(":");
+        console.log(int(ts[2]));
+    }
+    catch(err){
+        console.log("doesn't exist, idiot");
+    }
+
+    return ts;
+}
 
