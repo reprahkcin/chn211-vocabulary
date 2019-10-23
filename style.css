@@ -2,3 +2,13 @@ div {
     border:1px solid red;
     min-height: 300px;
 }
+
+#video-div {
+    border:1px solid blue;
+}
+
+#video-object {
+    display: block;
+    margin: auto;
+    border:3px solid green;
+}
