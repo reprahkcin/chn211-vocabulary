@@ -5,8 +5,7 @@
   "wordAudio": "audio/words/zhongChong.mp3",
   "importantCharacter":[0],
   "mainGraphics": [
-    "images/lesson15/characters/zhongChong-a.png",
-    "images/lesson15/characters/zhongChong-b.png"
+    "images/lesson15/characters/zhongChong-a.png"
   ],
   "strokeAudio": [
     "audio/strokes/01.mp3",

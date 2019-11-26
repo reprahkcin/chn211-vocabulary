@@ -1,11 +1,11 @@
 {
-    "lesson": [
+    "character": [
         "json/lesson15/min.json",
         "json/lesson15/bi.json",
         "json/lesson15/gan.json",
         "json/lesson15/jiu.json",
         "json/lesson15/huan.json",
-        "json/lesson15/qui.json",
+        "json/lesson15/qiu.json",
         "json/lesson15/yong.json",
         "json/lesson15/che.json",
         "json/lesson15/zhongChong.json",
