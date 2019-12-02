@@ -1,11 +1,13 @@
 var lessonDirectory17;
 var objects = [];
+var docTable;
 
 function preload(){
     lessonDirectory17 = loadJSON('json/directory17.json');
 }
 
 function setup(){
+    docTable = document.getElementById('main');
     loadObjects(0);
 }
 
@@ -23,5 +25,7 @@ function loadObjects( i ){
 }
 
 function ready() {
-
+    for (let i = 0; i < objects.length; i++) {
+        buildRows( i );
+    }
 }
