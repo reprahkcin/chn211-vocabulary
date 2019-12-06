@@ -2,22 +2,23 @@
   "id": "nianQing",
   "english": "nián qīng",
   "strokes": 9,
-  "wordAudio": "audio/words/nianQing.mp3",
+  "wordAudio": "audio/lesson15/nianQing/word.mp3",
+  "phraseAudio": "audio/lesson15/nianQing/phrase.mp3",
   "importantCharacter":[1],
   "mainGraphics": [
     "images/lesson15/characters/nianQing-a.png",
     "images/lesson15/characters/nianQing-b.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3"
+    "audio/lesson15/nianQing/01.mp3",
+    "audio/lesson15/nianQing/02.mp3",
+    "audio/lesson15/nianQing/03.mp3",
+    "audio/lesson15/nianQing/04.mp3",
+    "audio/lesson15/nianQing/05.mp3",
+    "audio/lesson15/nianQing/06.mp3",
+    "audio/lesson15/nianQing/07.mp3",
+    "audio/lesson15/nianQing/08.mp3",
+    "audio/lesson15/nianQing/09.mp3"
   ],
   "strokePng": [
     "images/lesson15/nianQing/nianQing-01.png",

@@ -2,19 +2,20 @@
   "id": "canGuan",
   "english": "cān guān",
   "strokes": 6,
-  "wordAudio": "audio/words/canGuan.mp3",
+  "wordAudio": "audio/lesson15/canGuan/word.mp3",
+  "phraseAudio": "audio/lesson15/canGuan/phrase.mp3",
   "importantCharacter":[1],
   "mainGraphics": [
     "images/lesson15/characters/canGuan-a.png",
     "images/lesson15/characters/canGuan-b.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3"
+    "audio/lesson15/canGuan/01.mp3",
+    "audio/lesson15/canGuan/02.mp3",
+    "audio/lesson15/canGuan/03.mp3",
+    "audio/lesson15/canGuan/04.mp3",
+    "audio/lesson15/canGuan/05.mp3",
+    "audio/lesson15/canGuan/06.mp3"
   ],
   "strokePng": [
     "images/lesson15/canGuan/canGuan-01.png",

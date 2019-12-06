@@ -2,18 +2,19 @@
   "id": "zao",
   "english": "zǎo",
   "strokes": 6,
-  "wordAudio": "audio/words/zao.mp3",
+  "wordAudio": "audio/lesson15/zao/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson15/characters/zao.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3"
+    "audio/lesson15/zao/01.mp3",
+    "audio/lesson15/zao/02.mp3",
+    "audio/lesson15/zao/03.mp3",
+    "audio/lesson15/zao/04.mp3",
+    "audio/lesson15/zao/05.mp3",
+    "audio/lesson15/zao/06.mp3"
   ],
   "strokePng": [
     "images/lesson15/zao/zao-01.png",

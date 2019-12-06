@@ -2,20 +2,21 @@
   "id": "guan",
   "english": "guān",
   "strokes": 8,
-  "wordAudio": "audio/words/guan.mp3",
+  "wordAudio": "audio/lesson16/guan/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson16/characters/guan.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3"
+    "audio/lesson16/guan/01.mp3",
+    "audio/lesson16/guan/02.mp3",
+    "audio/lesson16/guan/03.mp3",
+    "audio/lesson16/guan/04.mp3",
+    "audio/lesson16/guan/05.mp3",
+    "audio/lesson16/guan/06.mp3",
+    "audio/lesson16/guan/07.mp3",
+    "audio/lesson16/guan/08.mp3"
   ],
   "strokePng": [
     "images/lesson16/guan/guan-01.png",

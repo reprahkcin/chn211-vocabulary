@@ -2,21 +2,22 @@
     "id": "shangDian",
     "english": "shāng diàn",
     "strokes": 8,
-    "wordAudio": "audio/words/shangDian.mp3",
+    "wordAudio": "audio/lesson17/shangDian/word.mp3",
+    "phraseAudio": "audio/lesson17/shangDian/phrase.mp3",
     "importantCharacter":[1],
     "mainGraphics": [
         "images/lesson17/characters/shangDian-a.png",
         "images/lesson17/characters/shangDian-b.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3",
-        "audio/strokes/04.mp3",
-        "audio/strokes/05.mp3",
-        "audio/strokes/06.mp3",
-        "audio/strokes/07.mp3",
-        "audio/strokes/08.mp3"
+        "audio/lesson17/shangDian/01.mp3",
+        "audio/lesson17/shangDian/02.mp3",
+        "audio/lesson17/shangDian/03.mp3",
+        "audio/lesson17/shangDian/04.mp3",
+        "audio/lesson17/shangDian/05.mp3",
+        "audio/lesson17/shangDian/06.mp3",
+        "audio/lesson17/shangDian/07.mp3",
+        "audio/lesson17/shangDian/08.mp3"
     ],
     "strokePng": [
         "images/lesson17/shangDian/shangDian-01.png",

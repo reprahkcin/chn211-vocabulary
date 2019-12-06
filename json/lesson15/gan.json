@@ -2,15 +2,16 @@
   "id": "gan",
   "english": "gàn",
   "strokes": 3,
-  "wordAudio": "audio/words/gan.mp3",
+  "wordAudio": "audio/lesson15/gan/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson15/characters/gan.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3"
+    "audio/lesson15/gan/01.mp3",
+    "audio/lesson15/gan/02.mp3",
+    "audio/lesson15/gan/03.mp3"
   ],
   "strokePng": [
     "images/lesson15/gan/gan-01.png",

@@ -18,6 +18,11 @@
     width:33%;
 }
 
+.audio-buttons{
+    width:33%;
+    display: inline;
+}
+
 .character-row{
     margin-bottom: 15px;
     padding-top:15px;

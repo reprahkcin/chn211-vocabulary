@@ -2,19 +2,20 @@
   "id": "xiAn",
   "english": "xī ān",
   "strokes": 6,
-  "wordAudio": "audio/words/xiAn.mp3",
+  "wordAudio": "audio/lesson15/xiAn/word.mp3",
+  "phraseAudio": "audio/lesson15/xiAn/phrase.mp3",
   "importantCharacter":[1],
   "mainGraphics": [
     "images/lesson15/characters/xiAn-a.png",
     "images/lesson15/characters/xiAn-b.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3"
+    "audio/lesson15/xiAn/01.mp3",
+    "audio/lesson15/xiAn/02.mp3",
+    "audio/lesson15/xiAn/03.mp3",
+    "audio/lesson15/xiAn/04.mp3",
+    "audio/lesson15/xiAn/05.mp3",
+    "audio/lesson15/xiAn/06.mp3"
   ],
   "strokePng": [
     "images/lesson15/xiAn/xiAn-01.png",

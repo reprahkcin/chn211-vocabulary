@@ -2,17 +2,18 @@
     "id": "shuai",
     "english": "shuài",
     "strokes": 5,
-    "wordAudio": "audio/words/shuai.mp3",
+    "wordAudio": "audio/lesson17/shuai/word.mp3",
+    "phraseAudio": "",
     "importantCharacter":[0],
     "mainGraphics": [
         "images/lesson17/characters/shuai.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3",
-        "audio/strokes/04.mp3",
-        "audio/strokes/05.mp3"
+        "audio/lesson17/shuai/01.mp3",
+        "audio/lesson17/shuai/02.mp3",
+        "audio/lesson17/shuai/03.mp3",
+        "audio/lesson17/shuai/04.mp3",
+        "audio/lesson17/shuai/05.mp3"
     ],
     "strokePng": [
         "images/lesson17/shuai/shuai-01.png",

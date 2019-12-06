@@ -2,23 +2,24 @@
   "id": "liuLi",
   "english": "liú lì",
   "strokes": 10,
-  "wordAudio": "audio/words/liuLi.mp3",
+  "wordAudio": "audio/lesson15/liuLi/word.mp3",
+  "phraseAudio": "audio/lesson15/liuLi/phrase.mp3",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson15/characters/liuLi-a.png",
     "images/lesson15/characters/liuLi-b.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3",
-    "audio/strokes/10.mp3"
+    "audio/lesson15/liuLi/01.mp3",
+    "audio/lesson15/liuLi/02.mp3",
+    "audio/lesson15/liuLi/03.mp3",
+    "audio/lesson15/liuLi/04.mp3",
+    "audio/lesson15/liuLi/05.mp3",
+    "audio/lesson15/liuLi/06.mp3",
+    "audio/lesson15/liuLi/07.mp3",
+    "audio/lesson15/liuLi/08.mp3",
+    "audio/lesson15/liuLi/09.mp3",
+    "audio/lesson15/liuLi/10.mp3"
   ],
   "strokePng": [
     "images/lesson15/liuLi/liuLi-01.png",

@@ -2,21 +2,22 @@
   "id": "shiYong",
   "english": "shí yòng",
   "strokes": 8,
-  "wordAudio": "audio/words/shiYong.mp3",
+  "wordAudio":"audio/lesson16/shiYong/word.mp3",
+    "phraseAudio": "audio/lesson16/shiYong/phrase.mp3",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson16/characters/shiYong-a.png",
     "images/lesson16/characters/shiYong-b.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3"
+    "audio/lesson16/shiYong/01.mp3",
+    "audio/lesson16/shiYong/02.mp3",
+    "audio/lesson16/shiYong/03.mp3",
+    "audio/lesson16/shiYong/04.mp3",
+    "audio/lesson16/shiYong/05.mp3",
+    "audio/lesson16/shiYong/06.mp3",
+    "audio/lesson16/shiYong/07.mp3",
+    "audio/lesson16/shiYong/08.mp3"
   ],
   "strokePng": [
     "images/lesson16/shiYong/shiYong-01.png",

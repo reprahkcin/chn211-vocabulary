@@ -2,24 +2,25 @@
   "id": "jiu2",
   "english": "jiù",
   "strokes": 12,
-  "wordAudio": "audio/words/jiu2.mp3",
+  "wordAudio": "audio/lesson15/jiu2/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson15/characters/jiu2.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3",
-    "audio/strokes/10.mp3",
-    "audio/strokes/11.mp3",
-    "audio/strokes/12.mp3"
+    "audio/lesson15/jiu2/01.mp3",
+    "audio/lesson15/jiu2/02.mp3",
+    "audio/lesson15/jiu2/03.mp3",
+    "audio/lesson15/jiu2/04.mp3",
+    "audio/lesson15/jiu2/05.mp3",
+    "audio/lesson15/jiu2/06.mp3",
+    "audio/lesson15/jiu2/07.mp3",
+    "audio/lesson15/jiu2/08.mp3",
+    "audio/lesson15/jiu2/09.mp3",
+    "audio/lesson15/jiu2/10.mp3",
+    "audio/lesson15/jiu2/11.mp3",
+    "audio/lesson15/jiu2/12.mp3"
   ],
   "strokePng": [
     "images/lesson15/jiu2/jiu2-01.png",

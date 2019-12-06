@@ -2,16 +2,17 @@
   "id": "cong",
   "english": "cóng",
   "strokes": 4,
-  "wordAudio": "audio/words/cong.mp3",
+  "wordAudio": "audio/lesson15/cong/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson15/characters/cong.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3"
+    "audio/lesson15/cong/01.mp3",
+    "audio/lesson15/cong/02.mp3",
+    "audio/lesson15/cong/03.mp3",
+    "audio/lesson15/cong/04.mp3"
   ],
   "strokePng": [
     "images/lesson15/cong/cong-01.png",

@@ -2,7 +2,8 @@
   "id": "jieShuZheng",
   "english": "jiè shū zhèng",
   "strokes": 10,
-  "wordAudio": "audio/words/jieShuZheng.mp3",
+  "wordAudio":"audio/lesson16/jieShuZheng/word.mp3",
+    "phraseAudio": "audio/lesson16/jieShuZheng/phrase.mp3",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson16/characters/jieShuZheng-a.png",
@@ -10,16 +11,16 @@
     "images/lesson16/characters/jieShuZheng-c.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3",
-    "audio/strokes/10.mp3"
+    "audio/lesson16/jieShuZheng/01.mp3",
+    "audio/lesson16/jieShuZheng/02.mp3",
+    "audio/lesson16/jieShuZheng/03.mp3",
+    "audio/lesson16/jieShuZheng/04.mp3",
+    "audio/lesson16/jieShuZheng/05.mp3",
+    "audio/lesson16/jieShuZheng/06.mp3",
+    "audio/lesson16/jieShuZheng/07.mp3",
+    "audio/lesson16/jieShuZheng/08.mp3",
+    "audio/lesson16/jieShuZheng/09.mp3",
+    "audio/lesson16/jieShuZheng/10.mp3"
   ],
   "strokePng": [
     "images/lesson16/jieShuZheng/jieShuZheng-01.png",

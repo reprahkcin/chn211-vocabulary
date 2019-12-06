@@ -2,22 +2,23 @@
   "id": "chaShi",
   "english": "chá shí",
   "strokes": 9,
-  "wordAudio": "audio/words/chaShi.mp3",
+  "wordAudio":"audio/lesson16/chaShi/word.mp3",
+    "phraseAudio": "audio/lesson16/chaShi/phrase.mp3",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson16/characters/chaShi-a.png",
     "images/lesson16/characters/chaShi-b.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3"
+    "audio/lesson16/chaShi/01.mp3",
+    "audio/lesson16/chaShi/02.mp3",
+    "audio/lesson16/chaShi/03.mp3",
+    "audio/lesson16/chaShi/04.mp3",
+    "audio/lesson16/chaShi/05.mp3",
+    "audio/lesson16/chaShi/06.mp3",
+    "audio/lesson16/chaShi/07.mp3",
+    "audio/lesson16/chaShi/08.mp3",
+    "audio/lesson16/chaShi/09.mp3"
   ],
   "strokePng": [
     "images/lesson16/chaShi/chaShi-01.png",

@@ -2,18 +2,19 @@
   "id": "shi",
   "english": "shì",
   "strokes": 6,
-  "wordAudio": "audio/words/shi.mp3",
+  "wordAudio": "audio/lesson16/shi/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson16/characters/shi.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3"
+    "audio/lesson16/shi/01.mp3",
+    "audio/lesson16/shi/02.mp3",
+    "audio/lesson16/shi/03.mp3",
+    "audio/lesson16/shi/04.mp3",
+    "audio/lesson16/shi/05.mp3",
+    "audio/lesson16/shi/06.mp3"
   ],
   "strokePng": [
     "images/lesson16/shi/shi-01.png",

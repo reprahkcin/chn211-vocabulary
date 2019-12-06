@@ -2,23 +2,24 @@
   "id": "dianNao",
   "english": "diàn nǎo",
   "strokes": 10,
-  "wordAudio": "audio/words/dianNao.mp3",
+  "wordAudio":"audio/lesson16/dianNao/word.mp3",
+    "phraseAudio": "audio/lesson16/dianNao/phrase.mp3",
   "importantCharacter":[1],
   "mainGraphics": [
     "images/lesson16/characters/dianNao-a.png",
     "images/lesson16/characters/dianNao-b.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3",
-    "audio/strokes/10.mp3"
+    "audio/lesson16/dianNao/01.mp3",
+    "audio/lesson16/dianNao/02.mp3",
+    "audio/lesson16/dianNao/03.mp3",
+    "audio/lesson16/dianNao/04.mp3",
+    "audio/lesson16/dianNao/05.mp3",
+    "audio/lesson16/dianNao/06.mp3",
+    "audio/lesson16/dianNao/07.mp3",
+    "audio/lesson16/dianNao/08.mp3",
+    "audio/lesson16/dianNao/09.mp3",
+    "audio/lesson16/dianNao/10.mp3"
   ],
   "strokePng": [
     "images/lesson16/dianNao/dianNao-01.png",

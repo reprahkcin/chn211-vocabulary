@@ -2,17 +2,18 @@
   "id": "zheng",
   "english": "zhèng",
   "strokes": 5,
-  "wordAudio": "audio/words/zheng.mp3",
+  "wordAudio": "audio/lesson16/zheng/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson16/characters/zheng.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3"
+    "audio/lesson16/zheng/01.mp3",
+    "audio/lesson16/zheng/02.mp3",
+    "audio/lesson16/zheng/03.mp3",
+    "audio/lesson16/zheng/04.mp3",
+    "audio/lesson16/zheng/05.mp3"
   ],
   "strokePng": [
     "images/lesson16/zheng/zheng-01.png",

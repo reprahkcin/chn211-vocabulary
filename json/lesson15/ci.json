@@ -2,18 +2,19 @@
   "id": "ci",
   "english": "cì",
   "strokes": 6,
-  "wordAudio": "audio/words/ci.mp3",
+  "wordAudio": "audio/lesson15/ci/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson15/characters/ci.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3"
+    "audio/lesson15/ci/01.mp3",
+    "audio/lesson15/ci/02.mp3",
+    "audio/lesson15/ci/03.mp3",
+    "audio/lesson15/ci/04.mp3",
+    "audio/lesson15/ci/05.mp3",
+    "audio/lesson15/ci/06.mp3"
   ],
   "strokePng": [
     "images/lesson15/ci/ci-01.png",

@@ -2,18 +2,19 @@
   "id": "jiao",
   "english": "jiāo",
   "strokes": 6,
-  "wordAudio": "audio/words/jiao.mp3",
+  "wordAudio": "audio/lesson16/jiao/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson16/characters/jiao.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3"
+    "audio/lesson16/jiao/01.mp3",
+    "audio/lesson16/jiao/02.mp3",
+    "audio/lesson16/jiao/03.mp3",
+    "audio/lesson16/jiao/04.mp3",
+    "audio/lesson16/jiao/05.mp3",
+    "audio/lesson16/jiao/06.mp3"
   ],
   "strokePng": [
     "images/lesson16/jiao/jiao-01.png",

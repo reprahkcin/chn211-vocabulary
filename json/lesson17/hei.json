@@ -2,24 +2,25 @@
     "id": "hei",
     "english": "hēi",
     "strokes": 12,
-    "wordAudio": "audio/words/hei.mp3",
+    "wordAudio": "audio/lesson17/hei/word.mp3",
+    "phraseAudio": "",
     "importantCharacter":[0],
     "mainGraphics": [
         "images/lesson17/characters/hei.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3",
-        "audio/strokes/04.mp3",
-        "audio/strokes/05.mp3",
-        "audio/strokes/06.mp3",
-        "audio/strokes/07.mp3",
-        "audio/strokes/08.mp3",
-        "audio/strokes/09.mp3",
-        "audio/strokes/10.mp3",
-        "audio/strokes/11.mp3",
-        "audio/strokes/12.mp3"
+        "audio/lesson17/hei/01.mp3",
+        "audio/lesson17/hei/02.mp3",
+        "audio/lesson17/hei/03.mp3",
+        "audio/lesson17/hei/04.mp3",
+        "audio/lesson17/hei/05.mp3",
+        "audio/lesson17/hei/06.mp3",
+        "audio/lesson17/hei/07.mp3",
+        "audio/lesson17/hei/08.mp3",
+        "audio/lesson17/hei/09.mp3",
+        "audio/lesson17/hei/10.mp3",
+        "audio/lesson17/hei/11.mp3",
+        "audio/lesson17/hei/12.mp3"
     ],
     "strokePng": [
         "images/lesson17/hei/hei-01.png",

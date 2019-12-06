@@ -2,7 +2,8 @@
     "id": "taiJiQuan",
     "english": "tài jí quán",
     "strokes": 10,
-    "wordAudio": "audio/words/taiJiQuan.mp3",
+    "wordAudio": "audio/lesson17/taiJiQuan/word.mp3",
+    "phraseAudio": "audio/lesson17/taiJiQuan/phrase.mp3",
     "importantCharacter":[2],
     "mainGraphics": [
         "images/lesson17/characters/taiJiQuan-a.png",
@@ -10,16 +11,16 @@
         "images/lesson17/characters/taiJiQuan-c.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3",
-        "audio/strokes/04.mp3",
-        "audio/strokes/05.mp3",
-        "audio/strokes/06.mp3",
-        "audio/strokes/07.mp3",
-        "audio/strokes/08.mp3",
-        "audio/strokes/09.mp3",
-        "audio/strokes/10.mp3"
+        "audio/lesson17/taiJiQuan/01.mp3",
+        "audio/lesson17/taiJiQuan/02.mp3",
+        "audio/lesson17/taiJiQuan/03.mp3",
+        "audio/lesson17/taiJiQuan/04.mp3",
+        "audio/lesson17/taiJiQuan/05.mp3",
+        "audio/lesson17/taiJiQuan/06.mp3",
+        "audio/lesson17/taiJiQuan/07.mp3",
+        "audio/lesson17/taiJiQuan/08.mp3",
+        "audio/lesson17/taiJiQuan/09.mp3",
+        "audio/lesson17/taiJiQuan/10.mp3"
     ],
     "strokePng": [
         "images/lesson17/taiJiQuan/taiJiQuan-01.png",

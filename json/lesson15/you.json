@@ -2,16 +2,17 @@
   "id": "you",
   "english": "yóu",
   "strokes": 4,
-  "wordAudio": "audio/words/you.mp3",
+  "wordAudio": "audio/lesson15/you/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson15/characters/you.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3"
+    "audio/lesson15/you/01.mp3",
+    "audio/lesson15/you/02.mp3",
+    "audio/lesson15/you/03.mp3",
+    "audio/lesson15/you/04.mp3"
   ],
   "strokePng": [
     "images/lesson15/you/you-01.png",

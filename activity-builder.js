@@ -33,12 +33,18 @@ function buildRows(i) {
     // END TITLE ROW
 
 
+
+    // CONTENT ROW
     var row = document.createElement('div');
-    row.setAttribute('class', 'row character-row');
+    row.setAttribute('class', 'row character-row'); // classify the row for formatting and layout
 
-    row.setAttribute('id', objects[i].id);
-    docTable.appendChild(row);
+    row.setAttribute('id', objects[i].id); // give the row an id
+    docTable.appendChild(row); // add each row to the doc
+    // END CONTENT ROW
 
+
+
+    // FIRST COLUMN
     var col1 = document.createElement('div');
     col1.setAttribute('class', 'col-sm');
     row.appendChild(col1);
@@ -54,7 +60,11 @@ function buildRows(i) {
         }
         col1.appendChild(mainGraphic);
     }
+    // END FIRST COLUMN
 
+
+
+    // SECOND COLUMN
     var col2 = document.createElement('div');
     col2.setAttribute('class', 'col-sm');
     row.appendChild(col2);
@@ -63,7 +73,31 @@ function buildRows(i) {
     importantCharacter.setAttribute('width', '100%');
     col2.appendChild(importantCharacter);
 
+    var wordAudio = document.createElement('audio')
+    wordAudio.setAttribute('src', objects[i].wordAudio);
+    wordAudio.setAttribute('id', objects[i].id + '-aud');
+    col2.appendChild(wordAudio);
 
+    var playWordBtn = document.createElement('button');
+    playWordBtn.setAttribute('type', 'button');
+    playWordBtn.setAttribute('class', 'btn btn-secondary audio-buttons');
+    playWordBtn.setAttribute('audio-id', objects[i].id + '-aud');
+    var wordAudioId = objects[i].id + '-aud';
+    playWordBtn.onclick = function () {
+        playAudio(wordAudioId)
+    };
+    var btnText2 = document.createTextNode('>');
+    playWordBtn.appendChild(btnText2);
+
+
+    col2.appendChild(playWordBtn);
+
+
+    // END SECOND COLUMN
+
+
+
+    // THIRD COLUMN
     var col3 = document.createElement('div');
     var divName = objects[i].id + '-stroke';
     col3.setAttribute('class', 'col-sm');
@@ -77,7 +111,10 @@ function buildRows(i) {
         swapStroke(objects[i].id)
     };
     col3.appendChild(strokeGraphic);
+    // END THIRD COLUMN
 
+
+    // FOURTH COLUMN
     var col4 = document.createElement('div');
     col4.setAttribute('class', 'col-sm');
     row.appendChild(col4);
@@ -98,7 +135,6 @@ function buildRows(i) {
     backbtn.appendChild(btnText1);
     col4.appendChild(backbtn);
 
-
     var playbtn = document.createElement('button');
     playbtn.setAttribute('type', 'button');
     playbtn.setAttribute('class', 'btn btn-secondary video-buttons');
@@ -111,19 +147,29 @@ function buildRows(i) {
     playbtn.appendChild(btnText2);
     col4.appendChild(playbtn);
 
-
     var fwdbtn = document.createElement('button');
     fwdbtn.setAttribute('type', 'button');
     fwdbtn.setAttribute('class', 'btn btn-secondary video-buttons');
     var btnText3 = document.createTextNode('>|');
     fwdbtn.appendChild(btnText3);
     col4.appendChild(fwdbtn);
+    // END FOURTH COLUMN
+
 }
 
 function playVideo(id) {
     var video = document.getElementById(id);
 
     video.play();
+
+}
+
+function playAudio(id) {
+    var audio = document.getElementById(id);
+    audio.play();
+}
+
+function playPhrase(phraseAudio){
 
 }
 

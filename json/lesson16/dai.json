@@ -2,21 +2,22 @@
   "id": "dai",
   "english": "dài",
   "strokes": 9,
-  "wordAudio": "audio/words/dai.mp3",
+  "wordAudio": "audio/lesson16/dai/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson16/characters/dai.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3"
+    "audio/lesson16/dai/01.mp3",
+    "audio/lesson16/dai/02.mp3",
+    "audio/lesson16/dai/03.mp3",
+    "audio/lesson16/dai/04.mp3",
+    "audio/lesson16/dai/05.mp3",
+    "audio/lesson16/dai/06.mp3",
+    "audio/lesson16/dai/07.mp3",
+    "audio/lesson16/dai/08.mp3",
+    "audio/lesson16/dai/09.mp3"
   ],
   "strokePng": [
     "images/lesson16/dai/dai-01.png",

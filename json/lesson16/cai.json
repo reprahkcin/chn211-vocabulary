@@ -2,20 +2,21 @@
   "id": "cai",
   "english": "cǎi",
   "strokes": 8,
-  "wordAudio": "audio/words/cai.mp3",
+  "wordAudio": "audio/lesson16/cai/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson16/characters/cai.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3"
+    "audio/lesson16/cai/01.mp3",
+    "audio/lesson16/cai/02.mp3",
+    "audio/lesson16/cai/03.mp3",
+    "audio/lesson16/cai/04.mp3",
+    "audio/lesson16/cai/05.mp3",
+    "audio/lesson16/cai/06.mp3",
+    "audio/lesson16/cai/07.mp3",
+    "audio/lesson16/cai/08.mp3"
   ],
   "strokePng": [
     "images/lesson16/cai/cai-01.png",

@@ -2,7 +2,8 @@
   "id": "mingXinPian",
   "english": "míng xìn piàn",
   "strokes": 9,
-  "wordAudio": "audio/words/mingXinPian.mp3",
+  "wordAudio": "audio/lesson15/mingXinPian/word.mp3",
+  "phraseAudio": "audio/lesson15/mingXinPian/phrase.mp3",
   "importantCharacter":[1],
   "mainGraphics": [
     "images/lesson15/characters/mingXinPian-a.png",
@@ -10,15 +11,15 @@
     "images/lesson15/characters/mingXinPian-c.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3"
+    "audio/lesson15/mingXinPian/01.mp3",
+    "audio/lesson15/mingXinPian/02.mp3",
+    "audio/lesson15/mingXinPian/03.mp3",
+    "audio/lesson15/mingXinPian/04.mp3",
+    "audio/lesson15/mingXinPian/05.mp3",
+    "audio/lesson15/mingXinPian/06.mp3",
+    "audio/lesson15/mingXinPian/07.mp3",
+    "audio/lesson15/mingXinPian/08.mp3",
+    "audio/lesson15/mingXinPian/09.mp3"
   ],
   "strokePng": [
     "images/lesson15/mingXinPian/mingXinPian-01.png",

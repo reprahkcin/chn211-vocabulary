@@ -2,21 +2,22 @@
   "id": "zhongChong",
   "english": "zhòng/chóng",
   "strokes": 9,
-  "wordAudio": "audio/words/zhongChong.mp3",
+  "wordAudio": "audio/lesson15/zhong/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson15/characters/zhongChong-a.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3"
+    "audio/lesson15/zhong/01.mp3",
+    "audio/lesson15/zhong/02.mp3",
+    "audio/lesson15/zhong/03.mp3",
+    "audio/lesson15/zhong/04.mp3",
+    "audio/lesson15/zhong/05.mp3",
+    "audio/lesson15/zhong/06.mp3",
+    "audio/lesson15/zhong/07.mp3",
+    "audio/lesson15/zhong/08.mp3",
+    "audio/lesson15/zhong/09.mp3"
   ],
   "strokePng": [
     "images/lesson15/zhongChong/zhongChong-01.png",

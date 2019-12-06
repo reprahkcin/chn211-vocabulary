@@ -2,15 +2,16 @@
     "id": "yi",
     "english": "yǐ",
     "strokes": 3,
-    "wordAudio": "audio/words/yi.mp3",
+    "wordAudio": "audio/lesson17/yi/word.mp3",
+    "phraseAudio": "",
     "importantCharacter":[0],
     "mainGraphics": [
         "images/lesson17/characters/yi.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3"
+        "audio/lesson17/yi/01.mp3",
+        "audio/lesson17/yi/02.mp3",
+        "audio/lesson17/yi/03.mp3"
     ],
     "strokePng": [
         "images/lesson17/yi/yi-01.png",

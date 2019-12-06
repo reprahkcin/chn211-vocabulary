@@ -2,19 +2,20 @@
     "id": "heShi",
     "english": "hé shì",
     "strokes": 6,
-    "wordAudio": "audio/words/heShi.mp3",
+    "wordAudio": "audio/lesson17/heShi/word.mp3",
+    "phraseAudio": "audio/lesson17/heShi/phrase.mp3",
     "importantCharacter":[0],
     "mainGraphics": [
         "images/lesson17/characters/heShi-a.png",
         "images/lesson17/characters/heShi-b.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3",
-        "audio/strokes/04.mp3",
-        "audio/strokes/05.mp3",
-        "audio/strokes/06.mp3"
+        "audio/lesson17/heShi/01.mp3",
+        "audio/lesson17/heShi/02.mp3",
+        "audio/lesson17/heShi/03.mp3",
+        "audio/lesson17/heShi/04.mp3",
+        "audio/lesson17/heShi/05.mp3",
+        "audio/lesson17/heShi/06.mp3"
     ],
     "strokePng": [
         "images/lesson17/heShi/heShi-01.png",

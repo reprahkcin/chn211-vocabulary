@@ -2,24 +2,25 @@
     "id":"zhiYe",
     "english":"zhí yè",
     "strokes":11,
-    "wordAudio":"audio/words/zhiYe.mp3",
+    "wordAudio":"audio/lesson16/zhiYe/word.mp3",
+    "phraseAudio": "audio/lesson16/zhiYe/phrase.mp3",
     "importantCharacter":[0],
     "mainGraphics":[
       "images/lesson16/characters/zhiYe-a.png",
       "images/lesson16/characters/zhiYe-b.png"
     ],
     "strokeAudio":[
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3",
-      "audio/strokes/05.mp3",
-      "audio/strokes/06.mp3",
-      "audio/strokes/07.mp3",
-      "audio/strokes/08.mp3",
-      "audio/strokes/09.mp3",
-      "audio/strokes/10.mp3",
-      "audio/strokes/11.mp3"
+      "audio/lesson16/zhiYe/01.mp3",
+      "audio/lesson16/zhiYe/02.mp3",
+      "audio/lesson16/zhiYe/03.mp3",
+      "audio/lesson16/zhiYe/04.mp3",
+      "audio/lesson16/zhiYe/05.mp3",
+      "audio/lesson16/zhiYe/06.mp3",
+      "audio/lesson16/zhiYe/07.mp3",
+      "audio/lesson16/zhiYe/08.mp3",
+      "audio/lesson16/zhiYe/09.mp3",
+      "audio/lesson16/zhiYe/10.mp3",
+      "audio/lesson16/zhiYe/11.mp3"
       ],
     "strokePng":[
       "images/lesson16/zhiYe/zhiYe-01.png",

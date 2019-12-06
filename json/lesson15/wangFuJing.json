@@ -2,7 +2,8 @@
   "id": "wangFuJing",
   "english": "wáng fǔ jǐng",
   "strokes": 4,
-  "wordAudio": "audio/words/wangFuJing.mp3",
+  "wordAudio": "audio/lesson15/wangFuJing/word.mp3",
+  "phraseAudio": "audio/lesson15/wangFuJing/phrase.mp3",
   "importantCharacter":[2],
   "mainGraphics": [
     "images/lesson15/characters/wangFuJing-a.png",
@@ -10,10 +11,10 @@
     "images/lesson15/characters/wangFuJing-c.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3"
+    "audio/lesson15/wangFuJing/01.mp3",
+    "audio/lesson15/wangFuJing/02.mp3",
+    "audio/lesson15/wangFuJing/03.mp3",
+    "audio/lesson15/wangFuJing/04.mp3"
   ],
   "strokePng": [
     "images/lesson15/wangFuJing/wangFuJing-01.png",

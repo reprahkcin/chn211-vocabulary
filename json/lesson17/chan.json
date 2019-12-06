@@ -2,18 +2,19 @@
     "id": "chan",
     "english": "chǎn",
     "strokes": 6,
-    "wordAudio": "audio/words/chan.mp3",
+    "wordAudio": "audio/lesson17/chan/word.mp3",
+    "phraseAudio": "",
     "importantCharacter":[0],
     "mainGraphics": [
         "images/lesson17/characters/chan.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3",
-        "audio/strokes/04.mp3",
-        "audio/strokes/05.mp3",
-        "audio/strokes/06.mp3"
+        "audio/lesson17/chan/01.mp3",
+        "audio/lesson17/chan/02.mp3",
+        "audio/lesson17/chan/03.mp3",
+        "audio/lesson17/chan/04.mp3",
+        "audio/lesson17/chan/05.mp3",
+        "audio/lesson17/chan/06.mp3"
     ],
     "strokePng": [
         "images/lesson17/chan/chan-01.png",

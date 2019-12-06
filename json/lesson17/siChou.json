@@ -2,24 +2,25 @@
     "id": "siChou",
     "english": "sī chóu",
     "strokes": 11,
-    "wordAudio": "audio/words/siChou.mp3",
+    "wordAudio": "audio/lesson17/siChou/word.mp3",
+    "phraseAudio": "audio/lesson17/siChou/phrase.mp3",
     "importantCharacter":[1],
     "mainGraphics": [
         "images/lesson17/characters/siChou-a.png",
         "images/lesson17/characters/siChou-b.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3",
-        "audio/strokes/04.mp3",
-        "audio/strokes/05.mp3",
-        "audio/strokes/06.mp3",
-        "audio/strokes/07.mp3",
-        "audio/strokes/08.mp3",
-        "audio/strokes/09.mp3",
-        "audio/strokes/10.mp3",
-        "audio/strokes/11.mp3"
+        "audio/lesson17/siChou/01.mp3",
+        "audio/lesson17/siChou/02.mp3",
+        "audio/lesson17/siChou/03.mp3",
+        "audio/lesson17/siChou/04.mp3",
+        "audio/lesson17/siChou/05.mp3",
+        "audio/lesson17/siChou/06.mp3",
+        "audio/lesson17/siChou/07.mp3",
+        "audio/lesson17/siChou/08.mp3",
+        "audio/lesson17/siChou/09.mp3",
+        "audio/lesson17/siChou/10.mp3",
+        "audio/lesson17/siChou/11.mp3"
     ],
     "strokePng": [
         "images/lesson17/siChou/siChou-01.png",

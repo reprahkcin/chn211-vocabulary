@@ -2,16 +2,17 @@
   "id": "sa",
   "english": "sà",
   "strokes": 4,
-  "wordAudio": "audio/words/sa.mp3",
+  "wordAudio": "audio/lesson16/sa/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson16/characters/sa.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3"
+    "audio/lesson16/sa/01.mp3",
+    "audio/lesson16/sa/02.mp3",
+    "audio/lesson16/sa/03.mp3",
+    "audio/lesson16/sa/04.mp3"
   ],
   "strokePng": [
     "images/lesson16/sa/sa-01.png",

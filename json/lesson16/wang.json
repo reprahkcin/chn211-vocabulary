@@ -2,19 +2,20 @@
   "id": "wang",
   "english": "wàng",
   "strokes": 7,
-  "wordAudio": "audio/words/wang.mp3",
+  "wordAudio": "audio/lesson16/wang/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson16/characters/wang.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3"
+    "audio/lesson16/wang/01.mp3",
+    "audio/lesson16/wang/02.mp3",
+    "audio/lesson16/wang/03.mp3",
+    "audio/lesson16/wang/04.mp3",
+    "audio/lesson16/wang/05.mp3",
+    "audio/lesson16/wang/06.mp3",
+    "audio/lesson16/wang/07.mp3"
   ],
   "strokePng": [
     "images/lesson16/wang/wang-01.png",

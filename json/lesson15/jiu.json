@@ -2,15 +2,16 @@
   "id": "jiu",
   "english": "jiǔ",
   "strokes": 3,
-  "wordAudio": "audio/words/jiu.mp3",
+  "wordAudio": "audio/lesson15/jiu/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson15/characters/jiu.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3"
+    "audio/lesson15/jiu/01.mp3",
+    "audio/lesson15/jiu/02.mp3",
+    "audio/lesson15/jiu/03.mp3"
   ],
   "strokePng": [
     "images/lesson15/jiu/jiu-01.png",

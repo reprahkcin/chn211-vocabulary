@@ -2,16 +2,17 @@
   "id": "che",
   "english": "chē",
   "strokes": 4,
-  "wordAudio": "audio/words/che.mp3",
+  "wordAudio": "audio/lesson15/che/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson15/characters/che.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3"
+    "audio/lesson15/che/01.mp3",
+    "audio/lesson15/che/02.mp3",
+    "audio/lesson15/che/03.mp3",
+    "audio/lesson15/che/04.mp3"
   ],
   "strokePng": [
     "images/lesson15/che/che-01.png",

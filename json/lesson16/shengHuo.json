@@ -2,22 +2,23 @@
   "id": "shengHuo",
   "english": "shēng huó",
   "strokes": 9,
-  "wordAudio": "audio/words/shengHuo.mp3",
+  "wordAudio":"audio/lesson16/shengHuo/word.mp3",
+    "phraseAudio": "audio/lesson16/shengHuo/phrase.mp3",
   "importantCharacter":[1],
   "mainGraphics": [
     "images/lesson16/characters/shengHuo-a.png",
     "images/lesson16/characters/shengHuo-b.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3"
+    "audio/lesson16/shengHuo/01.mp3",
+    "audio/lesson16/shengHuo/02.mp3",
+    "audio/lesson16/shengHuo/03.mp3",
+    "audio/lesson16/shengHuo/04.mp3",
+    "audio/lesson16/shengHuo/05.mp3",
+    "audio/lesson16/shengHuo/06.mp3",
+    "audio/lesson16/shengHuo/07.mp3",
+    "audio/lesson16/shengHuo/08.mp3",
+    "audio/lesson16/shengHuo/09.mp3"
   ],
   "strokePng": [
     "images/lesson16/shengHuo/shengHuo-01.png",

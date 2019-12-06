@@ -2,17 +2,18 @@
     "id": "si",
     "english": "sī",
     "strokes": 5,
-    "wordAudio": "audio/words/si.mp3",
+    "wordAudio": "audio/lesson17/si/word.mp3",
+    "phraseAudio": "",
     "importantCharacter":[0],
     "mainGraphics": [
         "images/lesson17/characters/si.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3",
-        "audio/strokes/04.mp3",
-        "audio/strokes/05.mp3"
+        "audio/lesson17/si/01.mp3",
+        "audio/lesson17/si/02.mp3",
+        "audio/lesson17/si/03.mp3",
+        "audio/lesson17/si/04.mp3",
+        "audio/lesson17/si/05.mp3"
     ],
     "strokePng": [
         "images/lesson17/si/si-01.png",

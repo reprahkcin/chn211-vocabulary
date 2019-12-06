@@ -2,7 +2,8 @@
   "id": "tuShuGuan",
   "english": "tú shū guǎn",
   "strokes": 11,
-  "wordAudio": "audio/words/tuShuGuan.mp3",
+  "wordAudio":"audio/lesson16/tuShuGuan/word.mp3",
+    "phraseAudio": "audio/lesson16/tuShuGuan/phrase.mp3",
   "importantCharacter":[2],
   "mainGraphics": [
     "images/lesson16/characters/tuShuGuan-a.png",
@@ -10,17 +11,17 @@
     "images/lesson16/characters/tuShuGuan-c.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3",
-    "audio/strokes/10.mp3",
-    "audio/strokes/11.mp3"
+    "audio/lesson16/tuShuGuan/01.mp3",
+    "audio/lesson16/tuShuGuan/02.mp3",
+    "audio/lesson16/tuShuGuan/03.mp3",
+    "audio/lesson16/tuShuGuan/04.mp3",
+    "audio/lesson16/tuShuGuan/05.mp3",
+    "audio/lesson16/tuShuGuan/06.mp3",
+    "audio/lesson16/tuShuGuan/07.mp3",
+    "audio/lesson16/tuShuGuan/08.mp3",
+    "audio/lesson16/tuShuGuan/09.mp3",
+    "audio/lesson16/tuShuGuan/10.mp3",
+    "audio/lesson16/tuShuGuan/11.mp3"
   ],
   "strokePng": [
     "images/lesson16/tuShuGuan/tuShuGuan-01.png",

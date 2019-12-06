@@ -2,7 +2,8 @@
   "id": "puTongHua",
   "english": "pǔ tōng huà",
   "strokes": 8,
-  "wordAudio": "audio/words/puTongHua.mp3",
+  "wordAudio": "audio/lesson15/puTongHua/word.mp3",
+  "phraseAudio": "audio/lesson15/puTongHua/phrase.mp3",
   "importantCharacter":[2],
   "mainGraphics": [
     "images/lesson15/characters/puTongHua-a.png",
@@ -10,14 +11,14 @@
     "images/lesson15/characters/puTongHua-c.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3"
+    "audio/lesson15/puTongHua/01.mp3",
+    "audio/lesson15/puTongHua/02.mp3",
+    "audio/lesson15/puTongHua/03.mp3",
+    "audio/lesson15/puTongHua/04.mp3",
+    "audio/lesson15/puTongHua/05.mp3",
+    "audio/lesson15/puTongHua/06.mp3",
+    "audio/lesson15/puTongHua/07.mp3",
+    "audio/lesson15/puTongHua/08.mp3"
   ],
   "strokePng": [
     "images/lesson15/puTongHua/puTongHua-01.png",

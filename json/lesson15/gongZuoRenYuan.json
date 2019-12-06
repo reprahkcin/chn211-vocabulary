@@ -2,7 +2,8 @@
   "id": "gongZuoRenYuan",
   "english": "gōng zuò rén yuán",
   "strokes": 7,
-  "wordAudio": "audio/words/gongZuoRenYuan.mp3",
+  "wordAudio": "audio/lesson15/gongZuoRenYuan/word.mp3",
+  "phraseAudio": "audio/lesson15/gongZuoRenYuan/phrase.mp3",
   "importantCharacter":[3],
   "mainGraphics": [
     "images/lesson15/characters/gongZuoRenYuan-a.png",
@@ -11,13 +12,13 @@
     "images/lesson15/characters/gongZuoRenYuan-d.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3"
+    "audio/lesson15/gongZuoRenYuan/01.mp3",
+    "audio/lesson15/gongZuoRenYuan/02.mp3",
+    "audio/lesson15/gongZuoRenYuan/03.mp3",
+    "audio/lesson15/gongZuoRenYuan/04.mp3",
+    "audio/lesson15/gongZuoRenYuan/05.mp3",
+    "audio/lesson15/gongZuoRenYuan/06.mp3",
+    "audio/lesson15/gongZuoRenYuan/07.mp3"
   ],
   "strokePng": [
     "images/lesson15/gongZuoRenYuan/gongZuoRenYuan-01.png",

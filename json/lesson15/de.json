@@ -2,23 +2,24 @@
   "id": "de",
   "english": "dé",
   "strokes": 11,
-  "wordAudio": "audio/words/de.mp3",
+  "wordAudio": "audio/lesson15/de/word.mp3",
+  "phraseAudio": "",
   "importantCharacter":[0],
   "mainGraphics": [
     "images/lesson15/characters/de.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3",
-    "audio/strokes/10.mp3",
-    "audio/strokes/11.mp3"
+    "audio/lesson15/de/01.mp3",
+    "audio/lesson15/de/02.mp3",
+    "audio/lesson15/de/03.mp3",
+    "audio/lesson15/de/04.mp3",
+    "audio/lesson15/de/05.mp3",
+    "audio/lesson15/de/06.mp3",
+    "audio/lesson15/de/07.mp3",
+    "audio/lesson15/de/08.mp3",
+    "audio/lesson15/de/09.mp3",
+    "audio/lesson15/de/10.mp3",
+    "audio/lesson15/de/11.mp3"
   ],
   "strokePng": [
     "images/lesson15/de/de-01.png",

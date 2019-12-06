@@ -2,23 +2,24 @@
     "id": "lu",
     "english": "lǜ",
     "strokes": 11,
-    "wordAudio": "audio/words/lu.mp3",
+    "wordAudio": "audio/lesson17/lu/word.mp3",
+    "phraseAudio": "",
     "importantCharacter":[0],
     "mainGraphics": [
         "images/lesson17/characters/lu.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3",
-        "audio/strokes/04.mp3",
-        "audio/strokes/05.mp3",
-        "audio/strokes/06.mp3",
-        "audio/strokes/07.mp3",
-        "audio/strokes/08.mp3",
-        "audio/strokes/09.mp3",
-        "audio/strokes/10.mp3",
-        "audio/strokes/11.mp3"
+        "audio/lesson17/lu/01.mp3",
+        "audio/lesson17/lu/02.mp3",
+        "audio/lesson17/lu/03.mp3",
+        "audio/lesson17/lu/04.mp3",
+        "audio/lesson17/lu/05.mp3",
+        "audio/lesson17/lu/06.mp3",
+        "audio/lesson17/lu/07.mp3",
+        "audio/lesson17/lu/08.mp3",
+        "audio/lesson17/lu/09.mp3",
+        "audio/lesson17/lu/10.mp3",
+        "audio/lesson17/lu/11.mp3"
     ],
     "strokePng": [
         "images/lesson17/lu/lu-01.png",

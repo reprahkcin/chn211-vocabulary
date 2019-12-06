@@ -2,16 +2,17 @@
     "id": "bi",
     "english": "bǐ",
     "strokes": 4,
-    "wordAudio": "audio/words/bi.mp3",
+    "wordAudio": "audio/lesson17/bi/word.mp3",
+    "phraseAudio": "",
     "importantCharacter":[0],
     "mainGraphics": [
       "images/lesson17/characters/bi.png"
     ],
     "strokeAudio": [
-      "audio/strokes/01.mp3",
-      "audio/strokes/02.mp3",
-      "audio/strokes/03.mp3",
-      "audio/strokes/04.mp3"
+      "audio/lesson17/bi/01.mp3",
+      "audio/lesson17/bi/02.mp3",
+      "audio/lesson17/bi/03.mp3",
+      "audio/lesson17/bi/04.mp3"
     ],
     "strokePng": [
       "images/lesson17/bi/bi-01.png",

@@ -2,23 +2,24 @@
   "id": "faZhan",
   "english": "fā zhǎn",
   "strokes": 10,
-  "wordAudio": "audio/words/faZhan.mp3",
+  "wordAudio": "audio/lesson15/faZhan/word.mp3",
+  "phraseAudio": "audio/lesson15/faZhan/phrase.mp3",
   "importantCharacter":[1],
   "mainGraphics": [
     "images/lesson15/characters/faZhan-a.png",
     "images/lesson15/characters/faZhan-b.png"
   ],
   "strokeAudio": [
-    "audio/strokes/01.mp3",
-    "audio/strokes/02.mp3",
-    "audio/strokes/03.mp3",
-    "audio/strokes/04.mp3",
-    "audio/strokes/05.mp3",
-    "audio/strokes/06.mp3",
-    "audio/strokes/07.mp3",
-    "audio/strokes/08.mp3",
-    "audio/strokes/09.mp3",
-    "audio/strokes/10.mp3"
+    "audio/lesson15/faZhan/01.mp3",
+    "audio/lesson15/faZhan/02.mp3",
+    "audio/lesson15/faZhan/03.mp3",
+    "audio/lesson15/faZhan/04.mp3",
+    "audio/lesson15/faZhan/05.mp3",
+    "audio/lesson15/faZhan/06.mp3",
+    "audio/lesson15/faZhan/07.mp3",
+    "audio/lesson15/faZhan/08.mp3",
+    "audio/lesson15/faZhan/09.mp3",
+    "audio/lesson15/faZhan/10.mp3"
   ],
   "strokePng": [
     "images/lesson15/faZhan/faZhan-01.png",

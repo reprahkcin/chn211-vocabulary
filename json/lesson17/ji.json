@@ -2,15 +2,16 @@
     "id": "ji",
     "english": "jí",
     "strokes": 3,
-    "wordAudio": "audio/words/ji.mp3",
+    "wordAudio": "audio/lesson17/ji/word.mp3",
+    "phraseAudio": "",
     "importantCharacter":[0],
     "mainGraphics": [
         "images/lesson17/characters/ji.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3"
+        "audio/lesson17/ji/01.mp3",
+        "audio/lesson17/ji/02.mp3",
+        "audio/lesson17/ji/03.mp3"
     ],
     "strokePng": [
         "images/lesson17/ji/ji-01.png",

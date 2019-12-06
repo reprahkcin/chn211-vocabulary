@@ -2,24 +2,25 @@
     "id": "duan",
     "english": "duǎn",
     "strokes": 12,
-    "wordAudio": "audio/words/duan.mp3",
+    "wordAudio": "audio/lesson17/duan/word.mp3",
+    "phraseAudio": "",
     "importantCharacter":[0],
     "mainGraphics": [
         "images/lesson17/characters/duan.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3",
-        "audio/strokes/04.mp3",
-        "audio/strokes/05.mp3",
-        "audio/strokes/06.mp3",
-        "audio/strokes/07.mp3",
-        "audio/strokes/08.mp3",
-        "audio/strokes/09.mp3",
-        "audio/strokes/10.mp3",
-        "audio/strokes/11.mp3",
-        "audio/strokes/12.mp3"
+        "audio/lesson17/duan/01.mp3",
+        "audio/lesson17/duan/02.mp3",
+        "audio/lesson17/duan/03.mp3",
+        "audio/lesson17/duan/04.mp3",
+        "audio/lesson17/duan/05.mp3",
+        "audio/lesson17/duan/06.mp3",
+        "audio/lesson17/duan/07.mp3",
+        "audio/lesson17/duan/08.mp3",
+        "audio/lesson17/duan/09.mp3",
+        "audio/lesson17/duan/10.mp3",
+        "audio/lesson17/duan/11.mp3",
+        "audio/lesson17/duan/12.mp3"
     ],
     "strokePng": [
         "images/lesson17/duan/duan-01.png",

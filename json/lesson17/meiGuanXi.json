@@ -2,7 +2,8 @@
     "id": "meiGuanXi",
     "english": "méi guān xì",
     "strokes": 6,
-    "wordAudio": "audio/words/meiGuanXi.mp3",
+    "wordAudio": "audio/lesson17/meiGuanXi/word.mp3",
+    "phraseAudio": "audio/lesson17/meiGuanXi/phrase.mp3",
     "importantCharacter":[1],
     "mainGraphics": [
         "images/lesson17/characters/meiGuanXi-a.png",
@@ -10,12 +11,12 @@
         "images/lesson17/characters/meiGuanXi-c.png"
     ],
     "strokeAudio": [
-        "audio/strokes/01.mp3",
-        "audio/strokes/02.mp3",
-        "audio/strokes/03.mp3",
-        "audio/strokes/04.mp3",
-        "audio/strokes/05.mp3",
-        "audio/strokes/06.mp3"
+        "audio/lesson17/meiGuanXi/01.mp3",
+        "audio/lesson17/meiGuanXi/02.mp3",
+        "audio/lesson17/meiGuanXi/03.mp3",
+        "audio/lesson17/meiGuanXi/04.mp3",
+        "audio/lesson17/meiGuanXi/05.mp3",
+        "audio/lesson17/meiGuanXi/06.mp3"
     ],
     "strokePng": [
         "images/lesson17/meiGuanXi/meiGuanXi-01.png",
