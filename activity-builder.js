@@ -107,8 +107,9 @@ function buildRows(i) {
     var strokeGraphic = document.createElement('img');
     strokeGraphic.setAttribute('src', './images/guide.png');
     strokeGraphic.setAttribute('class', 'stroke');
+
     strokeGraphic.onclick = function () {
-        swapStroke(objects[i].id)
+        swapStroke(objects[i].id);
     };
     col3.appendChild(strokeGraphic);
     // END THIRD COLUMN
@@ -128,12 +129,12 @@ function buildRows(i) {
     var lnbreak = document.createElement('br');
     col4.appendChild(lnbreak);
 
-    var backbtn = document.createElement('button');
-    backbtn.setAttribute('type', 'button');
-    backbtn.setAttribute('class', 'btn btn-secondary video-buttons');
-    var btnText1 = document.createTextNode('|<');
-    backbtn.appendChild(btnText1);
-    col4.appendChild(backbtn);
+    // var backbtn = document.createElement('button');
+    // backbtn.setAttribute('type', 'button');
+    // backbtn.setAttribute('class', 'btn btn-secondary video-buttons');
+    // var btnText1 = document.createTextNode('|<');
+    // backbtn.appendChild(btnText1);
+    // col4.appendChild(backbtn);
 
     var playbtn = document.createElement('button');
     playbtn.setAttribute('type', 'button');
@@ -147,12 +148,12 @@ function buildRows(i) {
     playbtn.appendChild(btnText2);
     col4.appendChild(playbtn);
 
-    var fwdbtn = document.createElement('button');
-    fwdbtn.setAttribute('type', 'button');
-    fwdbtn.setAttribute('class', 'btn btn-secondary video-buttons');
-    var btnText3 = document.createTextNode('>|');
-    fwdbtn.appendChild(btnText3);
-    col4.appendChild(fwdbtn);
+    // var fwdbtn = document.createElement('button');
+    // fwdbtn.setAttribute('type', 'button');
+    // fwdbtn.setAttribute('class', 'btn btn-secondary video-buttons');
+    // var btnText3 = document.createTextNode('>|');
+    // fwdbtn.appendChild(btnText3);
+    // col4.appendChild(fwdbtn);
     // END FOURTH COLUMN
 
 }
@@ -196,7 +197,11 @@ function swapStroke(id) {
             img.onclick = function () {
                 swapStroke(id)
             };
+
             div.appendChild(img);
+            var strokeAudio = document.createElement('audio');
+            strokeAudio.setAttribute('src',objects[characterIndex].strokeAudio[index]);
+            strokeAudio.play();
             index++;
             break;
         case false:
