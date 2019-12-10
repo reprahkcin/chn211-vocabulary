@@ -41,6 +41,68 @@ function buildRows(i) {
     row.setAttribute('id', objects[i].id); // give the row an id
     docTable.appendChild(row); // add each row to the doc
     // END CONTENT ROW
+    // CONTROL ROW
+    var controlRow = document.createElement('div');
+    controlRow.setAttribute('class', 'row control-row');
+    docTable.appendChild(controlRow);
+
+    var controlCol1 = document.createElement('div');
+    controlCol1.setAttribute('class', 'col-sm control-column-text');
+    var columnText1 = document.createTextNode('test');
+    controlCol1.appendChild(columnText1);
+
+    var controlCol2 = document.createElement('div');
+    controlCol2.setAttribute('class', 'col-sm control-column-text');
+    var columnText2 = document.createTextNode('Press to play word:');
+    controlCol2.appendChild(columnText2);
+    var breakpoint = document.createElement('br');
+    controlCol2.appendChild(breakpoint);
+    var playWordBtn = document.createElement('button');
+    playWordBtn.setAttribute('type', 'button');
+    playWordBtn.setAttribute('class', 'btn btn-secondary audio-buttons');
+    playWordBtn.setAttribute('audio-id', objects[i].id + '-aud');
+    var wordAudioId = objects[i].id + '-aud';
+    playWordBtn.onclick = function () {
+        playAudio(wordAudioId)
+    };
+    var btnText2 = document.createElement('img');
+    btnText2.setAttribute('src','./images/play.svg');
+    btnText2.setAttribute('class','button-graphic');
+    playWordBtn.appendChild(btnText2);
+
+    var controlCol3 = document.createElement('div');
+    controlCol3.setAttribute('class', 'col-sm control-column-text');
+    var columnText3 = document.createTextNode('Click graphic above to see stroke order and hear stroke name');
+    controlCol3.appendChild(columnText3);
+
+    var controlCol4 = document.createElement('div');
+    controlCol4.setAttribute('class', 'col-sm control-column-text');
+    var columnText4 = document.createTextNode('Press to play animation: ');
+    controlCol4.appendChild(columnText4);
+    var playbtn = document.createElement('button');
+    playbtn.setAttribute('type', 'button');
+    playbtn.setAttribute('class', 'btn btn-secondary video-buttons');
+    playbtn.setAttribute('video-id', objects[i].id + '-vid');
+    var videoId = objects[i].id + '-vid';
+    playbtn.onclick = function () {
+        playVideo(videoId)
+    };
+    var btnText2 = document.createElement('img');
+    btnText2.setAttribute('src','./images/play.svg');
+    btnText2.setAttribute('class','button-graphic');
+    playbtn.appendChild(btnText2);
+    controlCol4.appendChild(playbtn);
+
+    controlRow.appendChild(controlCol1);
+    controlRow.appendChild(controlCol2);
+    controlRow.appendChild(controlCol3);
+    controlRow.appendChild(controlCol4);
+    controlCol2.appendChild(playWordBtn);
+    // END CONTROL ROW
+
+
+
+
 
 
 
@@ -78,19 +140,8 @@ function buildRows(i) {
     wordAudio.setAttribute('id', objects[i].id + '-aud');
     col2.appendChild(wordAudio);
 
-    var playWordBtn = document.createElement('button');
-    playWordBtn.setAttribute('type', 'button');
-    playWordBtn.setAttribute('class', 'btn btn-secondary audio-buttons');
-    playWordBtn.setAttribute('audio-id', objects[i].id + '-aud');
-    var wordAudioId = objects[i].id + '-aud';
-    playWordBtn.onclick = function () {
-        playAudio(wordAudioId)
-    };
-    var btnText2 = document.createTextNode('>');
-    playWordBtn.appendChild(btnText2);
 
 
-    col2.appendChild(playWordBtn);
 
 
     // END SECOND COLUMN
@@ -136,17 +187,6 @@ function buildRows(i) {
     // backbtn.appendChild(btnText1);
     // col4.appendChild(backbtn);
 
-    var playbtn = document.createElement('button');
-    playbtn.setAttribute('type', 'button');
-    playbtn.setAttribute('class', 'btn btn-secondary video-buttons');
-    playbtn.setAttribute('video-id', objects[i].id + '-vid');
-    var videoId = objects[i].id + '-vid';
-    playbtn.onclick = function () {
-        playVideo(videoId)
-    };
-    var btnText2 = document.createTextNode('>');
-    playbtn.appendChild(btnText2);
-    col4.appendChild(playbtn);
 
     // var fwdbtn = document.createElement('button');
     // fwdbtn.setAttribute('type', 'button');

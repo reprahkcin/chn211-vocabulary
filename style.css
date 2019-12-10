@@ -15,19 +15,23 @@
 }
 
 .video-buttons{
-    width:33%;
+    margin-top:15px;
+    margin-bottom: 10px;
+    width:20%;
 }
 
 .audio-buttons{
-    width:33%;
-    display: inline;
+    margin-top:15px;
+    margin-bottom: 10px;
+    width:20%;
 }
 
 .character-row{
-    margin-bottom: 15px;
+
     padding-top:15px;
     padding-bottom:15px;
     background: rgb(228, 228, 228);
+    min-height: 320px;
 }
 
 .title-row{
@@ -38,9 +42,36 @@
     font-weight: bold;
 }
 
+.control-row{
+    background: rgb(58, 58, 58);
+    color: white;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-bottom: 25px;
+    min-height: 50px;
+    font-weight: bold;
+}
+
 .stroke{
     position:absolute;
     top: 0;
     left: 0;
     width: 100%;
+}
+
+.button-graphic{
+    width:10px;
+    margin-top:auto;
+    margin-bottom:auto;
+}
+
+.control-column-text{
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.title-column-text{
+    font-size: 20px;
+    text-align: center;
 }
