@@ -1,6 +1,7 @@
 {
     "id": "yanSe",
-    "english": "yán sè",
+    "englishPhrase": "yán sè",
+    "englishImportantCharacter":"yán sè",
     "strokes": 21,
     "wordAudio": "audio/lesson17/yanSe/word.mp3",
     "phraseAudio": "audio/lesson17/yanSe/phrase.mp3",

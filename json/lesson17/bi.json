@@ -1,6 +1,7 @@
 {
     "id": "bi",
-    "english": "bǐ",
+    "englishPhrase": "bǐ",
+    "englishImportantCharacter":"bǐ",
     "strokes": 4,
     "wordAudio": "audio/lesson17/bi/word.mp3",
     "phraseAudio": "",

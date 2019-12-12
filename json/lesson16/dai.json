@@ -1,6 +1,7 @@
 {
   "id": "dai",
-  "english": "dài",
+  "englishPhrase": "dài",
+  "englishImportantCharacter":"dài",
   "strokes": 9,
   "wordAudio": "audio/lesson16/dai/word.mp3",
   "phraseAudio": "",

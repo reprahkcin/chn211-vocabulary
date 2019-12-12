@@ -1,6 +1,7 @@
 {
     "id": "mai",
-    "english": "mài",
+    "englishPhrase": "mài",
+    "englishImportantCharacter":"mài",
     "strokes": 8,
     "wordAudio": "audio/lesson17/mai/word.mp3",
     "importantCharacter":[0],

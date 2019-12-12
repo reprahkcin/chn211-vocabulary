@@ -1,6 +1,7 @@
 {
   "id": "dianNao",
-  "english": "diàn nǎo",
+  "englishPhrase": "diàn nǎo",
+  "englishImportantCharacter":"nǎo",
   "strokes": 10,
   "wordAudio":"audio/lesson16/dianNao/word.mp3",
     "phraseAudio": "audio/lesson16/dianNao/phrase.mp3",

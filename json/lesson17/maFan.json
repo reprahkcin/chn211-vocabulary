@@ -1,6 +1,7 @@
 {
     "id": "maFan",
-    "english": "má fán",
+    "englishPhrase": "má fán",
+    "englishImportantCharacter":"má fán",
     "strokes": 21,
     "wordAudio": "audio/lesson17/maFan/word.mp3",
     "phraseAudio": "audio/lesson17/maFan/phrase.mp3",

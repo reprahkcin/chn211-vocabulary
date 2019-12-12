@@ -1,6 +1,7 @@
 {
     "id": "tao",
-    "english": "tào",
+    "englishPhrase": "tào",
+    "englishImportantCharacter":"tào",
     "strokes": 10,
     "wordAudio": "audio/lesson17/tao/word.mp3",
     "phraseAudio": "",

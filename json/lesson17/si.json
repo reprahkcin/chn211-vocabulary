@@ -1,6 +1,7 @@
 {
     "id": "si",
-    "english": "sī",
+    "englishPhrase": "sī",
+    "englishImportantCharacter":"sī",
     "strokes": 5,
     "wordAudio": "audio/lesson17/si/word.mp3",
     "phraseAudio": "",

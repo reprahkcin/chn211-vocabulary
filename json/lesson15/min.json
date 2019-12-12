@@ -1,6 +1,7 @@
 {
   "id": "min",
-  "english": "mín",
+  "englishPhrase": "mín",
+  "englishImportantCharacter":"mín",
   "strokes": 5,
   "wordAudio": "audio/lesson15/min/word.mp3",
   "phraseAudio": "",

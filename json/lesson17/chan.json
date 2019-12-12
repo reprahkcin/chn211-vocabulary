@@ -1,6 +1,7 @@
 {
     "id": "chan",
-    "english": "chǎn",
+    "englishPhrase": "chǎn",
+    "englishImportantCharacter":"chǎn",
     "strokes": 6,
     "wordAudio": "audio/lesson17/chan/word.mp3",
     "phraseAudio": "",

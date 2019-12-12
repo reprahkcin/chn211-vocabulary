@@ -1,6 +1,7 @@
 {
   "id": "gan",
-  "english": "gàn",
+  "englishPhrase": "gàn",
+  "englishImportantCharacter":"gàn",
   "strokes": 3,
   "wordAudio": "audio/lesson15/gan/word.mp3",
   "phraseAudio": "",

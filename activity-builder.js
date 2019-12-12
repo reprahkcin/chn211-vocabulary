@@ -7,12 +7,12 @@ function buildRows(i) {
 
     var titleCol1 = document.createElement('div');
     titleCol1.setAttribute('class', 'col-sm title-column-text');
-    var columnText1 = document.createTextNode(objects[i].english);
+    var columnText1 = document.createTextNode(objects[i].englishPhrase);
     titleCol1.appendChild(columnText1);
 
     var titleCol2 = document.createElement('div');
     titleCol2.setAttribute('class', 'col-sm title-column-text');
-    var columnText2 = document.createTextNode('Complete Character');
+    var columnText2 = document.createTextNode(objects[i].englishImportantCharacter);
     titleCol2.appendChild(columnText2);
 
     var titleCol3 = document.createElement('div');
@@ -48,8 +48,15 @@ function buildRows(i) {
 
     var controlCol1 = document.createElement('div');
     controlCol1.setAttribute('class', 'col-sm control-column-text');
-    var columnText1 = document.createTextNode('test');
+    var columnText1 = document.createTextNode('Complete Phrase');
+    var column1lineBreak = document.createElement('br');
+    var columnTextLine2 = document.createTextNode('(relevant words outlined in green)');
+
+
+
     controlCol1.appendChild(columnText1);
+    controlCol1.appendChild(column1lineBreak);
+    controlCol1.appendChild(columnTextLine2);
 
     var controlCol2 = document.createElement('div');
     controlCol2.setAttribute('class', 'col-sm control-column-text');

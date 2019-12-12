@@ -1,6 +1,7 @@
 {
   "id": "de",
-  "english": "dé",
+  "englishPhrase": "dé",
+  "englishImportantCharacter":"dé",
   "strokes": 11,
   "wordAudio": "audio/lesson15/de/word.mp3",
   "phraseAudio": "",

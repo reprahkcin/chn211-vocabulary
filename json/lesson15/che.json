@@ -1,6 +1,7 @@
 {
   "id": "che",
-  "english": "chē",
+  "englishPhrase": "chē",
+  "englishImportantCharacter":"chē",
   "strokes": 4,
   "wordAudio": "audio/lesson15/che/word.mp3",
   "phraseAudio": "",

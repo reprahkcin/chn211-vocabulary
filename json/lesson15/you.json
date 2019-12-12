@@ -1,6 +1,7 @@
 {
   "id": "you",
-  "english": "yóu",
+  "englishPhrase": "yóu",
+  "englishImportantCharacter":"yóu",
   "strokes": 4,
   "wordAudio": "audio/lesson15/you/word.mp3",
   "phraseAudio": "",

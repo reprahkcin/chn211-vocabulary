@@ -1,6 +1,7 @@
 {
   "id": "wang",
-  "english": "wàng",
+  "englishPhrase": "wàng",
+  "englishImportantCharacter":"wàng",
   "strokes": 7,
   "wordAudio": "audio/lesson16/wang/word.mp3",
   "phraseAudio": "",

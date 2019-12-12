@@ -1,6 +1,7 @@
 {
     "id": "yi",
-    "english": "yǐ",
+    "englishPhrase": "yǐ",
+    "englishImportantCharacter":"yǐ",
     "strokes": 3,
     "wordAudio": "audio/lesson17/yi/word.mp3",
     "phraseAudio": "",

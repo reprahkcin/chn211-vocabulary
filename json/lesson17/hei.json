@@ -1,6 +1,7 @@
 {
     "id": "hei",
-    "english": "hēi",
+    "englishPhrase": "hēi",
+    "englishImportantCharacter":"hēi",
     "strokes": 12,
     "wordAudio": "audio/lesson17/hei/word.mp3",
     "phraseAudio": "",

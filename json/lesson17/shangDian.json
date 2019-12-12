@@ -1,6 +1,7 @@
 {
     "id": "shangDian",
-    "english": "shāng diàn",
+    "englishPhrase": "shāng diàn",
+    "englishImportantCharacter":"diàn",
     "strokes": 8,
     "wordAudio": "audio/lesson17/shangDian/word.mp3",
     "phraseAudio": "audio/lesson17/shangDian/phrase.mp3",

@@ -1,6 +1,7 @@
 {
   "id": "sa",
-  "english": "sà",
+  "englishPhrase": "sà",
+  "englishImportantCharacter":"sà",
   "strokes": 4,
   "wordAudio": "audio/lesson16/sa/word.mp3",
   "phraseAudio": "",

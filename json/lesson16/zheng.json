@@ -1,6 +1,7 @@
 {
   "id": "zheng",
-  "english": "zhèng",
+  "englishPhrase": "zhèng",
+  "englishImportantCharacter":"zhèng",
   "strokes": 5,
   "wordAudio": "audio/lesson16/zheng/word.mp3",
   "phraseAudio": "",
