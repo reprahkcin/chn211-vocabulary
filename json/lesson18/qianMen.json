@@ -1,0 +1,47 @@
+{
+    "id": "qianMen",
+    "englishPhrase": "qián mén",
+    "englishImportantCharacter":"qián",
+    "strokes": 9,
+    "wordAudio": "audio/lesson18/qianMen/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter":[0],
+    "mainGraphics": [
+      "images/lesson18/characters/qianMen-a.png",
+      "images/lesson18/characters/qianMen-b.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson18/qianMen/01.mp3",
+      "audio/lesson18/qianMen/02.mp3",
+      "audio/lesson18/qianMen/03.mp3",
+      "audio/lesson18/qianMen/04.mp3",
+      "audio/lesson18/qianMen/05.mp3",
+      "audio/lesson18/qianMen/06.mp3",
+      "audio/lesson18/qianMen/07.mp3",
+      "audio/lesson18/qianMen/08.mp3",
+      "audio/lesson18/qianMen/09.mp3"
+    ],
+    "strokePng": [
+      "images/lesson18/qianMen/qianMen-01.png",
+      "images/lesson18/qianMen/qianMen-02.png",
+      "images/lesson18/qianMen/qianMen-03.png",
+      "images/lesson18/qianMen/qianMen-04.png",
+      "images/lesson18/qianMen/qianMen-05.png",
+      "images/lesson18/qianMen/qianMen-06.png",
+      "images/lesson18/qianMen/qianMen-07.png",
+      "images/lesson18/qianMen/qianMen-08.png",
+      "images/lesson18/qianMen/qianMen-09.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson18/qianMen.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08",
+        "00:00:10",
+        "00:00:12",
+        "00:00:14",
+        "00:00:16"
+    ]
+  }

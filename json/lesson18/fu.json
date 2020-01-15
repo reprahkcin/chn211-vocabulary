@@ -1,0 +1,34 @@
+{
+    "id": "fu",
+    "englishPhrase": "fú",
+    "englishImportantCharacter":"fú",
+    "strokes": 5,
+    "wordAudio": "audio/lesson18/fu/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter":[0],
+    "mainGraphics": [
+      "images/lesson18/characters/fu.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson18/fu/01.mp3",
+      "audio/lesson18/fu/02.mp3",
+      "audio/lesson18/fu/03.mp3",
+      "audio/lesson18/fu/04.mp3",
+      "audio/lesson18/fu/05.mp3"
+    ],
+    "strokePng": [
+      "images/lesson18/fu/fu-01.png",
+      "images/lesson18/fu/fu-02.png",
+      "images/lesson18/fu/fu-03.png",
+      "images/lesson18/fu/fu-04.png",
+      "images/lesson18/fu/fu-05.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson18/fu.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08"
+    ]
+  }

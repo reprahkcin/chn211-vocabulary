@@ -1,0 +1,41 @@
+{
+    "id": "huZhao",
+    "englishPhrase": "hù zhào",
+    "englishImportantCharacter":"hù",
+    "strokes": 7,
+    "wordAudio": "audio/lesson18/huZhao/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter":[0],
+    "mainGraphics": [
+      "images/lesson18/characters/huZhao-a.png",
+      "images/lesson18/characters/huZhao-b.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson18/huZhao/01.mp3",
+      "audio/lesson18/huZhao/02.mp3",
+      "audio/lesson18/huZhao/03.mp3",
+      "audio/lesson18/huZhao/04.mp3",
+      "audio/lesson18/huZhao/05.mp3",
+      "audio/lesson18/huZhao/06.mp3",
+      "audio/lesson18/huZhao/07.mp3"
+    ],
+    "strokePng": [
+      "images/lesson18/huZhao/huZhao-01.png",
+      "images/lesson18/huZhao/huZhao-02.png",
+      "images/lesson18/huZhao/huZhao-03.png",
+      "images/lesson18/huZhao/huZhao-04.png",
+      "images/lesson18/huZhao/huZhao-05.png",
+      "images/lesson18/huZhao/huZhao-06.png",
+      "images/lesson18/huZhao/huZhao-07.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson18/huZhao.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08",
+        "00:00:10",
+        "00:00:12"
+    ]
+  }

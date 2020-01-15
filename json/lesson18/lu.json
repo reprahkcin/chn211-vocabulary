@@ -1,0 +1,58 @@
+{
+    "id": "lu",
+    "englishPhrase": "lù",
+    "englishImportantCharacter":"lù",
+    "strokes": 13,
+    "wordAudio": "audio/lesson18/lu/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter":[0],
+    "mainGraphics": [
+      "images/lesson18/characters/lu.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson18/lu/01.mp3",
+      "audio/lesson18/lu/02.mp3",
+      "audio/lesson18/lu/03.mp3",
+      "audio/lesson18/lu/04.mp3",
+      "audio/lesson18/lu/05.mp3",
+      "audio/lesson18/lu/06.mp3",
+      "audio/lesson18/lu/07.mp3",
+      "audio/lesson18/lu/08.mp3",
+      "audio/lesson18/lu/09.mp3",
+      "audio/lesson18/lu/10.mp3",
+      "audio/lesson18/lu/11.mp3",
+      "audio/lesson18/lu/12.mp3",
+      "audio/lesson18/lu/13.mp3"
+    ],
+    "strokePng": [
+      "images/lesson18/lu/lu-01.png",
+      "images/lesson18/lu/lu-02.png",
+      "images/lesson18/lu/lu-03.png",
+      "images/lesson18/lu/lu-04.png",
+      "images/lesson18/lu/lu-05.png",
+      "images/lesson18/lu/lu-06.png",
+      "images/lesson18/lu/lu-07.png",
+      "images/lesson18/lu/lu-08.png",
+      "images/lesson18/lu/lu-09.png",
+      "images/lesson18/lu/lu-10.png",
+      "images/lesson18/lu/lu-11.png",
+      "images/lesson18/lu/lu-12.png",
+      "images/lesson18/lu/lu-13.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson18/lu.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08",
+        "00:00:10",
+        "00:00:12",
+        "00:00:14",
+        "00:00:16",
+        "00:00:18",
+        "00:00:20",
+        "00:00:22",
+        "00:00:24"
+    ]
+  }

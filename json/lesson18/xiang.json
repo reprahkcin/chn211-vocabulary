@@ -1,0 +1,52 @@
+{
+    "id": "xiang",
+    "englishPhrase": "xiàng",
+    "englishImportantCharacter":"xiàng",
+    "strokes": 11,
+    "wordAudio": "audio/lesson18/xiang/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter":[0],
+    "mainGraphics": [
+      "images/lesson18/characters/xiang.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson18/xiang/01.mp3",
+      "audio/lesson18/xiang/02.mp3",
+      "audio/lesson18/xiang/03.mp3",
+      "audio/lesson18/xiang/04.mp3",
+      "audio/lesson18/xiang/05.mp3",
+      "audio/lesson18/xiang/06.mp3",
+      "audio/lesson18/xiang/07.mp3",
+      "audio/lesson18/xiang/08.mp3",
+      "audio/lesson18/xiang/09.mp3",
+      "audio/lesson18/xiang/10.mp3",
+      "audio/lesson18/xiang/11.mp3"
+    ],
+    "strokePng": [
+      "images/lesson18/xiang/xiang-01.png",
+      "images/lesson18/xiang/xiang-02.png",
+      "images/lesson18/xiang/xiang-03.png",
+      "images/lesson18/xiang/xiang-04.png",
+      "images/lesson18/xiang/xiang-05.png",
+      "images/lesson18/xiang/xiang-06.png",
+      "images/lesson18/xiang/xiang-07.png",
+      "images/lesson18/xiang/xiang-08.png",
+      "images/lesson18/xiang/xiang-09.png",
+      "images/lesson18/xiang/xiang-10.png",
+      "images/lesson18/xiang/xiang-11.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson18/xiang.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08",
+        "00:00:10",
+        "00:00:12",
+        "00:00:14",
+        "00:00:16",
+        "00:00:18",
+        "00:00:20"
+    ]
+  }

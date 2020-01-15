@@ -1,0 +1,59 @@
+{
+    "id": "haoXiang",
+    "englishPhrase": "hǎo xiàng",
+    "englishImportantCharacter":"xiàng",
+    "strokes": 13,
+    "wordAudio": "audio/lesson18/haoXiang/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter":[1],
+    "mainGraphics": [
+      "images/lesson18/characters/haoXiang-a.png",
+      "images/lesson18/characters/haoXiang-b.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson18/haoXiang/01.mp3",
+      "audio/lesson18/haoXiang/02.mp3",
+      "audio/lesson18/haoXiang/03.mp3",
+      "audio/lesson18/haoXiang/04.mp3",
+      "audio/lesson18/haoXiang/05.mp3",
+      "audio/lesson18/haoXiang/06.mp3",
+      "audio/lesson18/haoXiang/07.mp3",
+      "audio/lesson18/haoXiang/08.mp3",
+      "audio/lesson18/haoXiang/09.mp3",
+      "audio/lesson18/haoXiang/10.mp3",
+      "audio/lesson18/haoXiang/11.mp3",
+      "audio/lesson18/haoXiang/12.mp3",
+      "audio/lesson18/haoXiang/13.mp3"
+    ],
+    "strokePng": [
+      "images/lesson18/haoXiang/haoXiang-01.png",
+      "images/lesson18/haoXiang/haoXiang-02.png",
+      "images/lesson18/haoXiang/haoXiang-03.png",
+      "images/lesson18/haoXiang/haoXiang-04.png",
+      "images/lesson18/haoXiang/haoXiang-05.png",
+      "images/lesson18/haoXiang/haoXiang-06.png",
+      "images/lesson18/haoXiang/haoXiang-07.png",
+      "images/lesson18/haoXiang/haoXiang-08.png",
+      "images/lesson18/haoXiang/haoXiang-09.png",
+      "images/lesson18/haoXiang/haoXiang-10.png",
+      "images/lesson18/haoXiang/haoXiang-11.png",
+      "images/lesson18/haoXiang/haoXiang-12.png",
+      "images/lesson18/haoXiang/haoXiang-13.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson18/haoXiang.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08",
+        "00:00:10",
+        "00:00:12",
+        "00:00:14",
+        "00:00:16",
+        "00:00:18",
+        "00:00:20",
+        "00:00:22",
+        "00:00:24"
+    ]
+  }

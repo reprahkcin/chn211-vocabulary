@@ -1,0 +1,34 @@
+{
+    "id": "jiu",
+    "englishPhrase": "jiù",
+    "englishImportantCharacter":"jiù",
+    "strokes": 5,
+    "wordAudio": "audio/lesson18/jiu/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter":[0],
+    "mainGraphics": [
+      "images/lesson18/characters/jiu.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson18/jiu/01.mp3",
+      "audio/lesson18/jiu/02.mp3",
+      "audio/lesson18/jiu/03.mp3",
+      "audio/lesson18/jiu/04.mp3",
+      "audio/lesson18/jiu/05.mp3"
+    ],
+    "strokePng": [
+      "images/lesson18/jiu/jiu-01.png",
+      "images/lesson18/jiu/jiu-02.png",
+      "images/lesson18/jiu/jiu-03.png",
+      "images/lesson18/jiu/jiu-04.png",
+      "images/lesson18/jiu/jiu-05.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson18/jiu.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08"
+    ]
+  }

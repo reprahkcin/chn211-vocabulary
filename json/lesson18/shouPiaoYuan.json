@@ -1,0 +1,54 @@
+{
+    "id": "shouPiaoYuan",
+    "englishPhrase": "shòu piào yuán",
+    "englishImportantCharacter":"piào",
+    "strokes": 11,
+    "wordAudio": "audio/lesson18/shouPiaoYuan/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter":[1],
+    "mainGraphics": [
+      "images/lesson18/characters/shouPiaoYuan-a.png",
+      "images/lesson18/characters/shouPiaoYuan-b.png",
+      "images/lesson18/characters/shouPiaoYuan-c.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson18/shouPiaoYuan/01.mp3",
+      "audio/lesson18/shouPiaoYuan/02.mp3",
+      "audio/lesson18/shouPiaoYuan/03.mp3",
+      "audio/lesson18/shouPiaoYuan/04.mp3",
+      "audio/lesson18/shouPiaoYuan/05.mp3",
+      "audio/lesson18/shouPiaoYuan/06.mp3",
+      "audio/lesson18/shouPiaoYuan/07.mp3",
+      "audio/lesson18/shouPiaoYuan/08.mp3",
+      "audio/lesson18/shouPiaoYuan/09.mp3",
+      "audio/lesson18/shouPiaoYuan/10.mp3",
+      "audio/lesson18/shouPiaoYuan/11.mp3"
+    ],
+    "strokePng": [
+      "images/lesson18/shouPiaoYuan/shouPiaoYuan-01.png",
+      "images/lesson18/shouPiaoYuan/shouPiaoYuan-02.png",
+      "images/lesson18/shouPiaoYuan/shouPiaoYuan-03.png",
+      "images/lesson18/shouPiaoYuan/shouPiaoYuan-04.png",
+      "images/lesson18/shouPiaoYuan/shouPiaoYuan-05.png",
+      "images/lesson18/shouPiaoYuan/shouPiaoYuan-06.png",
+      "images/lesson18/shouPiaoYuan/shouPiaoYuan-07.png",
+      "images/lesson18/shouPiaoYuan/shouPiaoYuan-08.png",
+      "images/lesson18/shouPiaoYuan/shouPiaoYuan-09.png",
+      "images/lesson18/shouPiaoYuan/shouPiaoYuan-10.png",
+      "images/lesson18/shouPiaoYuan/shouPiaoYuan-11.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson18/shouPiaoYuan.mp4",
+    "timecodes": [
+        "00:00:00",
+        "00:00:02",
+        "00:00:04",
+        "00:00:06",
+        "00:00:08",
+        "00:00:10",
+        "00:00:12",
+        "00:00:14",
+        "00:00:16",
+        "00:00:18",
+        "00:00:20"
+    ]
+  }
