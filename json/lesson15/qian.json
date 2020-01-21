@@ -1,0 +1,28 @@
+{
+  "id": "qian",
+  "englishPhrase": "qian",
+  "englishImportantCharacter":"qian",
+  "strokes": 3,
+  "wordAudio": "audio/lesson15/qian/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter":[0],
+  "mainGraphics": [
+    "images/lesson15/characters/qian.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson15/qian/01.mp3",
+    "audio/lesson15/qian/02.mp3",
+    "audio/lesson15/qian/03.mp3"
+  ],
+  "strokePng": [
+    "images/lesson15/qian/qian-01.png",
+    "images/lesson15/qian/qian-02.png",
+    "images/lesson15/qian/qian-03.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson15/qian.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04"
+  ]
+}
