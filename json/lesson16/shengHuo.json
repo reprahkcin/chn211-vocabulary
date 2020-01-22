@@ -1,7 +1,7 @@
 {
   "id": "shengHuo",
-  "englishPhrase": "shēng huó",
-  "englishImportantCharacter":"huó",
+  "romanizedPhrase": "shēng huó",
+  "romanizedImportantCharacter":"huó",
   "strokes": 9,
   "wordAudio":"audio/lesson16/shengHuo/word.mp3",
     "phraseAudio": "audio/lesson16/shengHuo/phrase.mp3",
@@ -43,5 +43,6 @@
     "00:00:12",
     "00:00:14",
     "00:00:16"
-  ]
+  ],
+  "englishTranslation":""
 }

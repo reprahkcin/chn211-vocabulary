@@ -1,7 +1,7 @@
 {
     "id":"zhiYe",
-    "englishPhrase":"zhí yè",
-    "englishImportantCharacter":"zhí",
+    "romanizedPhrase":"zhí yè",
+    "romanizedImportantCharacter":"zhí",
     "strokes":11,
     "wordAudio":"audio/lesson16/zhiYe/word.mp3",
     "phraseAudio": "audio/lesson16/zhiYe/phrase.mp3",
@@ -49,5 +49,6 @@
       "00:00:16",
       "00:00:18",
       "00:00:20"
-    ]
+    ],
+    "englishTranslation":""
 }

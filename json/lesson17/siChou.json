@@ -1,7 +1,7 @@
 {
     "id": "siChou",
-    "englishPhrase": "sī chóu",
-    "englishImportantCharacter":"chóu",
+    "romanizedPhrase": "sī chóu",
+    "romanizedImportantCharacter":"chóu",
     "strokes": 11,
     "wordAudio": "audio/lesson17/siChou/word.mp3",
     "phraseAudio": "audio/lesson17/siChou/phrase.mp3",
@@ -49,5 +49,6 @@
         "00:00:16",
         "00:00:18",
         "00:00:20"
-    ]
+    ],
+    "englishTranslation":""
 }

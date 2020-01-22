@@ -1,7 +1,7 @@
 {
   "id": "banGongShi",
-  "englishPhrase": "bàn gōng shì",
-  "englishImportantCharacter":"shì",
+  "romanizedPhrase": "bàn gōng shì",
+  "romanizedImportantCharacter":"shì",
   "strokes": 9,
   "wordAudio":"audio/lesson16/banGongShi/word.mp3",
     "phraseAudio": "audio/lesson16/banGongShi/phrase.mp3",
@@ -44,5 +44,6 @@
     "00:00:12",
     "00:00:14",
     "00:00:16"
-  ]
+  ],
+  "englishTranslation":""
 }

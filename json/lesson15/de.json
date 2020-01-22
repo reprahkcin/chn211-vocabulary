@@ -1,7 +1,7 @@
 {
   "id": "de",
-  "englishPhrase": "dé",
-  "englishImportantCharacter":"dé",
+  "romanizedPhrase": "dé",
+  "romanizedImportantCharacter":"dé",
   "strokes": 11,
   "wordAudio": "audio/lesson15/de/word.mp3",
   "phraseAudio": "",
@@ -48,5 +48,6 @@
     "00:00:16",
     "00:00:18",
     "00:00:20"
-  ]
+  ],
+  "englishTranslation":""
 }

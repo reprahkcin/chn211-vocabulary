@@ -1,7 +1,7 @@
 {
   "id": "huan",
-  "englishPhrase": "huàn",
-  "englishImportantCharacter":"huàn",
+  "romanizedPhrase": "huàn",
+  "romanizedImportantCharacter":"huàn",
   "strokes": 7,
   "wordAudio": "audio/lesson15/huan/word.mp3",
   "phraseAudio": "",
@@ -36,5 +36,6 @@
     "00:00:08",
     "00:00:10",
     "00:00:12"
-  ]
+  ],
+  "englishTranslation":""
 }

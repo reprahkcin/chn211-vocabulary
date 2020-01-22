@@ -1,7 +1,7 @@
 {
     "id": "zaoGao",
-    "englishPhrase": "zāo gāo",
-    "englishImportantCharacter":"zāo",
+    "romanizedPhrase": "zāo gāo",
+    "romanizedImportantCharacter":"zāo",
     "strokes": 17,
     "wordAudio": "audio/lesson18/zaoGao/word.mp3",
     "phraseAudio": "",
@@ -67,5 +67,6 @@
         "00:00:28",
         "00:00:30",
         "00:00:32"
-    ]
+    ],
+    "englishTranslation":""
   }

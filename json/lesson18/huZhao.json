@@ -1,7 +1,7 @@
 {
     "id": "huZhao",
-    "englishPhrase": "hù zhào",
-    "englishImportantCharacter":"hù",
+    "romanizedPhrase": "hù zhào",
+    "romanizedImportantCharacter":"hù",
     "strokes": 7,
     "wordAudio": "audio/lesson18/huZhao/word.mp3",
     "phraseAudio": "",
@@ -37,5 +37,6 @@
         "00:00:08",
         "00:00:10",
         "00:00:12"
-    ]
+    ],
+    "englishTranslation":""
   }

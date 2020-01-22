@@ -1,7 +1,7 @@
 {
     "id": "keQi",
-    "englishPhrase": "kè qì",
-    "englishImportantCharacter":"kè",
+    "romanizedPhrase": "kè qì",
+    "romanizedImportantCharacter":"kè",
     "strokes": 9,
     "wordAudio": "audio/lesson18/keQi/word.mp3",
     "phraseAudio": "",
@@ -44,5 +44,6 @@
         "00:00:12",
         "00:00:14",
         "00:00:16"
-    ]
+    ],
+    "englishTranslation":""
   }

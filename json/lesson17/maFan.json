@@ -1,7 +1,7 @@
 {
     "id": "maFan",
-    "englishPhrase": "má fán",
-    "englishImportantCharacter":"má fán",
+    "romanizedPhrase": "má fán",
+    "romanizedImportantCharacter":"má fán",
     "strokes": 21,
     "wordAudio": "audio/lesson17/maFan/word.mp3",
     "phraseAudio": "audio/lesson17/maFan/phrase.mp3",
@@ -79,5 +79,6 @@
         "00:00:36",
         "00:00:38",
         "00:00:40"
-    ]
+    ],
+    "englishTranslation":""
 }

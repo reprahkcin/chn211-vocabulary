@@ -1,7 +1,7 @@
 {
   "id": "tuShuGuan",
-  "englishPhrase": "tú shū guǎn",
-  "englishImportantCharacter":"guǎn",
+  "romanizedPhrase": "tú shū guǎn",
+  "romanizedImportantCharacter":"guǎn",
   "strokes": 11,
   "wordAudio":"audio/lesson16/tuShuGuan/word.mp3",
     "phraseAudio": "audio/lesson16/tuShuGuan/phrase.mp3",
@@ -50,5 +50,6 @@
     "00:00:16",
     "00:00:18",
     "00:00:20"
-  ]
+  ],
+  "englishTranslation":""
 }

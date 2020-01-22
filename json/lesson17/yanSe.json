@@ -1,7 +1,7 @@
 {
     "id": "yanSe",
-    "englishPhrase": "yán sè",
-    "englishImportantCharacter":"yán sè",
+    "romanizedPhrase": "yán sè",
+    "romanizedImportantCharacter":"yán sè",
     "strokes": 21,
     "wordAudio": "audio/lesson17/yanSe/word.mp3",
     "phraseAudio": "audio/lesson17/yanSe/phrase.mp3",
@@ -79,5 +79,6 @@
         "00:00:36",
         "00:00:38",
         "00:00:40"
-    ]
+    ],
+    "englishTranslation":""
 }

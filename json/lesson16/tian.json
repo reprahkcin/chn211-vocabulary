@@ -1,7 +1,7 @@
 {
   "id": "tian",
-  "englishPhrase": "tián",
-  "englishImportantCharacter":"tián",
+  "romanizedPhrase": "tián",
+  "romanizedImportantCharacter":"tián",
   "strokes": 13,
   "wordAudio": "audio/lesson16/tian/word.mp3",
   "phraseAudio": "",
@@ -54,5 +54,6 @@
     "00:00:20",
     "00:00:22",
     "00:00:24"
-  ]
+  ],
+  "englishTranslation":""
 }

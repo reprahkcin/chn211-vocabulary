@@ -1,7 +1,7 @@
 {
     "id": "yu",
-    "englishPhrase": "yù",
-    "englishImportantCharacter":"yù",
+    "romanizedPhrase": "yù",
+    "romanizedImportantCharacter":"yù",
     "strokes": 6,
     "wordAudio": "audio/lesson18/yu/word.mp3",
     "phraseAudio": "",
@@ -33,5 +33,6 @@
         "00:00:06",
         "00:00:08",
         "00:00:10"
-    ]
+    ],
+    "englishTranslation":""
   }

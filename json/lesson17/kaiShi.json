@@ -1,7 +1,7 @@
 {
     "id": "kaiShi",
-    "englishPhrase": "kāi shǐ",
-    "englishImportantCharacter":"shǐ",
+    "romanizedPhrase": "kāi shǐ",
+    "romanizedImportantCharacter":"shǐ",
     "strokes": 8,
     "wordAudio": "audio/lesson17/kaiShi/word.mp3",
     "phraseAudio": "audio/lesson17/kaiShi/phrase.mp3",
@@ -40,5 +40,6 @@
         "00:00:10",
         "00:00:12",
         "00:00:14"
-    ]
+    ],
+    "englishTranslation":""
 }

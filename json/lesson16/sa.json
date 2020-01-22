@@ -1,7 +1,7 @@
 {
   "id": "sa",
-  "englishPhrase": "sà",
-  "englishImportantCharacter":"sà",
+  "romanizedPhrase": "sà",
+  "romanizedImportantCharacter":"sà",
   "strokes": 4,
   "wordAudio": "audio/lesson16/sa/word.mp3",
   "phraseAudio": "",
@@ -27,5 +27,6 @@
     "00:00:02",
     "00:00:04",
     "00:00:06"
-  ]
+  ],
+  "englishTranslation":""
 }

@@ -1,7 +1,7 @@
 {
   "id": "kaoShi",
-  "englishPhrase": "kǎo shì",
-  "englishImportantCharacter":"kǎo shì",
+  "romanizedPhrase": "kǎo shì",
+  "romanizedImportantCharacter":"kǎo shì",
   "strokes": 14,
   "wordAudio":"audio/lesson16/kaoShi/word.mp3",
     "phraseAudio": "audio/lesson16/kaoShi/phrase.mp3",
@@ -58,5 +58,6 @@
     "00:00:22",
     "00:00:24",
     "00:00:26"
-  ]
+  ],
+  "englishTranslation":""
 }

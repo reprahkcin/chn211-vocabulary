@@ -1,7 +1,7 @@
 {
     "id": "lu",
-    "englishPhrase": "lù",
-    "englishImportantCharacter":"lù",
+    "romanizedPhrase": "lù",
+    "romanizedImportantCharacter":"lù",
     "strokes": 13,
     "wordAudio": "audio/lesson18/lu/word.mp3",
     "phraseAudio": "",
@@ -54,5 +54,6 @@
         "00:00:20",
         "00:00:22",
         "00:00:24"
-    ]
+    ],
+    "englishTranslation":""
   }

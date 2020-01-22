@@ -1,7 +1,7 @@
 {
     "id": "qiChe",
-    "englishPhrase": "qì chē",
-    "englishImportantCharacter":"qì",
+    "romanizedPhrase": "qì chē",
+    "romanizedImportantCharacter":"qì",
     "strokes": 7,
     "wordAudio": "audio/lesson18/qiChe/word.mp3",
     "phraseAudio": "",
@@ -37,5 +37,6 @@
         "00:00:08",
         "00:00:10",
         "00:00:12"
-    ]
+    ],
+    "englishTranslation":""
   }

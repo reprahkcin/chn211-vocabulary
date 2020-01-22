@@ -1,7 +1,7 @@
 {
   "id": "nianQing",
-  "englishPhrase": "nián qīng",
-  "englishImportantCharacter":"qīng",
+  "romanizedPhrase": "nián qīng",
+  "romanizedImportantCharacter":"qīng",
   "strokes": 9,
   "wordAudio": "audio/lesson15/nianQing/word.mp3",
   "phraseAudio": "audio/lesson15/nianQing/phrase.mp3",
@@ -43,5 +43,6 @@
     "00:00:12",
     "00:00:14",
     "00:00:16"
-  ]
+  ],
+  "englishTranslation":""
 }

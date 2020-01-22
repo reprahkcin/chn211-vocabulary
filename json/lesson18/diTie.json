@@ -1,7 +1,7 @@
 {
     "id": "diTie",
-    "englishPhrase": "dì tiě",
-    "englishImportantCharacter":"dì tiě",
+    "romanizedPhrase": "dì tiě",
+    "romanizedImportantCharacter":"dì tiě",
     "strokes": 16,
     "wordAudio": "audio/lesson18/diTie/word.mp3",
     "phraseAudio": "",
@@ -64,5 +64,6 @@
         "00:00:26",
         "00:00:28",
         "00:00:30"
-    ]
+    ],
+    "englishTranslation":""
   }

@@ -1,7 +1,7 @@
 {
   "id": "puTongHua",
-  "englishPhrase": "pǔ tōng huà",
-  "englishImportantCharacter":"huà",
+  "romanizedPhrase": "pǔ tōng huà",
+  "romanizedImportantCharacter":"huà",
   "strokes": 8,
   "wordAudio": "audio/lesson15/puTongHua/word.mp3",
   "phraseAudio": "audio/lesson15/puTongHua/phrase.mp3",
@@ -41,5 +41,6 @@
     "00:00:10",
     "00:00:12",
     "00:00:14"
-  ]
+  ],
+  "englishTranslation":""
 }

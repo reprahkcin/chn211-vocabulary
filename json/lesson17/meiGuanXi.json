@@ -1,7 +1,7 @@
 {
     "id": "meiGuanXi",
-    "englishPhrase": "méi guān xì",
-    "englishImportantCharacter":"guān",
+    "romanizedPhrase": "méi guān xì",
+    "romanizedImportantCharacter":"guān",
     "strokes": 6,
     "wordAudio": "audio/lesson17/meiGuanXi/word.mp3",
     "phraseAudio": "audio/lesson17/meiGuanXi/phrase.mp3",
@@ -35,5 +35,6 @@
         "00:00:06",
         "00:00:08",
         "00:00:10"
-    ]
+    ],
+    "englishTranslation":""
 }

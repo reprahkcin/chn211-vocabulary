@@ -1,7 +1,7 @@
 {
   "id": "wang",
-  "englishPhrase": "wàng",
-  "englishImportantCharacter":"wàng",
+  "romanizedPhrase": "wàng",
+  "romanizedImportantCharacter":"wàng",
   "strokes": 7,
   "wordAudio": "audio/lesson16/wang/word.mp3",
   "phraseAudio": "",
@@ -36,5 +36,6 @@
     "00:00:08",
     "00:00:10",
     "00:00:12"
-  ]
+  ],
+  "englishTranslation":""
 }

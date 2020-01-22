@@ -1,7 +1,7 @@
 {
   "id": "bingMaYong",
-  "englishPhrase": "bīng mǎ yǒng",
-  "englishImportantCharacter":"bīng",
+  "romanizedPhrase": "bīng mǎ yǒng",
+  "romanizedImportantCharacter":"bīng",
   "strokes": 7,
   "wordAudio": "audio/lesson15/bingMaYong/word.mp3",
   "phraseAudio": "audio/lesson15/bingMaYong/phrase.mp3",
@@ -38,5 +38,6 @@
     "00:00:08",
     "00:00:10",
     "00:00:12"
-  ]
+  ],
+  "englishTranslation":""
 }

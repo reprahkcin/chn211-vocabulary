@@ -1,7 +1,7 @@
 {
     "id": "si",
-    "englishPhrase": "sì",
-    "englishImportantCharacter":"sì",
+    "romanizedPhrase": "sì",
+    "romanizedImportantCharacter":"sì",
     "strokes": 3,
     "wordAudio": "audio/lesson18/si/word.mp3",
     "phraseAudio": "",
@@ -24,5 +24,6 @@
         "00:00:00",
         "00:00:02",
         "00:00:04"
-    ]
+    ],
+    "englishTranslation":""
   }

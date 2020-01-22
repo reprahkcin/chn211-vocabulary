@@ -1,7 +1,7 @@
 {
     "id": "jiu",
-    "englishPhrase": "jiù",
-    "englishImportantCharacter":"jiù",
+    "romanizedPhrase": "jiù",
+    "romanizedImportantCharacter":"jiù",
     "strokes": 5,
     "wordAudio": "audio/lesson18/jiu/word.mp3",
     "phraseAudio": "",
@@ -30,5 +30,6 @@
         "00:00:04",
         "00:00:06",
         "00:00:08"
-    ]
+    ],
+    "englishTranslation":""
   }

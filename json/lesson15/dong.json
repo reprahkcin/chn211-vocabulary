@@ -1,7 +1,7 @@
 {
   "id": "dong",
-  "englishPhrase": "dǒng",
-  "englishImportantCharacter":"dǒng",
+  "romanizedPhrase": "dǒng",
+  "romanizedImportantCharacter":"dǒng",
   "strokes": 15,
   "wordAudio": "audio/lesson15/dong/word.mp3",
   "phraseAudio": "",
@@ -60,5 +60,6 @@
     "00:00:24",
     "00:00:26",
     "00:00:28"
-  ]
+  ],
+  "englishTranslation":""
 }

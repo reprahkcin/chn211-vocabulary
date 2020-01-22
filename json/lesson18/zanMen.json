@@ -1,7 +1,7 @@
 {
     "id": "zanMen",
-    "englishPhrase": "zán men",
-    "englishImportantCharacter":"zán",
+    "romanizedPhrase": "zán men",
+    "romanizedImportantCharacter":"zán",
     "strokes": 9,
     "wordAudio": "audio/lesson18/zanMen/word.mp3",
     "phraseAudio": "",
@@ -43,5 +43,6 @@
         "00:00:12",
         "00:00:14",
         "00:00:16"
-    ]
+    ],
+    "englishTranslation":""
   }

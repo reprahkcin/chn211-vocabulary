@@ -1,7 +1,7 @@
 {
     "id": "duan",
-    "englishPhrase": "duǎn",
-    "englishImportantCharacter":"duǎn",
+    "romanizedPhrase": "duǎn",
+    "romanizedImportantCharacter":"duǎn",
     "strokes": 12,
     "wordAudio": "audio/lesson17/duan/word.mp3",
     "phraseAudio": "",
@@ -51,5 +51,6 @@
         "00:00:18",
         "00:00:20",
         "00:00:22"
-    ]
+    ],
+    "englishTranslation":""
 }

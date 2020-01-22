@@ -1,7 +1,7 @@
 {
   "id": "dai",
-  "englishPhrase": "dài",
-  "englishImportantCharacter":"dài",
+  "romanizedPhrase": "dài",
+  "romanizedImportantCharacter":"dài",
   "strokes": 9,
   "wordAudio": "audio/lesson16/dai/word.mp3",
   "phraseAudio": "",
@@ -42,5 +42,6 @@
     "00:00:12",
     "00:00:14",
     "00:00:16"
-  ]
+  ],
+  "englishTranslation":""
 }

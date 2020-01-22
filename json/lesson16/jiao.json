@@ -1,7 +1,7 @@
 {
   "id": "jiao",
-  "englishPhrase": "jiāo",
-  "englishImportantCharacter":"jiāo",
+  "romanizedPhrase": "jiāo",
+  "romanizedImportantCharacter":"jiāo",
   "strokes": 6,
   "wordAudio": "audio/lesson16/jiao/word.mp3",
   "phraseAudio": "",
@@ -33,5 +33,6 @@
     "00:00:06",
     "00:00:08",
     "00:00:10"
-  ]
+  ],
+  "englishTranslation":""
 }

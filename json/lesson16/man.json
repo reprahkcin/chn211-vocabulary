@@ -1,7 +1,7 @@
 {
   "id": "man",
-  "englishPhrase": "màn",
-  "englishImportantCharacter":"màn",
+  "romanizedPhrase": "màn",
+  "romanizedImportantCharacter":"màn",
   "strokes": 14,
   "wordAudio": "audio/lesson16/man/word.mp3",
   "phraseAudio": "",
@@ -57,5 +57,6 @@
     "00:00:22",
     "00:00:24",
     "00:00:26"
-  ]
+  ],
+  "englishTranslation":""
 }

@@ -1,7 +1,7 @@
 {
     "id": "zhan",
-    "englishPhrase": "zhàn",
-    "englishImportantCharacter":"zhàn",
+    "romanizedPhrase": "zhàn",
+    "romanizedImportantCharacter":"zhàn",
     "strokes": 10,
     "wordAudio": "audio/lesson18/zhan/word.mp3",
     "phraseAudio": "",
@@ -45,5 +45,6 @@
         "00:00:14",
         "00:00:16",
         "00:00:18"
-    ]
+    ],
+    "englishTranslation":""
   }

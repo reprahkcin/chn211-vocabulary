@@ -1,7 +1,7 @@
 {
   "id": "buCuo",
-  "englishPhrase": "bú cuò",
-  "englishImportantCharacter":"cuò",
+  "romanizedPhrase": "bú cuò",
+  "romanizedImportantCharacter":"cuò",
   "strokes": 13,
   "wordAudio":"audio/lesson16/buCuo/word.mp3",
     "phraseAudio": "audio/lesson16/buCuo/phrase.mp3",
@@ -55,5 +55,6 @@
     "00:00:20",
     "00:00:22",
     "00:00:24"
-  ]
+  ],
+  "englishTranslation":""
 }

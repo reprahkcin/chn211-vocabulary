@@ -1,7 +1,7 @@
 {
     "id": "qianMen",
-    "englishPhrase": "qián mén",
-    "englishImportantCharacter":"qián",
+    "romanizedPhrase": "qián mén",
+    "romanizedImportantCharacter":"qián",
     "strokes": 9,
     "wordAudio": "audio/lesson18/qianMen/word.mp3",
     "phraseAudio": "",
@@ -43,5 +43,6 @@
         "00:00:12",
         "00:00:14",
         "00:00:16"
-    ]
+    ],
+    "englishTranslation":""
   }

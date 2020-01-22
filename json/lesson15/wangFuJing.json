@@ -1,7 +1,7 @@
 {
   "id": "wangFuJing",
-  "englishPhrase": "wáng fǔ jǐng",
-  "englishImportantCharacter":"jǐng",
+  "romanizedPhrase": "wáng fǔ jǐng",
+  "romanizedImportantCharacter":"jǐng",
   "strokes": 4,
   "wordAudio": "audio/lesson15/wangFuJing/word.mp3",
   "phraseAudio": "audio/lesson15/wangFuJing/phrase.mp3",
@@ -29,5 +29,6 @@
     "00:00:02",
     "00:00:04",
     "00:00:06"
-  ]
+  ],
+  "englishTranslation":""
 }

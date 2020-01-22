@@ -1,7 +1,7 @@
 {
   "id": "yong",
-  "englishPhrase": "yǒng",
-  "englishImportantCharacter":"yǒng",
+  "romanizedPhrase": "yǒng",
+  "romanizedImportantCharacter":"yǒng",
   "strokes": 7,
   "wordAudio": "audio/lesson15/yong/word.mp3",
   "phraseAudio": "",
@@ -36,5 +36,6 @@
     "00:00:08",
     "00:00:10",
     "00:00:12"
-  ]
+  ],
+  "englishTranslation":""
 }

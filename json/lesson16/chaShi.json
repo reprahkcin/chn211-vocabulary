@@ -1,7 +1,7 @@
 {
   "id": "chaShi",
-  "englishPhrase": "chá shí",
-  "englishImportantCharacter":"chá",
+  "romanizedPhrase": "chá shí",
+  "romanizedImportantCharacter":"chá",
   "strokes": 9,
   "wordAudio":"audio/lesson16/chaShi/word.mp3",
     "phraseAudio": "audio/lesson16/chaShi/phrase.mp3",
@@ -43,5 +43,6 @@
     "00:00:12",
     "00:00:14",
     "00:00:16"
-  ]
+  ],
+  "englishTranslation":""
 }

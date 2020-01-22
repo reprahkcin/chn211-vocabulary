@@ -1,7 +1,7 @@
 {
     "id": "qu",
-    "englishPhrase": "qǔ",
-    "englishImportantCharacter":"qǔ",
+    "romanizedPhrase": "qǔ",
+    "romanizedImportantCharacter":"qǔ",
     "strokes": 8,
     "wordAudio": "audio/lesson18/qu/word.mp3",
     "phraseAudio": "",
@@ -38,5 +38,6 @@
         "00:00:10",
         "00:00:12",
         "00:00:14"
-    ]
+    ],
+    "englishTranslation":""
   }

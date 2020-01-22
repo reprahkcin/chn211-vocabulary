@@ -1,7 +1,7 @@
 {
     "id": "hangKong",
-    "englishPhrase": "háng kōng",
-    "englishImportantCharacter":"háng kōng",
+    "romanizedPhrase": "háng kōng",
+    "romanizedImportantCharacter":"háng kōng",
     "strokes": 18,
     "wordAudio": "audio/lesson18/hangKong/word.mp3",
     "phraseAudio": "",
@@ -68,5 +68,6 @@
         "00:00:26",
         "00:00:28",
         "00:00:30"
-    ]
+    ],
+    "englishTranslation":""
   }

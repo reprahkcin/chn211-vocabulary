@@ -1,7 +1,7 @@
 {
     "id": "liBian",
-    "englishPhrase": "lǐ biān",
-    "englishImportantCharacter":"biān",
+    "romanizedPhrase": "lǐ biān",
+    "romanizedImportantCharacter":"biān",
     "strokes": 5,
     "wordAudio": "audio/lesson18/liBian/word.mp3",
     "phraseAudio": "",
@@ -76,5 +76,6 @@
         "00:00:34",
         "00:00:35",
         "00:00:36"
-    ]
+    ],
+    "englishTranslation":""
   }

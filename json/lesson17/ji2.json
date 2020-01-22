@@ -1,7 +1,7 @@
 {
     "id": "ji2",
-    "englishPhrase": "jí",
-    "englishImportantCharacter":"jí",
+    "romanizedPhrase": "jí",
+    "romanizedImportantCharacter":"jí",
     "strokes": 7,
     "wordAudio": "audio/lesson17/ji2/word.mp3",
     "phraseAudio": "",
@@ -36,5 +36,6 @@
         "00:00:08",
         "00:00:10",
         "00:00:12"
-    ]
+    ],
+    "englishTranslation":""
 }

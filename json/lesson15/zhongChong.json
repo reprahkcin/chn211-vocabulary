@@ -1,7 +1,7 @@
 {
   "id": "zhongChong",
-  "englishPhrase": "zhòng/chóng",
-  "englishImportantCharacter":"zhòng/chóng",
+  "romanizedPhrase": "zhòng/chóng",
+  "romanizedImportantCharacter":"zhòng/chóng",
   "strokes": 9,
   "wordAudio": "audio/lesson15/zhong/word.mp3",
   "phraseAudio": "",
@@ -42,5 +42,6 @@
     "00:00:12",
     "00:00:14",
     "00:00:16"
-  ]
+  ],
+  "englishTranslation":""
 }

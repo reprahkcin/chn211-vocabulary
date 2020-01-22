@@ -1,7 +1,7 @@
 {
     "id": "cheng",
-    "englishPhrase": "chéng",
-    "englishImportantCharacter":"chéng",
+    "romanizedPhrase": "chéng",
+    "romanizedImportantCharacter":"chéng",
     "strokes": 10,
     "wordAudio": "audio/lesson18/cheng/word.mp3",
     "phraseAudio": "",
@@ -45,5 +45,6 @@
         "00:00:14",
         "00:00:16",
         "00:00:18"
-    ]
+    ],
+    "englishTranslation":""
   }

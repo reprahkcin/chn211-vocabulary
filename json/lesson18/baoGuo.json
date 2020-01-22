@@ -1,7 +1,7 @@
 {
     "id": "baoGuo",
-    "englishPhrase": "bāo guǒ",
-    "englishImportantCharacter":"bāo guǒ",
+    "romanizedPhrase": "bāo guǒ",
+    "romanizedImportantCharacter":"bāo guǒ",
     "strokes": 19,
     "wordAudio": "audio/lesson18/baoGuo/word.mp3",
     "phraseAudio": "",
@@ -73,5 +73,6 @@
         "00:00:32",
         "00:00:34",
         "00:00:35"
-    ]
+    ],
+    "englishTranslation":""
   }

@@ -1,7 +1,7 @@
 {
     "id": "gongYuan",
-    "englishPhrase": "gōng yuán",
-    "englishImportantCharacter":"yuán",
+    "romanizedPhrase": "gōng yuán",
+    "romanizedImportantCharacter":"yuán",
     "strokes": 7,
     "wordAudio": "audio/lesson17/gongYuan/word.mp3",
     "phraseAudio": "audio/lesson17/gongYuan/phrase.mp3",
@@ -37,5 +37,6 @@
         "00:00:08",
         "00:00:10",
         "00:00:12"
-    ]
+    ],
+    "englishTranslation":""
 }

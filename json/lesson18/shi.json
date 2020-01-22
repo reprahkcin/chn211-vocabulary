@@ -1,7 +1,7 @@
 {
     "id": "shi",
-    "englishPhrase": "shī",
-    "englishImportantCharacter":"shī",
+    "romanizedPhrase": "shī",
+    "romanizedImportantCharacter":"shī",
     "strokes": 5,
     "wordAudio": "audio/lesson18/shi/word.mp3",
     "phraseAudio": "",
@@ -30,5 +30,6 @@
         "00:00:04",
         "00:00:06",
         "00:00:08"
-    ]
+    ],
+    "englishTranslation":""
   }

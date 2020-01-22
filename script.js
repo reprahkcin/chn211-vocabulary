@@ -94,8 +94,8 @@ function createPs(){
 // }
 
 // function characterTitle(){
-//     var eng = createElement('h1',selectedObject.english);
-//     eng.parent('english');
+//     var eng = createElement('h1',selectedObject.romanized);
+//     eng.parent('romanized');
 // }
 
 // function loadVideo(){

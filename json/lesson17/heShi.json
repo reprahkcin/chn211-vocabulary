@@ -1,7 +1,7 @@
 {
     "id": "heShi",
-    "englishPhrase": "hé shì",
-    "englishImportantCharacter":"hé",
+    "romanizedPhrase": "hé shì",
+    "romanizedImportantCharacter":"hé",
     "strokes": 6,
     "wordAudio": "audio/lesson17/heShi/word.mp3",
     "phraseAudio": "audio/lesson17/heShi/phrase.mp3",
@@ -34,5 +34,6 @@
         "00:00:06",
         "00:00:08",
         "00:00:10"
-    ]
+    ],
+    "englishTranslation":""
 }

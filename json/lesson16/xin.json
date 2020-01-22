@@ -1,7 +1,7 @@
 {
   "id": "xin",
-  "englishPhrase": "xīn",
-  "englishImportantCharacter":"xīn",
+  "romanizedPhrase": "xīn",
+  "romanizedImportantCharacter":"xīn",
   "strokes": 13,
   "wordAudio": "audio/lesson16/xin/word.mp3",
   "phraseAudio": "",
@@ -54,5 +54,6 @@
     "00:00:20",
     "00:00:22",
     "00:00:24"
-  ]
+  ],
+  "englishTranslation":""
 }

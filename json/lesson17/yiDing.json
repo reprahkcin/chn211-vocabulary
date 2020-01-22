@@ -1,7 +1,7 @@
 {
     "id": "yiDing",
-    "englishPhrase": "yī dìng",
-    "englishImportantCharacter":"dìng",
+    "romanizedPhrase": "yī dìng",
+    "romanizedImportantCharacter":"dìng",
     "strokes": 8,
     "wordAudio": "audio/lesson17/yiDing/word.mp3",
     "phraseAudio": "audio/lesson17/yiDing/phrase.mp3",
@@ -40,5 +40,6 @@
         "00:00:10",
         "00:00:12",
         "00:00:14"
-    ]
+    ],
+    "englishTranslation":""
 }

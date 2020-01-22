@@ -1,7 +1,7 @@
 {
   "id": "shiYong",
-  "englishPhrase": "shí yòng",
-  "englishImportantCharacter":"shí",
+  "romanizedPhrase": "shí yòng",
+  "romanizedImportantCharacter":"shí",
   "strokes": 8,
   "wordAudio":"audio/lesson16/shiYong/word.mp3",
     "phraseAudio": "audio/lesson16/shiYong/phrase.mp3",
@@ -40,5 +40,6 @@
     "00:00:10",
     "00:00:12",
     "00:00:14"
-  ]
+  ],
+  "englishTranslation":""
 }

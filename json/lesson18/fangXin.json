@@ -1,7 +1,7 @@
 {
     "id": "fangXin",
-    "englishPhrase": "fàng xīn",
-    "englishImportantCharacter":"fàng",
+    "romanizedPhrase": "fàng xīn",
+    "romanizedImportantCharacter":"fàng",
     "strokes": 8,
     "wordAudio": "audio/lesson18/fangXin/word.mp3",
     "phraseAudio": "",
@@ -40,5 +40,6 @@
         "00:00:10",
         "00:00:12",
         "00:00:14"
-    ]
+    ],
+    "englishTranslation":""
   }

@@ -1,7 +1,7 @@
 {
   "id": "xiAn",
-  "englishPhrase": "xī ān",
-  "englishImportantCharacter":"ān",
+  "romanizedPhrase": "xī ān",
+  "romanizedImportantCharacter":"ān",
   "strokes": 6,
   "wordAudio": "audio/lesson15/xiAn/word.mp3",
   "phraseAudio": "audio/lesson15/xiAn/phrase.mp3",
@@ -34,5 +34,6 @@
     "00:00:06",
     "00:00:08",
     "00:00:10"
-  ]
+  ],
+  "englishTranslation":""
 }

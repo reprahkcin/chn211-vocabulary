@@ -1,7 +1,7 @@
 {
   "id": "xingBie",
-  "englishPhrase": "xìng bié",
-  "englishImportantCharacter":"xìng bié",
+  "romanizedPhrase": "xìng bié",
+  "romanizedImportantCharacter":"xìng bié",
   "strokes": 15,
   "wordAudio":"audio/lesson16/xingBie/word.mp3",
     "phraseAudio": "audio/lesson16/xingBie/phrase.mp3",
@@ -61,5 +61,6 @@
     "00:00:24",
     "00:00:26",
     "00:00:28"
-  ]
+  ],
+  "englishTranslation":""
 }

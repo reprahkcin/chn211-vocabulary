@@ -1,7 +1,7 @@
 {
   "id": "cong",
-  "englishPhrase": "cóng",
-  "englishImportantCharacter":"cóng",
+  "romanizedPhrase": "cóng",
+  "romanizedImportantCharacter":"cóng",
   "strokes": 4,
   "wordAudio": "audio/lesson15/cong/word.mp3",
   "phraseAudio": "",
@@ -27,5 +27,6 @@
     "00:00:02",
     "00:00:04",
     "00:00:06"
-  ]
+  ],
+  "englishTranslation":""
 }
