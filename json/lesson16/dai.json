@@ -1,11 +1,13 @@
 {
   "id": "dai",
+  "chinese": "带",
+  "chinesePhrase": "带",
   "romanizedPhrase": "dài",
-  "romanizedImportantCharacter":"dài",
+  "romanizedImportantCharacter": "dài",
   "strokes": 9,
   "wordAudio": "audio/lesson16/dai/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/dai.png"
   ],
@@ -43,5 +45,5 @@
     "00:00:14",
     "00:00:16"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

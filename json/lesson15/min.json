@@ -1,11 +1,13 @@
 {
   "id": "min",
+  "chinese": "民",
+  "chinesePhrase": "民",
   "romanizedPhrase": "mín",
-  "romanizedImportantCharacter":"mín",
+  "romanizedImportantCharacter": "mín",
   "strokes": 5,
   "wordAudio": "audio/lesson15/min/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/min.png"
   ],
@@ -31,5 +33,5 @@
     "00:00:06",
     "00:00:08"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

@@ -1,11 +1,13 @@
 {
     "id": "kaiShi",
+    "chinese": "开始",
+    "chinesePhrase": ["开", "始"],
     "romanizedPhrase": "kāi shǐ",
-    "romanizedImportantCharacter":"shǐ",
+    "romanizedImportantCharacter": "shǐ",
     "strokes": 8,
     "wordAudio": "audio/lesson17/kaiShi/word.mp3",
     "phraseAudio": "audio/lesson17/kaiShi/phrase.mp3",
-    "importantCharacter":[1],
+    "importantCharacter": [1],
     "mainGraphics": [
         "images/lesson17/characters/kaiShi-a.png",
         "images/lesson17/characters/kaiShi-b.png"
@@ -41,5 +43,5 @@
         "00:00:12",
         "00:00:14"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

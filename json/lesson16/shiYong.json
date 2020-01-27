@@ -1,11 +1,13 @@
 {
   "id": "shiYong",
+  "chinese": "实用",
+  "chinesePhrase": ["实", "用"],
   "romanizedPhrase": "shí yòng",
-  "romanizedImportantCharacter":"shí",
+  "romanizedImportantCharacter": "shí",
   "strokes": 8,
-  "wordAudio":"audio/lesson16/shiYong/word.mp3",
-    "phraseAudio": "audio/lesson16/shiYong/phrase.mp3",
-  "importantCharacter":[0],
+  "wordAudio": "audio/lesson16/shiYong/word.mp3",
+  "phraseAudio": "audio/lesson16/shiYong/phrase.mp3",
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/shiYong-a.png",
     "images/lesson16/characters/shiYong-b.png"
@@ -41,5 +43,5 @@
     "00:00:12",
     "00:00:14"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

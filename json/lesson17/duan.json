@@ -1,11 +1,13 @@
 {
     "id": "duan",
+    "chinese": "短",
+    "chinesePhrase": "短",
     "romanizedPhrase": "duǎn",
-    "romanizedImportantCharacter":"duǎn",
+    "romanizedImportantCharacter": "duǎn",
     "strokes": 12,
     "wordAudio": "audio/lesson17/duan/word.mp3",
     "phraseAudio": "",
-    "importantCharacter":[0],
+    "importantCharacter": [0],
     "mainGraphics": [
         "images/lesson17/characters/duan.png"
     ],
@@ -52,5 +54,5 @@
         "00:00:20",
         "00:00:22"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

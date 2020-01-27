@@ -1,32 +1,34 @@
 {
-    "id": "bi",
-    "romanizedPhrase": "bǐ",
-    "romanizedImportantCharacter":"bǐ",
-    "strokes": 4,
-    "wordAudio": "audio/lesson17/bi/word.mp3",
-    "phraseAudio": "",
-    "importantCharacter":[0],
-    "mainGraphics": [
-      "images/lesson17/characters/bi.png"
-    ],
-    "strokeAudio": [
-      "audio/lesson17/bi/01.mp3",
-      "audio/lesson17/bi/02.mp3",
-      "audio/lesson17/bi/03.mp3",
-      "audio/lesson17/bi/04.mp3"
-    ],
-    "strokePng": [
-      "images/lesson17/bi/bi-01.png",
-      "images/lesson17/bi/bi-02.png",
-      "images/lesson17/bi/bi-03.png",
-      "images/lesson17/bi/bi-04.png"
-    ],
-    "characterAnimated": "images/character-animated/lesson17/bi.mp4",
-    "timecodes": [
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06"
-    ],
-    "englishTranslation":""
-  }
+  "id": "bi",
+  "chinese": "比",
+  "chinesePhrase": "比",
+  "romanizedPhrase": "bǐ",
+  "romanizedImportantCharacter": "bǐ",
+  "strokes": 4,
+  "wordAudio": "audio/lesson17/bi/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson17/characters/bi.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson17/bi/01.mp3",
+    "audio/lesson17/bi/02.mp3",
+    "audio/lesson17/bi/03.mp3",
+    "audio/lesson17/bi/04.mp3"
+  ],
+  "strokePng": [
+    "images/lesson17/bi/bi-01.png",
+    "images/lesson17/bi/bi-02.png",
+    "images/lesson17/bi/bi-03.png",
+    "images/lesson17/bi/bi-04.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson17/bi.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06"
+  ],
+  "englishTranslation": ""
+}

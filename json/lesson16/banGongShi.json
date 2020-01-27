@@ -1,11 +1,13 @@
 {
   "id": "banGongShi",
+  "chinese": "办公室",
+  "chinesePhrase": ["办", "公", "室"],
   "romanizedPhrase": "bàn gōng shì",
-  "romanizedImportantCharacter":"shì",
+  "romanizedImportantCharacter": "shì",
   "strokes": 9,
-  "wordAudio":"audio/lesson16/banGongShi/word.mp3",
-    "phraseAudio": "audio/lesson16/banGongShi/phrase.mp3",
-  "importantCharacter":[2],
+  "wordAudio": "audio/lesson16/banGongShi/word.mp3",
+  "phraseAudio": "audio/lesson16/banGongShi/phrase.mp3",
+  "importantCharacter": [2],
   "mainGraphics": [
     "images/lesson16/characters/banGongShi-a.png",
     "images/lesson16/characters/banGongShi-b.png",
@@ -45,5 +47,5 @@
     "00:00:14",
     "00:00:16"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

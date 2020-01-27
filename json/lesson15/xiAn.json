@@ -1,11 +1,13 @@
 {
   "id": "xiAn",
+  "chinese": "西安",
+  "chinesePhrase": ["西", "安"],
   "romanizedPhrase": "xī ān",
-  "romanizedImportantCharacter":"ān",
+  "romanizedImportantCharacter": "ān",
   "strokes": 6,
   "wordAudio": "audio/lesson15/xiAn/word.mp3",
   "phraseAudio": "audio/lesson15/xiAn/phrase.mp3",
-  "importantCharacter":[1],
+  "importantCharacter": [1],
   "mainGraphics": [
     "images/lesson15/characters/xiAn-a.png",
     "images/lesson15/characters/xiAn-b.png"
@@ -35,5 +37,5 @@
     "00:00:08",
     "00:00:10"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

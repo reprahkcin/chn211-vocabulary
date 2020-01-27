@@ -1,11 +1,13 @@
 {
   "id": "dianNao",
+  "chinese": "电脑",
+  "chinesePhrase": ["电", "脑"],
   "romanizedPhrase": "diàn nǎo",
-  "romanizedImportantCharacter":"nǎo",
+  "romanizedImportantCharacter": "nǎo",
   "strokes": 10,
-  "wordAudio":"audio/lesson16/dianNao/word.mp3",
-    "phraseAudio": "audio/lesson16/dianNao/phrase.mp3",
-  "importantCharacter":[1],
+  "wordAudio": "audio/lesson16/dianNao/word.mp3",
+  "phraseAudio": "audio/lesson16/dianNao/phrase.mp3",
+  "importantCharacter": [1],
   "mainGraphics": [
     "images/lesson16/characters/dianNao-a.png",
     "images/lesson16/characters/dianNao-b.png"
@@ -47,5 +49,5 @@
     "00:00:16",
     "00:00:18"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

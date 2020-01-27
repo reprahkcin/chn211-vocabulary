@@ -1,48 +1,50 @@
 {
-    "id": "youFei",
-    "romanizedPhrase": "yóu fèi",
-    "romanizedImportantCharacter":"fèi",
-    "strokes": 9,
-    "wordAudio": "audio/lesson18/youFei/word.mp3",
-    "phraseAudio": "",
-    "importantCharacter":[1],
-    "mainGraphics": [
-      "images/lesson18/characters/youFei-a.png",
-      "images/lesson18/characters/youFei-b.png"
-    ],
-    "strokeAudio": [
-      "audio/lesson18/youFei/01.mp3",
-      "audio/lesson18/youFei/02.mp3",
-      "audio/lesson18/youFei/03.mp3",
-      "audio/lesson18/youFei/04.mp3",
-      "audio/lesson18/youFei/05.mp3",
-      "audio/lesson18/youFei/06.mp3",
-      "audio/lesson18/youFei/07.mp3",
-      "audio/lesson18/youFei/08.mp3",
-      "audio/lesson18/youFei/09.mp3"
-    ],
-    "strokePng": [
-      "images/lesson18/youFei/youFei-01.png",
-      "images/lesson18/youFei/youFei-02.png",
-      "images/lesson18/youFei/youFei-03.png",
-      "images/lesson18/youFei/youFei-04.png",
-      "images/lesson18/youFei/youFei-05.png",
-      "images/lesson18/youFei/youFei-06.png",
-      "images/lesson18/youFei/youFei-07.png",
-      "images/lesson18/youFei/youFei-08.png",
-      "images/lesson18/youFei/youFei-09.png"
-    ],
-    "characterAnimated": "images/character-animated/lesson18/youFei.mp4",
-    "timecodes": [
-        "00:00:00",
-        "00:00:02",
-        "00:00:04",
-        "00:00:06",
-        "00:00:08",
-        "00:00:10",
-        "00:00:12",
-        "00:00:14",
-        "00:00:16"
-    ],
-    "englishTranslation":""
-  }
+  "id": "youFei",
+  "chinese": "邮费",
+  "chinesePhrase": ["邮", "费"],
+  "romanizedPhrase": "yóu fèi",
+  "romanizedImportantCharacter": "fèi",
+  "strokes": 9,
+  "wordAudio": "audio/lesson18/youFei/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [1],
+  "mainGraphics": [
+    "images/lesson18/characters/youFei-a.png",
+    "images/lesson18/characters/youFei-b.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/youFei/01.mp3",
+    "audio/lesson18/youFei/02.mp3",
+    "audio/lesson18/youFei/03.mp3",
+    "audio/lesson18/youFei/04.mp3",
+    "audio/lesson18/youFei/05.mp3",
+    "audio/lesson18/youFei/06.mp3",
+    "audio/lesson18/youFei/07.mp3",
+    "audio/lesson18/youFei/08.mp3",
+    "audio/lesson18/youFei/09.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/youFei/youFei-01.png",
+    "images/lesson18/youFei/youFei-02.png",
+    "images/lesson18/youFei/youFei-03.png",
+    "images/lesson18/youFei/youFei-04.png",
+    "images/lesson18/youFei/youFei-05.png",
+    "images/lesson18/youFei/youFei-06.png",
+    "images/lesson18/youFei/youFei-07.png",
+    "images/lesson18/youFei/youFei-08.png",
+    "images/lesson18/youFei/youFei-09.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/youFei.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14",
+    "00:00:16"
+  ],
+  "englishTranslation": ""
+}

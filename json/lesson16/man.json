@@ -1,11 +1,13 @@
 {
   "id": "man",
+  "chinese": "慢",
+  "chinesePhrase": "慢",
   "romanizedPhrase": "màn",
-  "romanizedImportantCharacter":"màn",
+  "romanizedImportantCharacter": "màn",
   "strokes": 14,
   "wordAudio": "audio/lesson16/man/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/man.png"
   ],
@@ -58,5 +60,5 @@
     "00:00:24",
     "00:00:26"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

@@ -1,11 +1,13 @@
 {
   "id": "paiDui",
+  "chinese": "排队",
+  "chinesePhrase": ["排", "队"],
   "romanizedPhrase": "pái duì",
-  "romanizedImportantCharacter":"pái",
+  "romanizedImportantCharacter": "pái",
   "strokes": 11,
   "wordAudio": "audio/lesson15/paiDui/word.mp3",
   "phraseAudio": "audio/lesson15/paiDui/phrase.mp3",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/paiDui-a.png",
     "images/lesson15/characters/paiDui-b.png"
@@ -50,5 +52,5 @@
     "00:00:18",
     "00:00:20"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

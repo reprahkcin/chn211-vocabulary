@@ -1,44 +1,46 @@
 {
-    "id": "xie",
-    "romanizedPhrase": "xiē",
-    "romanizedImportantCharacter":"xiē",
-    "strokes": 8,
-    "wordAudio": "audio/lesson18/xie/word.mp3",
-    "phraseAudio": "",
-    "importantCharacter":[0],
-    "mainGraphics": [
-      "images/lesson18/characters/xie.png"
-    ],
-    "strokeAudio": [
-      "audio/lesson18/xie/01.mp3",
-      "audio/lesson18/xie/02.mp3",
-      "audio/lesson18/xie/03.mp3",
-      "audio/lesson18/xie/04.mp3",
-      "audio/lesson18/xie/05.mp3",
-      "audio/lesson18/xie/06.mp3",
-      "audio/lesson18/xie/07.mp3",
-      "audio/lesson18/xie/08.mp3"
-    ],
-    "strokePng": [
-      "images/lesson18/xie/xie-01.png",
-      "images/lesson18/xie/xie-02.png",
-      "images/lesson18/xie/xie-03.png",
-      "images/lesson18/xie/xie-04.png",
-      "images/lesson18/xie/xie-05.png",
-      "images/lesson18/xie/xie-06.png",
-      "images/lesson18/xie/xie-07.png",
-      "images/lesson18/xie/xie-08.png"
-    ],
-    "characterAnimated": "images/character-animated/lesson18/xie.mp4",
-    "timecodes": [
-        "00:00:00",
-        "00:00:02",
-        "00:00:04",
-        "00:00:06",
-        "00:00:08",
-        "00:00:10",
-        "00:00:12",
-        "00:00:14"
-    ],
-    "englishTranslation":""
-  }
+  "id": "xie",
+  "chinese": "些",
+  "chinesePhrase": "些",
+  "romanizedPhrase": "xiē",
+  "romanizedImportantCharacter": "xiē",
+  "strokes": 8,
+  "wordAudio": "audio/lesson18/xie/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/xie.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/xie/01.mp3",
+    "audio/lesson18/xie/02.mp3",
+    "audio/lesson18/xie/03.mp3",
+    "audio/lesson18/xie/04.mp3",
+    "audio/lesson18/xie/05.mp3",
+    "audio/lesson18/xie/06.mp3",
+    "audio/lesson18/xie/07.mp3",
+    "audio/lesson18/xie/08.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/xie/xie-01.png",
+    "images/lesson18/xie/xie-02.png",
+    "images/lesson18/xie/xie-03.png",
+    "images/lesson18/xie/xie-04.png",
+    "images/lesson18/xie/xie-05.png",
+    "images/lesson18/xie/xie-06.png",
+    "images/lesson18/xie/xie-07.png",
+    "images/lesson18/xie/xie-08.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/xie.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14"
+  ],
+  "englishTranslation": ""
+}

@@ -1,11 +1,13 @@
 {
     "id": "shangDian",
+    "chinese": "商店",
+    "chinesePhrase": ["商", "店"],
     "romanizedPhrase": "shāng diàn",
-    "romanizedImportantCharacter":"diàn",
+    "romanizedImportantCharacter": "diàn",
     "strokes": 8,
     "wordAudio": "audio/lesson17/shangDian/word.mp3",
     "phraseAudio": "audio/lesson17/shangDian/phrase.mp3",
-    "importantCharacter":[1],
+    "importantCharacter": [1],
     "mainGraphics": [
         "images/lesson17/characters/shangDian-a.png",
         "images/lesson17/characters/shangDian-b.png"
@@ -41,5 +43,5 @@
         "00:00:12",
         "00:00:14"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

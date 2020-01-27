@@ -1,11 +1,13 @@
 {
   "id": "guan",
+  "chinese": "官",
+  "chinesePhrase": "官",
   "romanizedPhrase": "guān",
-  "romanizedImportantCharacter":"guān",
+  "romanizedImportantCharacter": "guān",
   "strokes": 8,
   "wordAudio": "audio/lesson16/guan/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/guan.png"
   ],
@@ -40,5 +42,5 @@
     "00:00:12",
     "00:00:14"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

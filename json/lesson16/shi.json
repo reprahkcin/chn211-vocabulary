@@ -1,11 +1,13 @@
 {
   "id": "shi",
+  "chinese": "式",
+  "chinesePhrase": "式",
   "romanizedPhrase": "shì",
-  "romanizedImportantCharacter":"shì",
+  "romanizedImportantCharacter": "shì",
   "strokes": 6,
   "wordAudio": "audio/lesson16/shi/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/shi.png"
   ],
@@ -34,5 +36,5 @@
     "00:00:08",
     "00:00:10"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

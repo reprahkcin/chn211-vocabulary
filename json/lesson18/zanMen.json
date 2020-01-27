@@ -1,48 +1,50 @@
 {
-    "id": "zanMen",
-    "romanizedPhrase": "zán men",
-    "romanizedImportantCharacter":"zán",
-    "strokes": 9,
-    "wordAudio": "audio/lesson18/zanMen/word.mp3",
-    "phraseAudio": "",
-    "importantCharacter":[0],
-    "mainGraphics": [
-      "images/lesson18/characters/zanMen-a.png",
-      "images/lesson18/characters/zanMen-b.png"
-    ],
-    "strokeAudio": [
-      "audio/lesson18/zanMen/01.mp3",
-      "audio/lesson18/zanMen/02.mp3",
-      "audio/lesson18/zanMen/03.mp3",
-      "audio/lesson18/zanMen/04.mp3",
-      "audio/lesson18/zanMen/05.mp3",
-      "audio/lesson18/zanMen/06.mp3",
-      "audio/lesson18/zanMen/07.mp3",
-      "audio/lesson18/zanMen/08.mp3",
-      "audio/lesson18/zanMen/09.mp3"
-    ],
-    "strokePng": [
-      "images/lesson18/zanMen/zanMen-01.png",
-      "images/lesson18/zanMen/zanMen-02.png",
-      "images/lesson18/zanMen/zanMen-03.png",
-      "images/lesson18/zanMen/zanMen-04.png",
-      "images/lesson18/zanMen/zanMen-05.png",
-      "images/lesson18/zanMen/zanMen-06.png",
-      "images/lesson18/zanMen/zanMen-07.png",
-      "images/lesson18/zanMen/zanMen-08.png",
-      "images/lesson18/zanMen/zanMen-09.png"
-    ],
-    "characterAnimated": "images/character-animated/lesson18/zanMen.mp4",
-    "timecodes": [
-        "00:00:00",
-        "00:00:02",
-        "00:00:04",
-        "00:00:06",
-        "00:00:08",
-        "00:00:10",
-        "00:00:12",
-        "00:00:14",
-        "00:00:16"
-    ],
-    "englishTranslation":""
-  }
+  "id": "zanMen",
+  "chinese": "咱们",
+  "chinesePhrase": ["咱", "们"],
+  "romanizedPhrase": "zán men",
+  "romanizedImportantCharacter": "zán",
+  "strokes": 9,
+  "wordAudio": "audio/lesson18/zanMen/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/zanMen-a.png",
+    "images/lesson18/characters/zanMen-b.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/zanMen/01.mp3",
+    "audio/lesson18/zanMen/02.mp3",
+    "audio/lesson18/zanMen/03.mp3",
+    "audio/lesson18/zanMen/04.mp3",
+    "audio/lesson18/zanMen/05.mp3",
+    "audio/lesson18/zanMen/06.mp3",
+    "audio/lesson18/zanMen/07.mp3",
+    "audio/lesson18/zanMen/08.mp3",
+    "audio/lesson18/zanMen/09.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/zanMen/zanMen-01.png",
+    "images/lesson18/zanMen/zanMen-02.png",
+    "images/lesson18/zanMen/zanMen-03.png",
+    "images/lesson18/zanMen/zanMen-04.png",
+    "images/lesson18/zanMen/zanMen-05.png",
+    "images/lesson18/zanMen/zanMen-06.png",
+    "images/lesson18/zanMen/zanMen-07.png",
+    "images/lesson18/zanMen/zanMen-08.png",
+    "images/lesson18/zanMen/zanMen-09.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/zanMen.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14",
+    "00:00:16"
+  ],
+  "englishTranslation": ""
+}

@@ -1,11 +1,13 @@
 {
     "id": "chenShan",
+    "chinese": "衬衫",
+    "chinesePhrase": ["衬", "衫"],
     "romanizedPhrase": "chèn shān",
-    "romanizedImportantCharacter":"chèn shān",
+    "romanizedImportantCharacter": "chèn shān",
     "strokes": 16,
     "wordAudio": "audio/lesson17/chenShan/word.mp3",
     "phraseAudio": "audio/lesson17/chenShan/phrase.mp3",
-    "importantCharacter":[0,1],
+    "importantCharacter": [0, 1],
     "mainGraphics": [
         "images/lesson17/characters/chenShan-a.png",
         "images/lesson17/characters/chenShan-b.png"
@@ -65,5 +67,5 @@
         "00:00:28",
         "00:00:30"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

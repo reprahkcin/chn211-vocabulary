@@ -1,11 +1,13 @@
 {
   "id": "puTongHua",
+  "chinese": "普通话",
+  "chinesePhrase": ["普", "通", "话"],
   "romanizedPhrase": "pǔ tōng huà",
-  "romanizedImportantCharacter":"huà",
+  "romanizedImportantCharacter": "huà",
   "strokes": 8,
   "wordAudio": "audio/lesson15/puTongHua/word.mp3",
   "phraseAudio": "audio/lesson15/puTongHua/phrase.mp3",
-  "importantCharacter":[2],
+  "importantCharacter": [2],
   "mainGraphics": [
     "images/lesson15/characters/puTongHua-a.png",
     "images/lesson15/characters/puTongHua-b.png",
@@ -42,5 +44,5 @@
     "00:00:12",
     "00:00:14"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

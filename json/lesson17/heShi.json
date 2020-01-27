@@ -1,11 +1,13 @@
 {
     "id": "heShi",
+    "chinese": "合适",
+    "chinesePhrase": ["合", "适"],
     "romanizedPhrase": "hé shì",
-    "romanizedImportantCharacter":"hé",
+    "romanizedImportantCharacter": "hé",
     "strokes": 6,
     "wordAudio": "audio/lesson17/heShi/word.mp3",
     "phraseAudio": "audio/lesson17/heShi/phrase.mp3",
-    "importantCharacter":[0],
+    "importantCharacter": [0],
     "mainGraphics": [
         "images/lesson17/characters/heShi-a.png",
         "images/lesson17/characters/heShi-b.png"
@@ -35,5 +37,5 @@
         "00:00:08",
         "00:00:10"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

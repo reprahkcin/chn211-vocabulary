@@ -1,11 +1,13 @@
 {
   "id": "buCuo",
+  "chinese": "不错",
+  "chinesePhrase": ["不", "错"],
   "romanizedPhrase": "bú cuò",
-  "romanizedImportantCharacter":"cuò",
+  "romanizedImportantCharacter": "cuò",
   "strokes": 13,
-  "wordAudio":"audio/lesson16/buCuo/word.mp3",
-    "phraseAudio": "audio/lesson16/buCuo/phrase.mp3",
-  "importantCharacter":[1],
+  "wordAudio": "audio/lesson16/buCuo/word.mp3",
+  "phraseAudio": "audio/lesson16/buCuo/phrase.mp3",
+  "importantCharacter": [1],
   "mainGraphics": [
     "images/lesson16/characters/buCuo-a.png",
     "images/lesson16/characters/buCuo-b.png"
@@ -56,5 +58,5 @@
     "00:00:22",
     "00:00:24"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

@@ -1,35 +1,37 @@
 {
-    "id": "shi",
-    "romanizedPhrase": "shī",
-    "romanizedImportantCharacter":"shī",
-    "strokes": 5,
-    "wordAudio": "audio/lesson18/shi/word.mp3",
-    "phraseAudio": "",
-    "importantCharacter":[0],
-    "mainGraphics": [
-      "images/lesson18/characters/shi.png"
-    ],
-    "strokeAudio": [
-      "audio/lesson18/shi/01.mp3",
-      "audio/lesson18/shi/02.mp3",
-      "audio/lesson18/shi/03.mp3",
-      "audio/lesson18/shi/04.mp3",
-      "audio/lesson18/shi/05.mp3"
-    ],
-    "strokePng": [
-      "images/lesson18/shi/shi-01.png",
-      "images/lesson18/shi/shi-02.png",
-      "images/lesson18/shi/shi-03.png",
-      "images/lesson18/shi/shi-04.png",
-      "images/lesson18/shi/shi-05.png"
-    ],
-    "characterAnimated": "images/character-animated/lesson18/shi.mp4",
-    "timecodes": [
-        "00:00:00",
-        "00:00:02",
-        "00:00:04",
-        "00:00:06",
-        "00:00:08"
-    ],
-    "englishTranslation":""
-  }
+  "id": "shi",
+  "chinese": "失",
+  "chinesePhrase": "失",
+  "romanizedPhrase": "shī",
+  "romanizedImportantCharacter": "shī",
+  "strokes": 5,
+  "wordAudio": "audio/lesson18/shi/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/shi.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/shi/01.mp3",
+    "audio/lesson18/shi/02.mp3",
+    "audio/lesson18/shi/03.mp3",
+    "audio/lesson18/shi/04.mp3",
+    "audio/lesson18/shi/05.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/shi/shi-01.png",
+    "images/lesson18/shi/shi-02.png",
+    "images/lesson18/shi/shi-03.png",
+    "images/lesson18/shi/shi-04.png",
+    "images/lesson18/shi/shi-05.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/shi.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08"
+  ],
+  "englishTranslation": ""
+}

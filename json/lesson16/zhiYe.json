@@ -1,54 +1,56 @@
 {
-    "id":"zhiYe",
-    "romanizedPhrase":"zhí yè",
-    "romanizedImportantCharacter":"zhí",
-    "strokes":11,
-    "wordAudio":"audio/lesson16/zhiYe/word.mp3",
-    "phraseAudio": "audio/lesson16/zhiYe/phrase.mp3",
-    "importantCharacter":[0],
-    "mainGraphics":[
-      "images/lesson16/characters/zhiYe-a.png",
-      "images/lesson16/characters/zhiYe-b.png"
-    ],
-    "strokeAudio":[
-      "audio/lesson16/zhiYe/01.mp3",
-      "audio/lesson16/zhiYe/02.mp3",
-      "audio/lesson16/zhiYe/03.mp3",
-      "audio/lesson16/zhiYe/04.mp3",
-      "audio/lesson16/zhiYe/05.mp3",
-      "audio/lesson16/zhiYe/06.mp3",
-      "audio/lesson16/zhiYe/07.mp3",
-      "audio/lesson16/zhiYe/08.mp3",
-      "audio/lesson16/zhiYe/09.mp3",
-      "audio/lesson16/zhiYe/10.mp3",
-      "audio/lesson16/zhiYe/11.mp3"
-      ],
-    "strokePng":[
-      "images/lesson16/zhiYe/zhiYe-01.png",
-      "images/lesson16/zhiYe/zhiYe-02.png",
-      "images/lesson16/zhiYe/zhiYe-03.png",
-      "images/lesson16/zhiYe/zhiYe-04.png",
-      "images/lesson16/zhiYe/zhiYe-05.png",
-      "images/lesson16/zhiYe/zhiYe-06.png",
-      "images/lesson16/zhiYe/zhiYe-07.png",
-      "images/lesson16/zhiYe/zhiYe-08.png",
-      "images/lesson16/zhiYe/zhiYe-09.png",
-      "images/lesson16/zhiYe/zhiYe-10.png",
-      "images/lesson16/zhiYe/zhiYe-11.png"
-      ],
-    "characterAnimated":"images/character-animated/lesson16/zhiYe.mp4",
-    "timecodes":[
-      "00:00:00",
-      "00:00:02",
-      "00:00:04",
-      "00:00:06",
-      "00:00:08",
-      "00:00:10",
-      "00:00:12",
-      "00:00:14",
-      "00:00:16",
-      "00:00:18",
-      "00:00:20"
-    ],
-    "englishTranslation":""
+  "id": "zhiYe",
+  "chinese": "职业",
+  "chinesePhrase": ["职", "业"],
+  "romanizedPhrase": "zhí yè",
+  "romanizedImportantCharacter": "zhí",
+  "strokes": 11,
+  "wordAudio": "audio/lesson16/zhiYe/word.mp3",
+  "phraseAudio": "audio/lesson16/zhiYe/phrase.mp3",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson16/characters/zhiYe-a.png",
+    "images/lesson16/characters/zhiYe-b.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson16/zhiYe/01.mp3",
+    "audio/lesson16/zhiYe/02.mp3",
+    "audio/lesson16/zhiYe/03.mp3",
+    "audio/lesson16/zhiYe/04.mp3",
+    "audio/lesson16/zhiYe/05.mp3",
+    "audio/lesson16/zhiYe/06.mp3",
+    "audio/lesson16/zhiYe/07.mp3",
+    "audio/lesson16/zhiYe/08.mp3",
+    "audio/lesson16/zhiYe/09.mp3",
+    "audio/lesson16/zhiYe/10.mp3",
+    "audio/lesson16/zhiYe/11.mp3"
+  ],
+  "strokePng": [
+    "images/lesson16/zhiYe/zhiYe-01.png",
+    "images/lesson16/zhiYe/zhiYe-02.png",
+    "images/lesson16/zhiYe/zhiYe-03.png",
+    "images/lesson16/zhiYe/zhiYe-04.png",
+    "images/lesson16/zhiYe/zhiYe-05.png",
+    "images/lesson16/zhiYe/zhiYe-06.png",
+    "images/lesson16/zhiYe/zhiYe-07.png",
+    "images/lesson16/zhiYe/zhiYe-08.png",
+    "images/lesson16/zhiYe/zhiYe-09.png",
+    "images/lesson16/zhiYe/zhiYe-10.png",
+    "images/lesson16/zhiYe/zhiYe-11.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson16/zhiYe.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14",
+    "00:00:16",
+    "00:00:18",
+    "00:00:20"
+  ],
+  "englishTranslation": ""
 }

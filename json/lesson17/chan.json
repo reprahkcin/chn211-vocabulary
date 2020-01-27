@@ -1,11 +1,13 @@
 {
     "id": "chan",
+    "chinese": "产",
+    "chinesePhrase": "产",
     "romanizedPhrase": "chǎn",
-    "romanizedImportantCharacter":"chǎn",
+    "romanizedImportantCharacter": "chǎn",
     "strokes": 6,
     "wordAudio": "audio/lesson17/chan/word.mp3",
     "phraseAudio": "",
-    "importantCharacter":[0],
+    "importantCharacter": [0],
     "mainGraphics": [
         "images/lesson17/characters/chan.png"
     ],
@@ -34,5 +36,5 @@
         "00:00:08",
         "00:00:10"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

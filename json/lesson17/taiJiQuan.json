@@ -1,11 +1,13 @@
 {
     "id": "taiJiQuan",
+    "chinese": "太极拳",
+    "chinesePhrase": ["太", "极", "拳"],
     "romanizedPhrase": "tài jí quán",
-    "romanizedImportantCharacter":"quán",
+    "romanizedImportantCharacter": "quán",
     "strokes": 10,
     "wordAudio": "audio/lesson17/taiJiQuan/word.mp3",
     "phraseAudio": "audio/lesson17/taiJiQuan/phrase.mp3",
-    "importantCharacter":[2],
+    "importantCharacter": [2],
     "mainGraphics": [
         "images/lesson17/characters/taiJiQuan-a.png",
         "images/lesson17/characters/taiJiQuan-b.png",
@@ -48,5 +50,5 @@
         "00:00:16",
         "00:00:18"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

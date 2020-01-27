@@ -1,11 +1,13 @@
 {
   "id": "liuLi",
+  "chinese": "流利",
+  "chinesePhrase": ["流", "利"],
   "romanizedPhrase": "liú lì",
-  "romanizedImportantCharacter":"liú",
+  "romanizedImportantCharacter": "liú",
   "strokes": 10,
   "wordAudio": "audio/lesson15/liuLi/word.mp3",
   "phraseAudio": "audio/lesson15/liuLi/phrase.mp3",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/liuLi-a.png",
     "images/lesson15/characters/liuLi-b.png"
@@ -68,5 +70,5 @@
     "00:00:30",
     "00:00:32"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

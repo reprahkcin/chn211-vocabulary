@@ -1,11 +1,13 @@
 {
     "id": "lu",
+    "chinese": "绿",
+    "chinesePhrase": "绿",
     "romanizedPhrase": "lǜ",
-    "romanizedImportantCharacter":"lǜ",
+    "romanizedImportantCharacter": "lǜ",
     "strokes": 11,
     "wordAudio": "audio/lesson17/lu/word.mp3",
     "phraseAudio": "",
-    "importantCharacter":[0],
+    "importantCharacter": [0],
     "mainGraphics": [
         "images/lesson17/characters/lu.png"
     ],
@@ -49,5 +51,5 @@
         "00:00:18",
         "00:00:20"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

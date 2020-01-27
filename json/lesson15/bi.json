@@ -1,11 +1,13 @@
 {
   "id": "bi",
+  "chinese": "币",
+  "chinesePhrase": "币",
   "romanizedPhrase": "bì",
-  "romanizedImportantCharacter":"bì",
+  "romanizedImportantCharacter": "bì",
   "strokes": 4,
   "wordAudio": "audio/lesson15/bi/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/bi.png"
   ],
@@ -28,5 +30,5 @@
     "00:00:04",
     "00:00:06"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

@@ -1,11 +1,13 @@
 {
   "id": "cai",
+  "chinese": "采",
+  "chinesePhrase": "采",
   "romanizedPhrase": "cǎi",
-  "romanizedImportantCharacter":"cǎi",
+  "romanizedImportantCharacter": "cǎi",
   "strokes": 8,
   "wordAudio": "audio/lesson16/cai/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/cai.png"
   ],
@@ -40,5 +42,5 @@
     "00:00:12",
     "00:00:14"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

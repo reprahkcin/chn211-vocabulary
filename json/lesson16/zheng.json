@@ -1,11 +1,13 @@
 {
   "id": "zheng",
+  "chinese": "正",
+  "chinesePhrase": "正",
   "romanizedPhrase": "zhèng",
-  "romanizedImportantCharacter":"zhèng",
+  "romanizedImportantCharacter": "zhèng",
   "strokes": 5,
   "wordAudio": "audio/lesson16/zheng/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/zheng.png"
   ],
@@ -31,5 +33,5 @@
     "00:00:06",
     "00:00:08"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

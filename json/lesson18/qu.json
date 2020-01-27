@@ -1,43 +1,45 @@
 {
-    "id": "qu",
-    "romanizedPhrase": "qǔ",
-    "romanizedImportantCharacter":"qǔ",
-    "strokes": 8,
-    "wordAudio": "audio/lesson18/qu/word.mp3",
-    "phraseAudio": "",
-    "importantCharacter":[0],
-    "mainGraphics": [
-      "images/lesson18/characters/qu.png"
-    ],
-    "strokeAudio": [
-      "audio/lesson18/qu/01.mp3",
-      "audio/lesson18/qu/02.mp3",
-      "audio/lesson18/qu/03.mp3",
-      "audio/lesson18/qu/04.mp3",
-      "audio/lesson18/qu/05.mp3",
-      "audio/lesson18/qu/06.mp3",
-      "audio/lesson18/qu/07.mp3",
-      "audio/lesson18/qu/08.mp3"
-    ],
-    "strokePng": [
-      "images/lesson18/qu/qu-01.png",
-      "images/lesson18/qu/qu-02.png",
-      "images/lesson18/qu/qu-03.png",
-      "images/lesson18/qu/qu-04.png",
-      "images/lesson18/qu/qu-05.png",
-      "images/lesson18/qu/qu-06.png",
-      "images/lesson18/qu/qu-07.png"
-    ],
-    "characterAnimated": "images/character-animated/lesson18/qu.mp4",
-    "timecodes": [
-        "00:00:00",
-        "00:00:02",
-        "00:00:04",
-        "00:00:06",
-        "00:00:08",
-        "00:00:10",
-        "00:00:12",
-        "00:00:14"
-    ],
-    "englishTranslation":""
-  }
+  "id": "qu",
+  "chinese": "取",
+  "chinesePhrase": "取",
+  "romanizedPhrase": "qǔ",
+  "romanizedImportantCharacter": "qǔ",
+  "strokes": 8,
+  "wordAudio": "audio/lesson18/qu/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/qu.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/qu/01.mp3",
+    "audio/lesson18/qu/02.mp3",
+    "audio/lesson18/qu/03.mp3",
+    "audio/lesson18/qu/04.mp3",
+    "audio/lesson18/qu/05.mp3",
+    "audio/lesson18/qu/06.mp3",
+    "audio/lesson18/qu/07.mp3",
+    "audio/lesson18/qu/08.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/qu/qu-01.png",
+    "images/lesson18/qu/qu-02.png",
+    "images/lesson18/qu/qu-03.png",
+    "images/lesson18/qu/qu-04.png",
+    "images/lesson18/qu/qu-05.png",
+    "images/lesson18/qu/qu-06.png",
+    "images/lesson18/qu/qu-07.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/qu.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14"
+  ],
+  "englishTranslation": ""
+}

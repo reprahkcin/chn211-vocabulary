@@ -1,11 +1,13 @@
 {
     "id": "meiGuanXi",
+    "chinese": "没关系",
+    "chinesePhrase": ["没", "关", "系"],
     "romanizedPhrase": "méi guān xì",
-    "romanizedImportantCharacter":"guān",
+    "romanizedImportantCharacter": "guān",
     "strokes": 6,
     "wordAudio": "audio/lesson17/meiGuanXi/word.mp3",
     "phraseAudio": "audio/lesson17/meiGuanXi/phrase.mp3",
-    "importantCharacter":[1],
+    "importantCharacter": [1],
     "mainGraphics": [
         "images/lesson17/characters/meiGuanXi-a.png",
         "images/lesson17/characters/meiGuanXi-b.png",
@@ -36,5 +38,5 @@
         "00:00:08",
         "00:00:10"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

@@ -1,11 +1,13 @@
 {
   "id": "che",
+  "chinese": "车",
+  "chinesePhrase": "车",
   "romanizedPhrase": "chē",
-  "romanizedImportantCharacter":"chē",
+  "romanizedImportantCharacter": "chē",
   "strokes": 4,
   "wordAudio": "audio/lesson15/che/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/che.png"
   ],
@@ -28,5 +30,5 @@
     "00:00:04",
     "00:00:06"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

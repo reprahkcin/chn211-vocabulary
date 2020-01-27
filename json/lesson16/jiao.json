@@ -1,11 +1,13 @@
 {
   "id": "jiao",
+  "chinese": "交",
+  "chinesePhrase": "交",
   "romanizedPhrase": "jiāo",
-  "romanizedImportantCharacter":"jiāo",
+  "romanizedImportantCharacter": "jiāo",
   "strokes": 6,
   "wordAudio": "audio/lesson16/jiao/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/jiao.png"
   ],
@@ -34,5 +36,5 @@
     "00:00:08",
     "00:00:10"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

@@ -1,11 +1,13 @@
 {
     "id": "siChou",
+    "chinese": "丝绸",
+    "chinesePhrase": ["丝", "绸"],
     "romanizedPhrase": "sī chóu",
-    "romanizedImportantCharacter":"chóu",
+    "romanizedImportantCharacter": "chóu",
     "strokes": 11,
     "wordAudio": "audio/lesson17/siChou/word.mp3",
     "phraseAudio": "audio/lesson17/siChou/phrase.mp3",
-    "importantCharacter":[1],
+    "importantCharacter": [1],
     "mainGraphics": [
         "images/lesson17/characters/siChou-a.png",
         "images/lesson17/characters/siChou-b.png"
@@ -50,5 +52,5 @@
         "00:00:18",
         "00:00:20"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

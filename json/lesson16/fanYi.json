@@ -1,11 +1,13 @@
 {
   "id": "fanYi",
+  "chinese": "翻译",
+  "chinesePhrase": ["翻", "译"],
   "romanizedPhrase": "fān yì",
-  "romanizedImportantCharacter":"fān yì",
+  "romanizedImportantCharacter": "fān yì",
   "strokes": 25,
-  "wordAudio":"audio/lesson16/fanYi/word.mp3",
-    "phraseAudio": "audio/lesson16/fanYi/phrase.mp3",
-  "importantCharacter":[0,1],
+  "wordAudio": "audio/lesson16/fanYi/word.mp3",
+  "phraseAudio": "audio/lesson16/fanYi/phrase.mp3",
+  "importantCharacter": [0, 1],
   "mainGraphics": [
     "images/lesson16/characters/fanYi-a.png",
     "images/lesson16/characters/fanYi-b.png"
@@ -92,5 +94,5 @@
     "00:00:46",
     "00:00:48"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

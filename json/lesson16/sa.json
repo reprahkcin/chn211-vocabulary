@@ -1,11 +1,13 @@
 {
   "id": "sa",
+  "chinese": "卅",
+  "chinesePhrase": "卅",
   "romanizedPhrase": "sà",
-  "romanizedImportantCharacter":"sà",
+  "romanizedImportantCharacter": "sà",
   "strokes": 4,
   "wordAudio": "audio/lesson16/sa/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/sa.png"
   ],
@@ -28,5 +30,5 @@
     "00:00:04",
     "00:00:06"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

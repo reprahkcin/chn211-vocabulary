@@ -1,29 +1,31 @@
 {
-    "id": "si",
-    "romanizedPhrase": "sì",
-    "romanizedImportantCharacter":"sì",
-    "strokes": 3,
-    "wordAudio": "audio/lesson18/si/word.mp3",
-    "phraseAudio": "",
-    "importantCharacter":[0],
-    "mainGraphics": [
-      "images/lesson18/characters/si.png"
-    ],
-    "strokeAudio": [
-      "audio/lesson18/si/01.mp3",
-      "audio/lesson18/si/02.mp3",
-      "audio/lesson18/si/03.mp3"
-    ],
-    "strokePng": [
-      "images/lesson18/si/si-01.png",
-      "images/lesson18/si/si-02.png",
-      "images/lesson18/si/si-03.png"
-    ],
-    "characterAnimated": "images/character-animated/lesson18/si.mp4",
-    "timecodes": [
-        "00:00:00",
-        "00:00:02",
-        "00:00:04"
-    ],
-    "englishTranslation":""
-  }
+  "id": "si",
+  "chinese": "巳",
+  "chinesePhrase": "巳",
+  "romanizedPhrase": "sì",
+  "romanizedImportantCharacter": "sì",
+  "strokes": 3,
+  "wordAudio": "audio/lesson18/si/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/si.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/si/01.mp3",
+    "audio/lesson18/si/02.mp3",
+    "audio/lesson18/si/03.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/si/si-01.png",
+    "images/lesson18/si/si-02.png",
+    "images/lesson18/si/si-03.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/si.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04"
+  ],
+  "englishTranslation": ""
+}

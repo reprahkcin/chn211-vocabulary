@@ -1,42 +1,44 @@
 {
-    "id": "qiChe",
-    "romanizedPhrase": "qì chē",
-    "romanizedImportantCharacter":"qì",
-    "strokes": 7,
-    "wordAudio": "audio/lesson18/qiChe/word.mp3",
-    "phraseAudio": "",
-    "importantCharacter":[0],
-    "mainGraphics": [
-      "images/lesson18/characters/qiChe-a.png",
-      "images/lesson18/characters/qiChe-b.png"
-    ],
-    "strokeAudio": [
-      "audio/lesson18/qiChe/01.mp3",
-      "audio/lesson18/qiChe/02.mp3",
-      "audio/lesson18/qiChe/03.mp3",
-      "audio/lesson18/qiChe/04.mp3",
-      "audio/lesson18/qiChe/05.mp3",
-      "audio/lesson18/qiChe/06.mp3",
-      "audio/lesson18/qiChe/07.mp3"
-    ],
-    "strokePng": [
-      "images/lesson18/qiChe/qiChe-01.png",
-      "images/lesson18/qiChe/qiChe-02.png",
-      "images/lesson18/qiChe/qiChe-03.png",
-      "images/lesson18/qiChe/qiChe-04.png",
-      "images/lesson18/qiChe/qiChe-05.png",
-      "images/lesson18/qiChe/qiChe-06.png",
-      "images/lesson18/qiChe/qiChe-07.png"
-    ],
-    "characterAnimated": "images/character-animated/lesson18/qiChe.mp4",
-    "timecodes": [
-        "00:00:00",
-        "00:00:02",
-        "00:00:04",
-        "00:00:06",
-        "00:00:08",
-        "00:00:10",
-        "00:00:12"
-    ],
-    "englishTranslation":""
-  }
+  "id": "qiChe",
+  "chinese": "汽车",
+  "chinesePhrase": ["汽", "车"],
+  "romanizedPhrase": "qì chē",
+  "romanizedImportantCharacter": "qì",
+  "strokes": 7,
+  "wordAudio": "audio/lesson18/qiChe/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/qiChe-a.png",
+    "images/lesson18/characters/qiChe-b.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/qiChe/01.mp3",
+    "audio/lesson18/qiChe/02.mp3",
+    "audio/lesson18/qiChe/03.mp3",
+    "audio/lesson18/qiChe/04.mp3",
+    "audio/lesson18/qiChe/05.mp3",
+    "audio/lesson18/qiChe/06.mp3",
+    "audio/lesson18/qiChe/07.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/qiChe/qiChe-01.png",
+    "images/lesson18/qiChe/qiChe-02.png",
+    "images/lesson18/qiChe/qiChe-03.png",
+    "images/lesson18/qiChe/qiChe-04.png",
+    "images/lesson18/qiChe/qiChe-05.png",
+    "images/lesson18/qiChe/qiChe-06.png",
+    "images/lesson18/qiChe/qiChe-07.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/qiChe.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12"
+  ],
+  "englishTranslation": ""
+}

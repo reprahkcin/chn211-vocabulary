@@ -1,11 +1,13 @@
 {
     "id": "hei",
+    "chinese": "黑",
+    "chinesePhrase": "黑",
     "romanizedPhrase": "hēi",
-    "romanizedImportantCharacter":"hēi",
+    "romanizedImportantCharacter": "hēi",
     "strokes": 12,
     "wordAudio": "audio/lesson17/hei/word.mp3",
     "phraseAudio": "",
-    "importantCharacter":[0],
+    "importantCharacter": [0],
     "mainGraphics": [
         "images/lesson17/characters/hei.png"
     ],
@@ -52,5 +54,5 @@
         "00:00:20",
         "00:00:22"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

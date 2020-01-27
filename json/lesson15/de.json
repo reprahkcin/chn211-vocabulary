@@ -1,11 +1,13 @@
 {
   "id": "de",
+  "chinese": "得",
+  "chinesePhrase": "得",
   "romanizedPhrase": "dé",
-  "romanizedImportantCharacter":"dé",
+  "romanizedImportantCharacter": "dé",
   "strokes": 11,
   "wordAudio": "audio/lesson15/de/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/de.png"
   ],
@@ -49,5 +51,5 @@
     "00:00:18",
     "00:00:20"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }

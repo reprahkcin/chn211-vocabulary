@@ -1,10 +1,12 @@
 {
     "id": "mai",
+    "chinese": "卖",
+    "chinesePhrase": "卖",
     "romanizedPhrase": "mài",
-    "romanizedImportantCharacter":"mài",
+    "romanizedImportantCharacter": "mài",
     "strokes": 8,
     "wordAudio": "audio/lesson17/mai/word.mp3",
-    "importantCharacter":[0],
+    "importantCharacter": [0],
     "mainGraphics": [
         "images/lesson17/characters/mai.png"
     ],
@@ -39,5 +41,5 @@
         "00:00:12",
         "00:00:14"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

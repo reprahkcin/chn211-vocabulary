@@ -1,11 +1,13 @@
 {
     "id": "shouHuoYuan",
+    "chinese": "售货员",
+    "chinesePhrase": ["售", "货", "员"],
     "romanizedPhrase": "shòu huò yuán",
-    "romanizedImportantCharacter":"shòu huò",
+    "romanizedImportantCharacter": "shòu huò",
     "strokes": 17,
     "wordAudio": "audio/lesson17/shouHuoYuan/word.mp3",
     "phraseAudio": "audio/lesson17/shouHuoYuan/phrase.mp3",
-    "importantCharacter":[0,1],
+    "importantCharacter": [0, 1],
     "mainGraphics": [
         "images/lesson17/characters/shouHuoYuan-a.png",
         "images/lesson17/characters/shouHuoYuan-b.png",
@@ -69,5 +71,5 @@
         "00:00:30",
         "00:00:32"
     ],
-    "englishTranslation":""
+    "englishTranslation": ""
 }

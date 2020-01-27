@@ -1,11 +1,13 @@
 {
   "id": "yingBang",
+  "chinese": "英镑",
+  "chinesePhrase": ["英", "镑"],
   "romanizedPhrase": "yīng bàng",
-  "romanizedImportantCharacter":"bàng",
+  "romanizedImportantCharacter": "bàng",
   "strokes": 15,
   "wordAudio": "audio/lesson15/yingBang/word.mp3",
   "phraseAudio": "audio/lesson15/yingBang/phrase.mp3",
-  "importantCharacter":[1],
+  "importantCharacter": [1],
   "mainGraphics": [
     "images/lesson15/characters/yingBang-a.png",
     "images/lesson15/characters/yingBang-b.png"
@@ -62,5 +64,5 @@
     "00:00:26",
     "00:00:28"
   ],
-  "englishTranslation":""
+  "englishTranslation": ""
 }
