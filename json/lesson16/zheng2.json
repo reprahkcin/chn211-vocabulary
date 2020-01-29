@@ -1,0 +1,43 @@
+{
+    "id": "zheng2",
+    "chinese": "证",
+    "chinesePhrase": "证",
+    "romanizedPhrase": "zhèng",
+    "romanizedImportantCharacter": "zhèng",
+    "strokes": 7,
+    "wordAudio": "audio/lesson16/zheng2/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0],
+    "mainGraphics": [
+      "images/lesson16/characters/zheng2.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson16/zheng2/01.mp3",
+      "audio/lesson16/zheng2/02.mp3",
+      "audio/lesson16/zheng2/03.mp3",
+      "audio/lesson16/zheng2/04.mp3",
+      "audio/lesson16/zheng2/05.mp3",
+      "audio/lesson16/zheng2/06.mp3",
+      "audio/lesson16/zheng2/07.mp3"
+    ],
+    "strokePng": [
+      "images/lesson16/zheng2/zheng2-01.png",
+      "images/lesson16/zheng2/zheng2-02.png",
+      "images/lesson16/zheng2/zheng2-03.png",
+      "images/lesson16/zheng2/zheng2-04.png",
+      "images/lesson16/zheng2/zheng2-05.png",
+      "images/lesson16/zheng2/zheng2-06.png",
+      "images/lesson16/zheng2/zheng2-07.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson16/zheng2.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10",
+      "00:00:12"
+    ],
+    "englishTranslation": ""
+  }
