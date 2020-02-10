@@ -1,0 +1,34 @@
+{
+    "id": "dou",
+    "chinese": "斗",
+    "chinesePhrase": ["斗"],
+    "romanizedPhrase": "dòu",
+    "romanizedImportantCharacter": "dòu",
+    "strokes": 4,
+    "wordAudio": "audio/lesson19/dou/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0],
+    "mainGraphics": [
+      "images/lesson19/characters/dou.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson19/dou/01.mp3",
+      "audio/lesson19/dou/02.mp3",
+      "audio/lesson19/dou/03.mp3",
+      "audio/lesson19/dou/04.mp3"
+    ],
+    "strokePng": [
+      "images/lesson19/dou/dou-01.png",
+      "images/lesson19/dou/dou-02.png",
+      "images/lesson19/dou/dou-03.png",
+      "images/lesson19/dou/dou-04.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson19/dou.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06"
+    ],
+    "englishTranslation": ""
+  }

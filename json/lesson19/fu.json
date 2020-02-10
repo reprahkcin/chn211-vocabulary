@@ -1,0 +1,58 @@
+{
+    "id": "fu",
+    "chinese": "幅",
+    "chinesePhrase": ["幅"],
+    "romanizedPhrase": "fú",
+    "romanizedImportantCharacter": "fú",
+    "strokes": 12,
+    "wordAudio": "audio/lesson19/fu/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0],
+    "mainGraphics": [
+      "images/lesson19/characters/fu.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson19/fu/01.mp3",
+      "audio/lesson19/fu/02.mp3",
+      "audio/lesson19/fu/03.mp3",
+      "audio/lesson19/fu/04.mp3",
+      "audio/lesson19/fu/05.mp3",
+      "audio/lesson19/fu/06.mp3",
+      "audio/lesson19/fu/07.mp3",
+      "audio/lesson19/fu/08.mp3",
+      "audio/lesson19/fu/09.mp3",
+      "audio/lesson19/fu/10.mp3",
+      "audio/lesson19/fu/11.mp3",
+      "audio/lesson19/fu/12.mp3"
+    ],
+    "strokePng": [
+      "images/lesson19/fu/fu-01.png",
+      "images/lesson19/fu/fu-02.png",
+      "images/lesson19/fu/fu-03.png",
+      "images/lesson19/fu/fu-04.png",
+      "images/lesson19/fu/fu-05.png",
+      "images/lesson19/fu/fu-06.png",
+      "images/lesson19/fu/fu-07.png",
+      "images/lesson19/fu/fu-08.png",
+      "images/lesson19/fu/fu-09.png",
+      "images/lesson19/fu/fu-10.png",
+      "images/lesson19/fu/fu-11.png",
+      "images/lesson19/fu/fu-12.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson19/fu.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10",
+      "00:00:12",
+      "00:00:14",
+      "00:00:16",
+      "00:00:18",
+      "00:00:20",
+      "00:00:22"
+    ],
+    "englishTranslation": ""
+  }

@@ -1,0 +1,55 @@
+{
+    "id": "chang",
+    "chinese": "唱",
+    "chinesePhrase": ["唱"],
+    "romanizedPhrase": "chàng",
+    "romanizedImportantCharacter": "chàng",
+    "strokes": 11,
+    "wordAudio": "audio/lesson19/chang/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0],
+    "mainGraphics": [
+      "images/lesson19/characters/chang.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson19/chang/01.mp3",
+      "audio/lesson19/chang/02.mp3",
+      "audio/lesson19/chang/03.mp3",
+      "audio/lesson19/chang/04.mp3",
+      "audio/lesson19/chang/05.mp3",
+      "audio/lesson19/chang/06.mp3",
+      "audio/lesson19/chang/07.mp3",
+      "audio/lesson19/chang/08.mp3",
+      "audio/lesson19/chang/09.mp3",
+      "audio/lesson19/chang/10.mp3",
+      "audio/lesson19/chang/11.mp3"
+    ],
+    "strokePng": [
+      "images/lesson19/chang/chang-01.png",
+      "images/lesson19/chang/chang-02.png",
+      "images/lesson19/chang/chang-03.png",
+      "images/lesson19/chang/chang-04.png",
+      "images/lesson19/chang/chang-05.png",
+      "images/lesson19/chang/chang-06.png",
+      "images/lesson19/chang/chang-07.png",
+      "images/lesson19/chang/chang-08.png",
+      "images/lesson19/chang/chang-09.png",
+      "images/lesson19/chang/chang-10.png",
+      "images/lesson19/chang/chang-11.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson19/chang.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10",
+      "00:00:12",
+      "00:00:14",
+      "00:00:16",
+      "00:00:18",
+      "00:00:20"
+    ],
+    "englishTranslation": ""
+  }

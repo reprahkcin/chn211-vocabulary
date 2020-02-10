@@ -1,0 +1,54 @@
+{
+    "id": "kaiWanXiao",
+    "chinese": "开玩笑",
+    "chinesePhrase": ["开","玩","笑"],
+    "romanizedPhrase": "kāi wán xiào",
+    "romanizedImportantCharacter": "xiào",
+    "strokes": 10,
+    "wordAudio": "audio/lesson19/kaiWanXiao/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [2],
+    "mainGraphics": [
+      "images/lesson19/characters/kaiWanXiao-a.png",
+      "images/lesson19/characters/kaiWanXiao-b.png",
+      "images/lesson19/characters/kaiWanXiao-c.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson19/kaiWanXiao/01.mp3",
+      "audio/lesson19/kaiWanXiao/02.mp3",
+      "audio/lesson19/kaiWanXiao/03.mp3",
+      "audio/lesson19/kaiWanXiao/04.mp3",
+      "audio/lesson19/kaiWanXiao/05.mp3",
+      "audio/lesson19/kaiWanXiao/06.mp3",
+      "audio/lesson19/kaiWanXiao/07.mp3",
+      "audio/lesson19/kaiWanXiao/08.mp3",
+      "audio/lesson19/kaiWanXiao/09.mp3",
+      "audio/lesson19/kaiWanXiao/10.mp3"
+    ],
+    "strokePng": [
+      "images/lesson19/kaiWanXiao/kaiWanXiao-01.png",
+      "images/lesson19/kaiWanXiao/kaiWanXiao-02.png",
+      "images/lesson19/kaiWanXiao/kaiWanXiao-03.png",
+      "images/lesson19/kaiWanXiao/kaiWanXiao-04.png",
+      "images/lesson19/kaiWanXiao/kaiWanXiao-05.png",
+      "images/lesson19/kaiWanXiao/kaiWanXiao-06.png",
+      "images/lesson19/kaiWanXiao/kaiWanXiao-07.png",
+      "images/lesson19/kaiWanXiao/kaiWanXiao-08.png",
+      "images/lesson19/kaiWanXiao/kaiWanXiao-09.png",
+      "images/lesson19/kaiWanXiao/kaiWanXiao-10.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson19/kaiWanXiao.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10",
+      "00:00:12",
+      "00:00:14",
+      "00:00:16",
+      "00:00:18"
+    ],
+    "englishTranslation": ""
+  }

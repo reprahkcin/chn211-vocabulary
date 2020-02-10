@@ -1,0 +1,49 @@
+{
+    "id": "maMaHuHu",
+    "chinese": "马马虎虎",
+    "chinesePhrase": ["马","马","虎","虎"],
+    "romanizedPhrase": "mǎ mǎ hǔ hǔ",
+    "romanizedImportantCharacter": "hǔ",
+    "strokes": 8,
+    "wordAudio": "audio/lesson19/maMaHuHu/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [2],
+    "mainGraphics": [
+      "images/lesson19/characters/maMaHuHu-a.png",
+      "images/lesson19/characters/maMaHuHu-b.png",
+      "images/lesson19/characters/maMaHuHu-c.png",
+      "images/lesson19/characters/maMaHuHu-d.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson19/maMaHuHu/01.mp3",
+      "audio/lesson19/maMaHuHu/02.mp3",
+      "audio/lesson19/maMaHuHu/03.mp3",
+      "audio/lesson19/maMaHuHu/04.mp3",
+      "audio/lesson19/maMaHuHu/05.mp3",
+      "audio/lesson19/maMaHuHu/06.mp3",
+      "audio/lesson19/maMaHuHu/07.mp3",
+      "audio/lesson19/maMaHuHu/08.mp3"
+    ],
+    "strokePng": [
+      "images/lesson19/maMaHuHu/maMaHuHu-01.png",
+      "images/lesson19/maMaHuHu/maMaHuHu-02.png",
+      "images/lesson19/maMaHuHu/maMaHuHu-03.png",
+      "images/lesson19/maMaHuHu/maMaHuHu-04.png",
+      "images/lesson19/maMaHuHu/maMaHuHu-05.png",
+      "images/lesson19/maMaHuHu/maMaHuHu-06.png",
+      "images/lesson19/maMaHuHu/maMaHuHu-07.png",
+      "images/lesson19/maMaHuHu/maMaHuHu-08.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson19/maMaHuHu.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10",
+      "00:00:12",
+      "00:00:14"
+    ],
+    "englishTranslation": ""
+  }
