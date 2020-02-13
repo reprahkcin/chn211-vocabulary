@@ -1,11 +1,13 @@
 {
   "id": "huan",
-  "englishPhrase": "huàn",
-  "englishImportantCharacter":"huàn",
+  "chinese": "奂",
+  "chinesePhrase": "奂",
+  "romanizedPhrase": "huàn",
+  "romanizedImportantCharacter": "huàn",
   "strokes": 7,
   "wordAudio": "audio/lesson15/huan/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/huan.png"
   ],
@@ -36,5 +38,6 @@
     "00:00:08",
     "00:00:10",
     "00:00:12"
-  ]
+  ],
+  "englishTranslation": ""
 }

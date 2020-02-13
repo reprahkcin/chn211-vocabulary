@@ -1,11 +1,13 @@
 {
   "id": "chaShi",
-  "englishPhrase": "chá shí",
-  "englishImportantCharacter":"chá",
+  "chinese": "查实",
+  "chinesePhrase": ["查", "实"],
+  "romanizedPhrase": "chá shí",
+  "romanizedImportantCharacter": "chá",
   "strokes": 9,
-  "wordAudio":"audio/lesson16/chaShi/word.mp3",
-    "phraseAudio": "audio/lesson16/chaShi/phrase.mp3",
-  "importantCharacter":[0],
+  "wordAudio": "audio/lesson16/chaShi/word.mp3",
+  "phraseAudio": "audio/lesson16/chaShi/phrase.mp3",
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/chaShi-a.png",
     "images/lesson16/characters/chaShi-b.png"
@@ -43,5 +45,6 @@
     "00:00:12",
     "00:00:14",
     "00:00:16"
-  ]
+  ],
+  "englishTranslation": ""
 }

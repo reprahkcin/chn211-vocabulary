@@ -1,11 +1,13 @@
 {
   "id": "cong",
-  "englishPhrase": "cóng",
-  "englishImportantCharacter":"cóng",
+  "chinese": "从",
+  "chinesePhrase": "从",
+  "romanizedPhrase": "cóng",
+  "romanizedImportantCharacter": "cóng",
   "strokes": 4,
   "wordAudio": "audio/lesson15/cong/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/cong.png"
   ],
@@ -27,5 +29,6 @@
     "00:00:02",
     "00:00:04",
     "00:00:06"
-  ]
+  ],
+  "englishTranslation": ""
 }

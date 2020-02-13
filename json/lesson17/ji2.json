@@ -1,11 +1,13 @@
 {
     "id": "ji2",
-    "englishPhrase": "jí",
-    "englishImportantCharacter":"jí",
+    "chinese": "极",
+    "chinesePhrase": "极",
+    "romanizedPhrase": "jí",
+    "romanizedImportantCharacter": "jí",
     "strokes": 7,
     "wordAudio": "audio/lesson17/ji2/word.mp3",
     "phraseAudio": "",
-    "importantCharacter":[0],
+    "importantCharacter": [0],
     "mainGraphics": [
         "images/lesson17/characters/ji2.png"
     ],
@@ -36,5 +38,6 @@
         "00:00:08",
         "00:00:10",
         "00:00:12"
-    ]
+    ],
+    "englishTranslation": ""
 }

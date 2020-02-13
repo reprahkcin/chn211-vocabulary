@@ -1,11 +1,13 @@
 {
   "id": "liuLi",
-  "englishPhrase": "liú lì",
-  "englishImportantCharacter":"liú",
+  "chinese": "流利",
+  "chinesePhrase": ["流", "利"],
+  "romanizedPhrase": "liú lì",
+  "romanizedImportantCharacter": "liú",
   "strokes": 10,
   "wordAudio": "audio/lesson15/liuLi/word.mp3",
   "phraseAudio": "audio/lesson15/liuLi/phrase.mp3",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/liuLi-a.png",
     "images/lesson15/characters/liuLi-b.png"
@@ -20,7 +22,14 @@
     "audio/lesson15/liuLi/07.mp3",
     "audio/lesson15/liuLi/08.mp3",
     "audio/lesson15/liuLi/09.mp3",
-    "audio/lesson15/liuLi/10.mp3"
+    "audio/lesson15/liuLi/10.mp3",
+    "audio/lesson15/liuLi/11.mp3",
+    "audio/lesson15/liuLi/12.mp3",
+    "audio/lesson15/liuLi/13.mp3",
+    "audio/lesson15/liuLi/14.mp3",
+    "audio/lesson15/liuLi/15.mp3",
+    "audio/lesson15/liuLi/16.mp3",
+    "audio/lesson15/liuLi/17.mp3"
   ],
   "strokePng": [
     "images/lesson15/liuLi/liuLi-01.png",
@@ -32,7 +41,14 @@
     "images/lesson15/liuLi/liuLi-07.png",
     "images/lesson15/liuLi/liuLi-08.png",
     "images/lesson15/liuLi/liuLi-09.png",
-    "images/lesson15/liuLi/liuLi-10.png"
+    "images/lesson15/liuLi/liuLi-10.png",
+    "images/lesson15/liuLi/liuLi-11.png",
+    "images/lesson15/liuLi/liuLi-12.png",
+    "images/lesson15/liuLi/liuLi-13.png",
+    "images/lesson15/liuLi/liuLi-14.png",
+    "images/lesson15/liuLi/liuLi-15.png",
+    "images/lesson15/liuLi/liuLi-16.png",
+    "images/lesson15/liuLi/liuLi-17.png"
   ],
   "characterAnimated": "images/character-animated/lesson15/liuLi.mp4",
   "timecodes": [
@@ -45,6 +61,14 @@
     "00:00:12",
     "00:00:14",
     "00:00:16",
-    "00:00:18"
-  ]
+    "00:00:18",
+    "00:00:20",
+    "00:00:22",
+    "00:00:24",
+    "00:00:26",
+    "00:00:28",
+    "00:00:30",
+    "00:00:32"
+  ],
+  "englishTranslation": ""
 }

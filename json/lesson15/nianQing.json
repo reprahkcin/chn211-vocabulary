@@ -1,11 +1,13 @@
 {
   "id": "nianQing",
-  "englishPhrase": "nián qīng",
-  "englishImportantCharacter":"qīng",
+  "chinese": "年轻",
+  "chinesePhrase": ["年", "轻"],
+  "romanizedPhrase": "nián qīng",
+  "romanizedImportantCharacter": "qīng",
   "strokes": 9,
   "wordAudio": "audio/lesson15/nianQing/word.mp3",
   "phraseAudio": "audio/lesson15/nianQing/phrase.mp3",
-  "importantCharacter":[1],
+  "importantCharacter": [1],
   "mainGraphics": [
     "images/lesson15/characters/nianQing-a.png",
     "images/lesson15/characters/nianQing-b.png"
@@ -43,5 +45,6 @@
     "00:00:12",
     "00:00:14",
     "00:00:16"
-  ]
+  ],
+  "englishTranslation": ""
 }

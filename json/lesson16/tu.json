@@ -1,0 +1,46 @@
+{
+    "id": "tu",
+    "chinese": "图",
+    "chinesePhrase": "图",
+    "romanizedPhrase": "tú",
+    "romanizedImportantCharacter": "tú",
+    "strokes": 8,
+    "wordAudio": "audio/lesson16/tu/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0],
+    "mainGraphics": [
+      "images/lesson16/characters/tu.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson16/tu/01.mp3",
+      "audio/lesson16/tu/02.mp3",
+      "audio/lesson16/tu/03.mp3",
+      "audio/lesson16/tu/04.mp3",
+      "audio/lesson16/tu/05.mp3",
+      "audio/lesson16/tu/06.mp3",
+      "audio/lesson16/tu/07.mp3",
+      "audio/lesson16/tu/08.mp3"
+    ],
+    "strokePng": [
+      "images/lesson16/tu/tu-01.png",
+      "images/lesson16/tu/tu-02.png",
+      "images/lesson16/tu/tu-03.png",
+      "images/lesson16/tu/tu-04.png",
+      "images/lesson16/tu/tu-05.png",
+      "images/lesson16/tu/tu-06.png",
+      "images/lesson16/tu/tu-07.png",
+      "images/lesson16/tu/tu-08.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson16/tu.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10",
+      "00:00:12",
+      "00:00:14"
+    ],
+    "englishTranslation": ""
+  }

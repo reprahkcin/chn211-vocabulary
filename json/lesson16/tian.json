@@ -1,11 +1,13 @@
 {
   "id": "tian",
-  "englishPhrase": "tián",
-  "englishImportantCharacter":"tián",
+  "chinese": "填",
+  "chinesePhrase": "填",
+  "romanizedPhrase": "tián",
+  "romanizedImportantCharacter": "tián",
   "strokes": 13,
   "wordAudio": "audio/lesson16/tian/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/tian.png"
   ],
@@ -54,5 +56,6 @@
     "00:00:20",
     "00:00:22",
     "00:00:24"
-  ]
+  ],
+  "englishTranslation": ""
 }

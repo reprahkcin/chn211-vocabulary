@@ -1,11 +1,13 @@
 {
   "id": "yong",
-  "englishPhrase": "yǒng",
-  "englishImportantCharacter":"yǒng",
+  "chinese": "甬",
+  "chinesePhrase": "甬",
+  "romanizedPhrase": "yǒng",
+  "romanizedImportantCharacter": "yǒng",
   "strokes": 7,
   "wordAudio": "audio/lesson15/yong/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/yong.png"
   ],
@@ -36,5 +38,6 @@
     "00:00:08",
     "00:00:10",
     "00:00:12"
-  ]
+  ],
+  "englishTranslation": ""
 }

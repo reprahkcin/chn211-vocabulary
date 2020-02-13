@@ -1,0 +1,47 @@
+{
+  "id": "fangXin",
+  "chinese": "放心",
+  "chinesePhrase": ["放", "心"],
+  "romanizedPhrase": "fàng xīn",
+  "romanizedImportantCharacter": "fàng",
+  "strokes": 8,
+  "wordAudio": "audio/lesson18/fangXin/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/fangXin-a.png",
+    "images/lesson18/characters/fangXin-b.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/fangXin/01.mp3",
+    "audio/lesson18/fangXin/02.mp3",
+    "audio/lesson18/fangXin/03.mp3",
+    "audio/lesson18/fangXin/04.mp3",
+    "audio/lesson18/fangXin/05.mp3",
+    "audio/lesson18/fangXin/06.mp3",
+    "audio/lesson18/fangXin/07.mp3",
+    "audio/lesson18/fangXin/08.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/fangXin/fangXin-01.png",
+    "images/lesson18/fangXin/fangXin-02.png",
+    "images/lesson18/fangXin/fangXin-03.png",
+    "images/lesson18/fangXin/fangXin-04.png",
+    "images/lesson18/fangXin/fangXin-05.png",
+    "images/lesson18/fangXin/fangXin-06.png",
+    "images/lesson18/fangXin/fangXin-07.png",
+    "images/lesson18/fangXin/fangXin-08.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/fangXin.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14"
+  ],
+  "englishTranslation": ""
+}

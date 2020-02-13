@@ -1,11 +1,13 @@
 {
   "id": "mingXinPian",
-  "englishPhrase": "míng xìn piàn",
-  "englishImportantCharacter":"xìn",
+  "chinese": "明信片",
+  "chinesePhrase": ["明", "信", "片"],
+  "romanizedPhrase": "míng xìn piàn",
+  "romanizedImportantCharacter": "xìn",
   "strokes": 9,
   "wordAudio": "audio/lesson15/mingXinPian/word.mp3",
   "phraseAudio": "audio/lesson15/mingXinPian/phrase.mp3",
-  "importantCharacter":[1],
+  "importantCharacter": [1],
   "mainGraphics": [
     "images/lesson15/characters/mingXinPian-a.png",
     "images/lesson15/characters/mingXinPian-b.png",
@@ -44,5 +46,6 @@
     "00:00:12",
     "00:00:14",
     "00:00:16"
-  ]
+  ],
+  "englishTranslation": ""
 }

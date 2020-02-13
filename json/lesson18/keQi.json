@@ -1,0 +1,51 @@
+{
+  "id": "keQi",
+  "chinese": "客气",
+  "chinesePhrase": ["客", "气"],
+  "romanizedPhrase": "kè qì",
+  "romanizedImportantCharacter": "kè",
+  "strokes": 9,
+  "wordAudio": "audio/lesson18/keQi/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/keQi-a.png",
+    "images/lesson18/characters/keQi-b.png"
+
+  ],
+  "strokeAudio": [
+    "audio/lesson18/keQi/01.mp3",
+    "audio/lesson18/keQi/02.mp3",
+    "audio/lesson18/keQi/03.mp3",
+    "audio/lesson18/keQi/04.mp3",
+    "audio/lesson18/keQi/05.mp3",
+    "audio/lesson18/keQi/06.mp3",
+    "audio/lesson18/keQi/07.mp3",
+    "audio/lesson18/keQi/08.mp3",
+    "audio/lesson18/keQi/09.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/keQi/keQi-01.png",
+    "images/lesson18/keQi/keQi-02.png",
+    "images/lesson18/keQi/keQi-03.png",
+    "images/lesson18/keQi/keQi-04.png",
+    "images/lesson18/keQi/keQi-05.png",
+    "images/lesson18/keQi/keQi-06.png",
+    "images/lesson18/keQi/keQi-07.png",
+    "images/lesson18/keQi/keQi-08.png",
+    "images/lesson18/keQi/keQi-09.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/keQi.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14",
+    "00:00:16"
+  ],
+  "englishTranslation": ""
+}

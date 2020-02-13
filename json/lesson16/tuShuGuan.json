@@ -1,11 +1,13 @@
 {
   "id": "tuShuGuan",
-  "englishPhrase": "tú shū guǎn",
-  "englishImportantCharacter":"guǎn",
+  "chinese": "图书馆",
+  "chinesePhrase": ["图", "书", "馆"],
+  "romanizedPhrase": "tú shū guǎn",
+  "romanizedImportantCharacter": "guǎn",
   "strokes": 11,
-  "wordAudio":"audio/lesson16/tuShuGuan/word.mp3",
-    "phraseAudio": "audio/lesson16/tuShuGuan/phrase.mp3",
-  "importantCharacter":[2],
+  "wordAudio": "audio/lesson16/tuShuGuan/word.mp3",
+  "phraseAudio": "audio/lesson16/tuShuGuan/phrase.mp3",
+  "importantCharacter": [2],
   "mainGraphics": [
     "images/lesson16/characters/tuShuGuan-a.png",
     "images/lesson16/characters/tuShuGuan-b.png",
@@ -50,5 +52,6 @@
     "00:00:16",
     "00:00:18",
     "00:00:20"
-  ]
+  ],
+  "englishTranslation": ""
 }

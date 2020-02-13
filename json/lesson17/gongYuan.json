@@ -1,11 +1,13 @@
 {
     "id": "gongYuan",
-    "englishPhrase": "gōng yuán",
-    "englishImportantCharacter":"yuán",
+    "chinese": "公园",
+    "chinesePhrase": ["公", "园"],
+    "romanizedPhrase": "gōng yuán",
+    "romanizedImportantCharacter": "yuán",
     "strokes": 7,
     "wordAudio": "audio/lesson17/gongYuan/word.mp3",
     "phraseAudio": "audio/lesson17/gongYuan/phrase.mp3",
-    "importantCharacter":[1],
+    "importantCharacter": [1],
     "mainGraphics": [
         "images/lesson17/characters/gongYuan-a.png",
         "images/lesson17/characters/gongYuan-b.png"
@@ -37,5 +39,6 @@
         "00:00:08",
         "00:00:10",
         "00:00:12"
-    ]
+    ],
+    "englishTranslation": ""
 }

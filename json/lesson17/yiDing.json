@@ -1,11 +1,13 @@
 {
     "id": "yiDing",
-    "englishPhrase": "yī dìng",
-    "englishImportantCharacter":"dìng",
+    "chinese": "一定",
+    "chinesePhrase": ["一", "定"],
+    "romanizedPhrase": "yī dìng",
+    "romanizedImportantCharacter": "dìng",
     "strokes": 8,
     "wordAudio": "audio/lesson17/yiDing/word.mp3",
     "phraseAudio": "audio/lesson17/yiDing/phrase.mp3",
-    "importantCharacter":[1],
+    "importantCharacter": [1],
     "mainGraphics": [
         "images/lesson17/characters/yiDing-a.png",
         "images/lesson17/characters/yiDing-b.png"
@@ -40,5 +42,6 @@
         "00:00:10",
         "00:00:12",
         "00:00:14"
-    ]
+    ],
+    "englishTranslation": ""
 }

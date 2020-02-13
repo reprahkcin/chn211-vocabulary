@@ -1,11 +1,13 @@
 {
     "id": "shuai",
-    "englishPhrase": "shuài",
-    "englishImportantCharacter":"shuài",
+    "chinese": "帅",
+    "chinesePhrase": "帅",
+    "romanizedPhrase": "shuài",
+    "romanizedImportantCharacter": "shuài",
     "strokes": 5,
     "wordAudio": "audio/lesson17/shuai/word.mp3",
     "phraseAudio": "",
-    "importantCharacter":[0],
+    "importantCharacter": [0],
     "mainGraphics": [
         "images/lesson17/characters/shuai.png"
     ],
@@ -30,5 +32,6 @@
         "00:00:04",
         "00:00:06",
         "00:00:08"
-    ]
+    ],
+    "englishTranslation": ""
 }

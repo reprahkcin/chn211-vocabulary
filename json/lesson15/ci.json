@@ -1,11 +1,13 @@
 {
   "id": "ci",
-  "englishPhrase": "cì",
-  "englishImportantCharacter":"cì",
+  "chinese": "次",
+  "chinesePhrase": "次",
+  "romanizedPhrase": "cì",
+  "romanizedImportantCharacter": "cì",
   "strokes": 6,
   "wordAudio": "audio/lesson15/ci/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/ci.png"
   ],
@@ -33,5 +35,6 @@
     "00:00:06",
     "00:00:08",
     "00:00:10"
-  ]
+  ],
+  "englishTranslation": ""
 }

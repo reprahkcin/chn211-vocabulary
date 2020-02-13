@@ -1,0 +1,46 @@
+{
+  "id": "wang",
+  "chinese": "往",
+  "chinesePhrase": "往",
+  "romanizedPhrase": "wǎng",
+  "romanizedImportantCharacter": "wǎng",
+  "strokes": 8,
+  "wordAudio": "audio/lesson18/wang/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/wang.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/wang/01.mp3",
+    "audio/lesson18/wang/02.mp3",
+    "audio/lesson18/wang/03.mp3",
+    "audio/lesson18/wang/04.mp3",
+    "audio/lesson18/wang/05.mp3",
+    "audio/lesson18/wang/06.mp3",
+    "audio/lesson18/wang/07.mp3",
+    "audio/lesson18/wang/08.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/wang/wang-01.png",
+    "images/lesson18/wang/wang-02.png",
+    "images/lesson18/wang/wang-03.png",
+    "images/lesson18/wang/wang-04.png",
+    "images/lesson18/wang/wang-05.png",
+    "images/lesson18/wang/wang-06.png",
+    "images/lesson18/wang/wang-07.png",
+    "images/lesson18/wang/wang-08.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/wang.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14"
+  ],
+  "englishTranslation": ""
+}

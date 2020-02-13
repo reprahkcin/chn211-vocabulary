@@ -1,11 +1,13 @@
 {
     "id": "si",
-    "englishPhrase": "sī",
-    "englishImportantCharacter":"sī",
+    "chinese": "丝",
+    "chinesePhrase": "丝",
+    "romanizedPhrase": "sī",
+    "romanizedImportantCharacter": "sī",
     "strokes": 5,
     "wordAudio": "audio/lesson17/si/word.mp3",
     "phraseAudio": "",
-    "importantCharacter":[0],
+    "importantCharacter": [0],
     "mainGraphics": [
         "images/lesson17/characters/si.png"
     ],
@@ -30,5 +32,6 @@
         "00:00:04",
         "00:00:06",
         "00:00:08"
-    ]
+    ],
+    "englishTranslation": ""
 }

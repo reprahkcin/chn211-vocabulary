@@ -1,0 +1,43 @@
+{
+    "id": "zhi",
+    "chinese": "纸",
+    "chinesePhrase": ["纸"],
+    "romanizedPhrase": "zhǐ",
+    "romanizedImportantCharacter": "zhǐ",
+    "strokes": 7,
+    "wordAudio": "audio/lesson19/zhi/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0],
+    "mainGraphics": [
+      "images/lesson19/characters/zhi.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson19/zhi/01.mp3",
+      "audio/lesson19/zhi/02.mp3",
+      "audio/lesson19/zhi/03.mp3",
+      "audio/lesson19/zhi/04.mp3",
+      "audio/lesson19/zhi/05.mp3",
+      "audio/lesson19/zhi/06.mp3",
+      "audio/lesson19/zhi/07.mp3"
+    ],
+    "strokePng": [
+      "images/lesson19/zhi/zhi-01.png",
+      "images/lesson19/zhi/zhi-02.png",
+      "images/lesson19/zhi/zhi-03.png",
+      "images/lesson19/zhi/zhi-04.png",
+      "images/lesson19/zhi/zhi-05.png",
+      "images/lesson19/zhi/zhi-06.png",
+      "images/lesson19/zhi/zhi-07.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson19/zhi.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10",
+      "00:00:12"
+    ],
+    "englishTranslation": ""
+  }

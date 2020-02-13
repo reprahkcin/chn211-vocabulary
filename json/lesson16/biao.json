@@ -1,11 +1,13 @@
 {
   "id": "biao",
-  "englishPhrase": "biǎo",
-  "englishImportantCharacter":"biǎo",
+  "chinese": "表",
+  "chinesePhrase": "表",
+  "romanizedPhrase": "biǎo",
+  "romanizedImportantCharacter": "biǎo",
   "strokes": 8,
   "wordAudio": "audio/lesson16/biao/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/biao.png"
   ],
@@ -39,5 +41,6 @@
     "00:00:10",
     "00:00:12",
     "00:00:14"
-  ]
+  ],
+  "englishTranslation": ""
 }

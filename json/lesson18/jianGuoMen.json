@@ -1,0 +1,49 @@
+{
+  "id": "jianGuoMen",
+  "chinese": "建国门",
+  "chinesePhrase": ["建", "国", "门"],
+  "romanizedPhrase": "jiàn guó mén",
+  "romanizedImportantCharacter": "jiàn",
+  "strokes": 8,
+  "wordAudio": "audio/lesson18/jianGuoMen/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/jianGuoMen-a.png",
+    "images/lesson18/characters/jianGuoMen-b.png",
+    "images/lesson18/characters/jianGuoMen-c.png"
+
+  ],
+  "strokeAudio": [
+    "audio/lesson18/jianGuoMen/01.mp3",
+    "audio/lesson18/jianGuoMen/02.mp3",
+    "audio/lesson18/jianGuoMen/03.mp3",
+    "audio/lesson18/jianGuoMen/04.mp3",
+    "audio/lesson18/jianGuoMen/05.mp3",
+    "audio/lesson18/jianGuoMen/06.mp3",
+    "audio/lesson18/jianGuoMen/07.mp3",
+    "audio/lesson18/jianGuoMen/08.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/jianGuoMen/jianGuoMen-01.png",
+    "images/lesson18/jianGuoMen/jianGuoMen-02.png",
+    "images/lesson18/jianGuoMen/jianGuoMen-03.png",
+    "images/lesson18/jianGuoMen/jianGuoMen-04.png",
+    "images/lesson18/jianGuoMen/jianGuoMen-05.png",
+    "images/lesson18/jianGuoMen/jianGuoMen-06.png",
+    "images/lesson18/jianGuoMen/jianGuoMen-07.png",
+    "images/lesson18/jianGuoMen/jianGuoMen-08.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/jianGuoMen.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14"
+  ],
+  "englishTranslation": ""
+}

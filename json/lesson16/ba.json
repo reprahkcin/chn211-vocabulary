@@ -1,11 +1,13 @@
 {
   "id": "ba",
-  "englishPhrase": "bǎ",
-  "englishImportantCharacter":"bǎ",
+  "chinese": "把",
+  "chinesePhrase": "把",
+  "romanizedPhrase": "bǎ",
+  "romanizedImportantCharacter": "bǎ",
   "strokes": 7,
   "wordAudio": "audio/lesson16/ba/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/ba.png"
   ],
@@ -36,5 +38,6 @@
     "00:00:08",
     "00:00:10",
     "00:00:12"
-  ]
+  ],
+  "englishTranslation": ""
 }

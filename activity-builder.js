@@ -7,12 +7,12 @@ function buildRows(i) {
 
     var titleCol1 = document.createElement('div');
     titleCol1.setAttribute('class', 'col-sm title-column-text');
-    var columnText1 = document.createTextNode(objects[i].englishPhrase);
+    var columnText1 = document.createTextNode(objects[i].romanizedPhrase);
     titleCol1.appendChild(columnText1);
 
     var titleCol2 = document.createElement('div');
     titleCol2.setAttribute('class', 'col-sm title-column-text');
-    var columnText2 = document.createTextNode(objects[i].englishImportantCharacter);
+    var columnText2 = document.createTextNode(objects[i].romanizedImportantCharacter);
     titleCol2.appendChild(columnText2);
 
     var titleCol3 = document.createElement('div');

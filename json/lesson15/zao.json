@@ -1,11 +1,13 @@
 {
   "id": "zao",
-  "englishPhrase": "zǎo",
-  "englishImportantCharacter":"zǎo",
+  "chinese": "早",
+  "chinesePhrase": "早",
+  "romanizedPhrase": "zǎo",
+  "romanizedImportantCharacter": "zǎo",
   "strokes": 6,
   "wordAudio": "audio/lesson15/zao/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/zao.png"
   ],
@@ -33,5 +35,6 @@
     "00:00:06",
     "00:00:08",
     "00:00:10"
-  ]
+  ],
+  "englishTranslation": ""
 }

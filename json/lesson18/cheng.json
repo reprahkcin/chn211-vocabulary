@@ -1,0 +1,52 @@
+{
+  "id": "cheng",
+  "chinese": "乘",
+  "chinesePhrase": "乘",
+  "romanizedPhrase": "chéng",
+  "romanizedImportantCharacter": "chéng",
+  "strokes": 10,
+  "wordAudio": "audio/lesson18/cheng/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/cheng.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/cheng/01.mp3",
+    "audio/lesson18/cheng/02.mp3",
+    "audio/lesson18/cheng/03.mp3",
+    "audio/lesson18/cheng/04.mp3",
+    "audio/lesson18/cheng/05.mp3",
+    "audio/lesson18/cheng/06.mp3",
+    "audio/lesson18/cheng/07.mp3",
+    "audio/lesson18/cheng/08.mp3",
+    "audio/lesson18/cheng/09.mp3",
+    "audio/lesson18/cheng/10.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/cheng/cheng-01.png",
+    "images/lesson18/cheng/cheng-02.png",
+    "images/lesson18/cheng/cheng-03.png",
+    "images/lesson18/cheng/cheng-04.png",
+    "images/lesson18/cheng/cheng-05.png",
+    "images/lesson18/cheng/cheng-06.png",
+    "images/lesson18/cheng/cheng-07.png",
+    "images/lesson18/cheng/cheng-08.png",
+    "images/lesson18/cheng/cheng-09.png",
+    "images/lesson18/cheng/cheng-10.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/cheng.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14",
+    "00:00:16",
+    "00:00:18"
+  ],
+  "englishTranslation": ""
+}

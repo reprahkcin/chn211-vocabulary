@@ -1,0 +1,34 @@
+{
+    "id": "dui",
+    "chinese": "队",
+    "chinesePhrase": "队",
+    "romanizedPhrase": "duì",
+    "romanizedImportantCharacter": "duì",
+    "strokes": 4,
+    "wordAudio": "audio/lesson15/dui/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0],
+    "mainGraphics": [
+      "images/lesson15/characters/dui.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson15/dui/01.mp3",
+      "audio/lesson15/dui/02.mp3",
+      "audio/lesson15/dui/03.mp3",
+      "audio/lesson15/dui/04.mp3"
+    ],
+    "strokePng": [
+      "images/lesson15/dui/dui-01.png",
+      "images/lesson15/dui/dui-02.png",
+      "images/lesson15/dui/dui-03.png",
+      "images/lesson15/dui/dui-04.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson15/dui.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06"
+    ],
+    "englishTranslation": ""
+  }

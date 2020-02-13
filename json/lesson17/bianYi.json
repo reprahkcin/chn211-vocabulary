@@ -1,11 +1,13 @@
 {
     "id": "bianYi",
-    "englishPhrase": "biàn yí",
-    "englishImportantCharacter":"biàn yí",
+    "chinese": "便宜",
+    "chinesePhrase": ["便", "宜"],
+    "romanizedPhrase": "biàn yí",
+    "romanizedImportantCharacter": "biàn yí",
     "strokes": 17,
     "wordAudio": "audio/lesson17/bianYi/word.mp3",
     "phraseAudio": "audio/lesson17/bianYi/phrase.mp3",
-    "importantCharacter":[0,1],
+    "importantCharacter": [0, 1],
     "mainGraphics": [
         "images/lesson17/characters/bianYi-a.png",
         "images/lesson17/characters/bianYi-b.png"
@@ -67,5 +69,6 @@
         "00:00:28",
         "00:00:30",
         "00:00:32"
-    ]
+    ],
+    "englishTranslation": ""
 }

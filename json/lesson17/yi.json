@@ -1,11 +1,13 @@
 {
     "id": "yi",
-    "englishPhrase": "yǐ",
-    "englishImportantCharacter":"yǐ",
+    "chinese": "已",
+    "chinesePhrase": "已",
+    "romanizedPhrase": "yǐ",
+    "romanizedImportantCharacter": "yǐ",
     "strokes": 3,
     "wordAudio": "audio/lesson17/yi/word.mp3",
     "phraseAudio": "",
-    "importantCharacter":[0],
+    "importantCharacter": [0],
     "mainGraphics": [
         "images/lesson17/characters/yi.png"
     ],
@@ -24,5 +26,6 @@
         "00:00:00",
         "00:00:02",
         "00:00:04"
-    ]
+    ],
+    "englishTranslation": ""
 }

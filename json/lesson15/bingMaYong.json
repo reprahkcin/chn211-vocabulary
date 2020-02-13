@@ -1,11 +1,13 @@
 {
   "id": "bingMaYong",
-  "englishPhrase": "bīng mǎ yǒng",
-  "englishImportantCharacter":"bīng",
+  "chinese": "兵马俑",
+  "chinesePhrase": ["兵", "马", "俑"],
+  "romanizedPhrase": "bīng mǎ yǒng",
+  "romanizedImportantCharacter": "bīng",
   "strokes": 7,
   "wordAudio": "audio/lesson15/bingMaYong/word.mp3",
   "phraseAudio": "audio/lesson15/bingMaYong/phrase.mp3",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/bingMaYong-a.png",
     "images/lesson15/characters/bingMaYong-b.png",
@@ -38,5 +40,6 @@
     "00:00:08",
     "00:00:10",
     "00:00:12"
-  ]
+  ],
+  "englishTranslation": ""
 }

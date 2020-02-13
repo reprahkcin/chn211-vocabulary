@@ -1,11 +1,13 @@
 {
   "id": "jiu",
-  "englishPhrase": "jiǔ",
-  "englishImportantCharacter":"jiǔ",
+  "chinese": "久",
+  "chinesePhrase": "久",
+  "romanizedPhrase": "jiǔ",
+  "romanizedImportantCharacter": "jiǔ",
   "strokes": 3,
   "wordAudio": "audio/lesson15/jiu/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/jiu.png"
   ],
@@ -24,5 +26,6 @@
     "00:00:00",
     "00:00:02",
     "00:00:04"
-  ]
+  ],
+  "englishTranslation": ""
 }

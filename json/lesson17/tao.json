@@ -1,11 +1,13 @@
 {
     "id": "tao",
-    "englishPhrase": "tào",
-    "englishImportantCharacter":"tào",
+    "chinese": "套",
+    "chinesePhrase": "套",
+    "romanizedPhrase": "tào",
+    "romanizedImportantCharacter": "tào",
     "strokes": 10,
     "wordAudio": "audio/lesson17/tao/word.mp3",
     "phraseAudio": "",
-    "importantCharacter":[0],
+    "importantCharacter": [0],
     "mainGraphics": [
         "images/lesson17/characters/tao.png"
     ],
@@ -45,5 +47,6 @@
         "00:00:14",
         "00:00:16",
         "00:00:18"
-    ]
+    ],
+    "englishTranslation": ""
 }

@@ -1,11 +1,13 @@
 {
     "id": "maFan",
-    "englishPhrase": "má fán",
-    "englishImportantCharacter":"má fán",
+    "chinese": "麻烦",
+    "chinesePhrase": ["麻", "烦"],
+    "romanizedPhrase": "má fán",
+    "romanizedImportantCharacter": "má fán",
     "strokes": 21,
     "wordAudio": "audio/lesson17/maFan/word.mp3",
     "phraseAudio": "audio/lesson17/maFan/phrase.mp3",
-    "importantCharacter":[0,1],
+    "importantCharacter": [0, 1],
     "mainGraphics": [
         "images/lesson17/characters/maFan-a.png",
         "images/lesson17/characters/maFan-b.png"
@@ -79,5 +81,6 @@
         "00:00:36",
         "00:00:38",
         "00:00:40"
-    ]
+    ],
+    "englishTranslation": ""
 }

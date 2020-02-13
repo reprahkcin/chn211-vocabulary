@@ -1,11 +1,13 @@
 {
   "id": "faZhan",
-  "englishPhrase": "fā zhǎn",
-  "englishImportantCharacter":"zhǎn",
+  "chinese": "发展",
+  "chinesePhrase": ["发", "展"],
+  "romanizedPhrase": "fā zhǎn",
+  "romanizedImportantCharacter": "zhǎn",
   "strokes": 10,
   "wordAudio": "audio/lesson15/faZhan/word.mp3",
   "phraseAudio": "audio/lesson15/faZhan/phrase.mp3",
-  "importantCharacter":[1],
+  "importantCharacter": [1],
   "mainGraphics": [
     "images/lesson15/characters/faZhan-a.png",
     "images/lesson15/characters/faZhan-b.png"
@@ -46,5 +48,6 @@
     "00:00:14",
     "00:00:16",
     "00:00:18"
-  ]
+  ],
+  "englishTranslation": ""
 }

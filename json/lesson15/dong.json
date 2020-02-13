@@ -1,11 +1,13 @@
 {
   "id": "dong",
-  "englishPhrase": "dǒng",
-  "englishImportantCharacter":"dǒng",
+  "chinese": "懂",
+  "chinesePhrase": "懂",
+  "romanizedPhrase": "dǒng",
+  "romanizedImportantCharacter": "dǒng",
   "strokes": 15,
   "wordAudio": "audio/lesson15/dong/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/dong.png"
   ],
@@ -60,5 +62,6 @@
     "00:00:24",
     "00:00:26",
     "00:00:28"
-  ]
+  ],
+  "englishTranslation": ""
 }

@@ -1,11 +1,13 @@
 {
   "id": "yinHang",
-  "englishPhrase": "yín háng",
-  "englishImportantCharacter":"yín",
+  "chinese": "银行",
+  "chinesePhrase": ["银", "行"],
+  "romanizedPhrase": "yín háng",
+  "romanizedImportantCharacter": "yín",
   "strokes": 11,
   "wordAudio": "audio/lesson15/yinHang/word.mp3",
   "phraseAudio": "audio/lesson15/yinHang/phrase.mp3",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/yinHang-a.png",
     "images/lesson15/characters/yinHang-b.png"
@@ -49,5 +51,6 @@
     "00:00:16",
     "00:00:18",
     "00:00:20"
-  ]
+  ],
+  "englishTranslation": ""
 }

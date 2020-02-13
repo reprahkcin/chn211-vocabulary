@@ -1,0 +1,37 @@
+{
+    "id": "shi",
+    "chinese": "石",
+    "chinesePhrase": ["石"],
+    "romanizedPhrase": "shí",
+    "romanizedImportantCharacter": "shí",
+    "strokes": 5,
+    "wordAudio": "audio/lesson19/shi/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0, 1],
+    "mainGraphics": [
+      "images/lesson19/characters/shi.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson19/shi/01.mp3",
+      "audio/lesson19/shi/02.mp3",
+      "audio/lesson19/shi/03.mp3",
+      "audio/lesson19/shi/04.mp3",
+      "audio/lesson19/shi/05.mp3"
+    ],
+    "strokePng": [
+      "images/lesson19/shi/shi-01.png",
+      "images/lesson19/shi/shi-02.png",
+      "images/lesson19/shi/shi-03.png",
+      "images/lesson19/shi/shi-04.png",
+      "images/lesson19/shi/shi-05.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson19/shi.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08"
+    ],
+    "englishTranslation": ""
+  }

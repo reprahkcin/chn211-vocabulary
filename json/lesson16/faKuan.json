@@ -1,11 +1,13 @@
 {
   "id": "faKuan",
-  "englishPhrase": "fá kuǎn",
-  "englishImportantCharacter":"fá kuǎn",
+  "chinese": "罚款",
+  "chinesePhrase": ["罚", "款"],
+  "romanizedPhrase": "fá kuǎn",
+  "romanizedImportantCharacter": "fá kuǎn",
   "strokes": 21,
-  "wordAudio":"audio/lesson16/faKuan/word.mp3",
-    "phraseAudio": "audio/lesson16/faKuan/phrase.mp3",
-  "importantCharacter":[0,1],
+  "wordAudio": "audio/lesson16/faKuan/word.mp3",
+  "phraseAudio": "audio/lesson16/faKuan/phrase.mp3",
+  "importantCharacter": [0, 1],
   "mainGraphics": [
     "images/lesson16/characters/faKuan-a.png",
     "images/lesson16/characters/faKuan-b.png"
@@ -79,5 +81,6 @@
     "00:00:36",
     "00:00:38",
     "00:00:40"
-  ]
+  ],
+  "englishTranslation": ""
 }

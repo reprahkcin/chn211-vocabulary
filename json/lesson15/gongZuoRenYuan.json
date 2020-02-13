@@ -1,11 +1,13 @@
 {
   "id": "gongZuoRenYuan",
-  "englishPhrase": "gōng zuò rén yuán",
-  "englishImportantCharacter":"yuán",
+  "chinese": "工作人员",
+  "chinesePhrase": ["工", "作", "人", "员"],
+  "romanizedPhrase": "gōng zuò rén yuán",
+  "romanizedImportantCharacter": "yuán",
   "strokes": 7,
   "wordAudio": "audio/lesson15/gongZuoRenYuan/word.mp3",
   "phraseAudio": "audio/lesson15/gongZuoRenYuan/phrase.mp3",
-  "importantCharacter":[3],
+  "importantCharacter": [3],
   "mainGraphics": [
     "images/lesson15/characters/gongZuoRenYuan-a.png",
     "images/lesson15/characters/gongZuoRenYuan-b.png",
@@ -39,5 +41,6 @@
     "00:00:08",
     "00:00:10",
     "00:00:12"
-  ]
+  ],
+  "englishTranslation": ""
 }

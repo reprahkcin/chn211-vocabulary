@@ -1,11 +1,13 @@
 {
   "id": "shao",
-  "englishPhrase": "shǎo",
-  "englishImportantCharacter":"shǎo",
+  "chinese": "少",
+  "chinesePhrase": "少",
+  "romanizedPhrase": "shǎo",
+  "romanizedImportantCharacter": "shǎo",
   "strokes": 4,
   "wordAudio": "audio/lesson15/shao/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/shao.png"
   ],
@@ -27,5 +29,6 @@
     "00:00:02",
     "00:00:04",
     "00:00:06"
-  ]
+  ],
+  "englishTranslation": ""
 }

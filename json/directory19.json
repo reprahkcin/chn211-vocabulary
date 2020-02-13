@@ -1,0 +1,30 @@
+{
+    "character": [
+        "json/lesson19/beiHong.json",
+        "json/lesson19/bu.json",
+        "json/lesson19/buGanDang.json",
+        "json/lesson19/caiLiao.json",
+        "json/lesson19/chang.json",
+        "json/lesson19/dianTi.json",
+        "json/lesson19/dou.json",
+        "json/lesson19/feng.json",
+        "json/lesson19/fu.json",
+        "json/lesson19/hu.json",
+        "json/lesson19/kaiWanXiao.json",
+        "json/lesson19/maMaHuHu.json",
+        "json/lesson19/mo.json",
+        "json/lesson19/pao.json",
+        "json/lesson19/pi.json",
+        "json/lesson19/qiBaiShi.json",
+        "json/lesson19/shi.json",
+        "json/lesson19/shi2.json",
+        "json/lesson19/ta.json",
+        "json/lesson19/xia.json",
+        "json/lesson19/xuBeiHong.json",
+        "json/lesson19/yao.json",
+        "json/lesson19/you.json",
+        "json/lesson19/youCai.json",
+        "json/lesson19/youHua.json",
+        "json/lesson19/zhi.json"
+    ]
+}

@@ -1,11 +1,13 @@
 {
   "id": "kaoShi",
-  "englishPhrase": "kǎo shì",
-  "englishImportantCharacter":"kǎo shì",
+  "chinese": "考试",
+  "chinesePhrase": ["考", "试"],
+  "romanizedPhrase": "kǎo shì",
+  "romanizedImportantCharacter": "kǎo shì",
   "strokes": 14,
-  "wordAudio":"audio/lesson16/kaoShi/word.mp3",
-    "phraseAudio": "audio/lesson16/kaoShi/phrase.mp3",
-  "importantCharacter":[0,1],
+  "wordAudio": "audio/lesson16/kaoShi/word.mp3",
+  "phraseAudio": "audio/lesson16/kaoShi/phrase.mp3",
+  "importantCharacter": [0, 1],
   "mainGraphics": [
     "images/lesson16/characters/kaoShi-a.png",
     "images/lesson16/characters/kaoShi-b.png"
@@ -58,5 +60,6 @@
     "00:00:22",
     "00:00:24",
     "00:00:26"
-  ]
+  ],
+  "englishTranslation": ""
 }

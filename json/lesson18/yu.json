@@ -1,0 +1,40 @@
+{
+  "id": "yu",
+  "chinese": "聿",
+  "chinesePhrase": "聿",
+  "romanizedPhrase": "yù",
+  "romanizedImportantCharacter": "yù",
+  "strokes": 6,
+  "wordAudio": "audio/lesson18/yu/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [0],
+  "mainGraphics": [
+    "images/lesson18/characters/yu.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/yu/01.mp3",
+    "audio/lesson18/yu/02.mp3",
+    "audio/lesson18/yu/03.mp3",
+    "audio/lesson18/yu/04.mp3",
+    "audio/lesson18/yu/05.mp3",
+    "audio/lesson18/yu/06.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/yu/yu-01.png",
+    "images/lesson18/yu/yu-02.png",
+    "images/lesson18/yu/yu-03.png",
+    "images/lesson18/yu/yu-04.png",
+    "images/lesson18/yu/yu-05.png",
+    "images/lesson18/yu/yu-06.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/yu.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10"
+  ],
+  "englishTranslation": ""
+}

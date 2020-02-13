@@ -1,11 +1,13 @@
 {
   "id": "shengHuo",
-  "englishPhrase": "shēng huó",
-  "englishImportantCharacter":"huó",
+  "chinese": "生活",
+  "chinesePhrase": ["生", "活"],
+  "romanizedPhrase": "shēng huó",
+  "romanizedImportantCharacter": "huó",
   "strokes": 9,
-  "wordAudio":"audio/lesson16/shengHuo/word.mp3",
-    "phraseAudio": "audio/lesson16/shengHuo/phrase.mp3",
-  "importantCharacter":[1],
+  "wordAudio": "audio/lesson16/shengHuo/word.mp3",
+  "phraseAudio": "audio/lesson16/shengHuo/phrase.mp3",
+  "importantCharacter": [1],
   "mainGraphics": [
     "images/lesson16/characters/shengHuo-a.png",
     "images/lesson16/characters/shengHuo-b.png"
@@ -43,5 +45,6 @@
     "00:00:12",
     "00:00:14",
     "00:00:16"
-  ]
+  ],
+  "englishTranslation": ""
 }

@@ -1,0 +1,49 @@
+{
+    "id": "shi",
+    "chinese": "慢",
+    "chinesePhrase": "慢",
+    "romanizedPhrase": "shì",
+    "romanizedImportantCharacter": "shì",
+    "strokes": 9,
+    "wordAudio": "audio/lesson17/shi/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0],
+    "mainGraphics": [
+      "images/lesson17/characters/shi.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson17/shi/01.mp3",
+      "audio/lesson17/shi/02.mp3",
+      "audio/lesson17/shi/03.mp3",
+      "audio/lesson17/shi/04.mp3",
+      "audio/lesson17/shi/05.mp3",
+      "audio/lesson17/shi/06.mp3",
+      "audio/lesson17/shi/07.mp3",
+      "audio/lesson17/shi/08.mp3",
+      "audio/lesson17/shi/09.mp3"
+    ],
+    "strokePng": [
+      "images/lesson17/shi/shi-01.png",
+      "images/lesson17/shi/shi-02.png",
+      "images/lesson17/shi/shi-03.png",
+      "images/lesson17/shi/shi-04.png",
+      "images/lesson17/shi/shi-05.png",
+      "images/lesson17/shi/shi-06.png",
+      "images/lesson17/shi/shi-07.png",
+      "images/lesson17/shi/shi-08.png",
+      "images/lesson17/shi/shi-09.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson17/shi.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10",
+      "00:00:12",
+      "00:00:14",
+      "00:00:17"
+    ],
+    "englishTranslation": ""
+  }

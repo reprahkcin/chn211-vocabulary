@@ -1,0 +1,48 @@
+{
+  "id": "tongZhiDan",
+  "chinese": "通知单",
+  "chinesePhrase": ["通", "知", "单"],
+  "romanizedPhrase": "tōng zhī dān",
+  "romanizedImportantCharacter": "dān",
+  "strokes": 8,
+  "wordAudio": "audio/lesson18/tongZhiDan/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [2],
+  "mainGraphics": [
+    "images/lesson18/characters/tongZhiDan-a.png",
+    "images/lesson18/characters/tongZhiDan-b.png",
+    "images/lesson18/characters/tongZhiDan-c.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/tongZhiDan/01.mp3",
+    "audio/lesson18/tongZhiDan/02.mp3",
+    "audio/lesson18/tongZhiDan/03.mp3",
+    "audio/lesson18/tongZhiDan/04.mp3",
+    "audio/lesson18/tongZhiDan/05.mp3",
+    "audio/lesson18/tongZhiDan/06.mp3",
+    "audio/lesson18/tongZhiDan/07.mp3",
+    "audio/lesson18/tongZhiDan/08.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/tongZhiDan/tongZhiDan-01.png",
+    "images/lesson18/tongZhiDan/tongZhiDan-02.png",
+    "images/lesson18/tongZhiDan/tongZhiDan-03.png",
+    "images/lesson18/tongZhiDan/tongZhiDan-04.png",
+    "images/lesson18/tongZhiDan/tongZhiDan-05.png",
+    "images/lesson18/tongZhiDan/tongZhiDan-06.png",
+    "images/lesson18/tongZhiDan/tongZhiDan-07.png",
+    "images/lesson18/tongZhiDan/tongZhiDan-08.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/tongZhiDan.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14"
+  ],
+  "englishTranslation": ""
+}

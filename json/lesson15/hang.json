@@ -1,0 +1,40 @@
+{
+    "id": "hang",
+    "chinese": "行",
+    "chinesePhrase": "行",
+    "romanizedPhrase": "háng",
+    "romanizedImportantCharacter": "háng",
+    "strokes": 6,
+    "wordAudio": "audio/lesson15/hang/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0],
+    "mainGraphics": [
+      "images/lesson15/characters/hang.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson15/hang/01.mp3",
+      "audio/lesson15/hang/02.mp3",
+      "audio/lesson15/hang/03.mp3",
+      "audio/lesson15/hang/04.mp3",
+      "audio/lesson15/hang/05.mp3",
+      "audio/lesson15/hang/06.mp3"
+    ],
+    "strokePng": [
+      "images/lesson15/hang/hang-01.png",
+      "images/lesson15/hang/hang-02.png",
+      "images/lesson15/hang/hang-03.png",
+      "images/lesson15/hang/hang-04.png",
+      "images/lesson15/hang/hang-05.png",
+      "images/lesson15/hang/hang-06.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson15/hang.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10"
+    ],
+    "englishTranslation": ""
+  }

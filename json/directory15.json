@@ -2,7 +2,7 @@
     "character": [
         "json/lesson15/min.json",
         "json/lesson15/bi.json",
-        "json/lesson15/gan.json",
+        "json/lesson15/qian.json",
         "json/lesson15/jiu.json",
         "json/lesson15/huan.json",
         "json/lesson15/qiu.json",
@@ -30,6 +30,10 @@
         "json/lesson15/dong.json",
         "json/lesson15/jiu2.json",
         "json/lesson15/de.json",
-        "json/lesson15/shao.json"
+        "json/lesson15/shao.json",
+        "json/lesson15/puTong.json",
+        "json/lesson15/li.json",
+        "json/lesson15/dui.json",
+        "json/lesson15/hang.json"
     ]
 }

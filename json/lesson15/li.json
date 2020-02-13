@@ -1,0 +1,43 @@
+{
+    "id": "li",
+    "chinese": "利",
+    "chinesePhrase": "利",
+    "romanizedPhrase": "lì",
+    "romanizedImportantCharacter": "lì",
+    "strokes": 7,
+    "wordAudio": "audio/lesson15/li/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0],
+    "mainGraphics": [
+      "images/lesson15/characters/li.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson15/li/01.mp3",
+      "audio/lesson15/li/02.mp3",
+      "audio/lesson15/li/03.mp3",
+      "audio/lesson15/li/04.mp3",
+      "audio/lesson15/li/05.mp3",
+      "audio/lesson15/li/06.mp3",
+      "audio/lesson15/li/07.mp3"
+    ],
+    "strokePng": [
+      "images/lesson15/li/li-01.png",
+      "images/lesson15/li/li-02.png",
+      "images/lesson15/li/li-03.png",
+      "images/lesson15/li/li-04.png",
+      "images/lesson15/li/li-05.png",
+      "images/lesson15/li/li-06.png",
+      "images/lesson15/li/li-07.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson15/li.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10",
+      "00:00:12"
+    ],
+    "englishTranslation": ""
+  }

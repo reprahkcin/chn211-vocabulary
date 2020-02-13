@@ -1,0 +1,40 @@
+{
+    "id": "yao",
+    "chinese": "夭",
+    "chinesePhrase": ["夭"],
+    "romanizedPhrase": "yāo",
+    "romanizedImportantCharacter": "yāo",
+    "strokes": 6,
+    "wordAudio": "audio/lesson19/yao/word.mp3",
+    "phraseAudio": "",
+    "importantCharacter": [0],
+    "mainGraphics": [
+      "images/lesson19/characters/yao.png"
+    ],
+    "strokeAudio": [
+      "audio/lesson19/yao/01.mp3",
+      "audio/lesson19/yao/02.mp3",
+      "audio/lesson19/yao/03.mp3",
+      "audio/lesson19/yao/04.mp3",
+      "audio/lesson19/yao/05.mp3",
+      "audio/lesson19/yao/06.mp3"
+    ],
+    "strokePng": [
+      "images/lesson19/yao/yao-01.png",
+      "images/lesson19/yao/yao-02.png",
+      "images/lesson19/yao/yao-03.png",
+      "images/lesson19/yao/yao-04.png",
+      "images/lesson19/yao/yao-05.png",
+      "images/lesson19/yao/yao-06.png"
+    ],
+    "characterAnimated": "images/character-animated/lesson19/yao.mp4",
+    "timecodes": [
+      "00:00:00",
+      "00:00:02",
+      "00:00:04",
+      "00:00:06",
+      "00:00:08",
+      "00:00:10"
+    ],
+    "englishTranslation": ""
+  }

@@ -1,11 +1,13 @@
 {
   "id": "jiu2",
-  "englishPhrase": "jiù",
-  "englishImportantCharacter":"jiù",
+  "chinese": "就",
+  "chinesePhrase": "就",
+  "romanizedPhrase": "jiù",
+  "romanizedImportantCharacter": "jiù",
   "strokes": 12,
   "wordAudio": "audio/lesson15/jiu2/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson15/characters/jiu2.png"
   ],
@@ -51,5 +53,6 @@
     "00:00:18",
     "00:00:20",
     "00:00:22"
-  ]
+  ],
+  "englishTranslation": ""
 }

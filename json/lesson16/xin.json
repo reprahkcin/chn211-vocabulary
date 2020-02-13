@@ -1,11 +1,13 @@
 {
   "id": "xin",
-  "englishPhrase": "xīn",
-  "englishImportantCharacter":"xīn",
+  "chinese": "新",
+  "chinesePhrase": "新",
+  "romanizedPhrase": "xīn",
+  "romanizedImportantCharacter": "xīn",
   "strokes": 13,
   "wordAudio": "audio/lesson16/xin/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/xin.png"
   ],
@@ -54,5 +56,6 @@
     "00:00:20",
     "00:00:22",
     "00:00:24"
-  ]
+  ],
+  "englishTranslation": ""
 }

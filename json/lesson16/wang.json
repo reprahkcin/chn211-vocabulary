@@ -1,11 +1,13 @@
 {
   "id": "wang",
-  "englishPhrase": "wàng",
-  "englishImportantCharacter":"wàng",
+  "chinese": "忘",
+  "chinesePhrase": "忘",
+  "romanizedPhrase": "wàng",
+  "romanizedImportantCharacter": "wàng",
   "strokes": 7,
   "wordAudio": "audio/lesson16/wang/word.mp3",
   "phraseAudio": "",
-  "importantCharacter":[0],
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/wang.png"
   ],
@@ -36,5 +38,6 @@
     "00:00:08",
     "00:00:10",
     "00:00:12"
-  ]
+  ],
+  "englishTranslation": ""
 }

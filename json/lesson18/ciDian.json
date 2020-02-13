@@ -1,0 +1,47 @@
+{
+  "id": "ciDian",
+  "chinese": "词典",
+  "chinesePhrase": ["词", "典"],
+  "romanizedPhrase": "cí diǎn",
+  "romanizedImportantCharacter": "diǎn",
+  "strokes": 8,
+  "wordAudio": "audio/lesson18/ciDian/word.mp3",
+  "phraseAudio": "",
+  "importantCharacter": [1],
+  "mainGraphics": [
+    "images/lesson18/characters/ciDian-a.png",
+    "images/lesson18/characters/ciDian-b.png"
+  ],
+  "strokeAudio": [
+    "audio/lesson18/ciDian/01.mp3",
+    "audio/lesson18/ciDian/02.mp3",
+    "audio/lesson18/ciDian/03.mp3",
+    "audio/lesson18/ciDian/04.mp3",
+    "audio/lesson18/ciDian/05.mp3",
+    "audio/lesson18/ciDian/06.mp3",
+    "audio/lesson18/ciDian/07.mp3",
+    "audio/lesson18/ciDian/08.mp3"
+  ],
+  "strokePng": [
+    "images/lesson18/ciDian/ciDian-01.png",
+    "images/lesson18/ciDian/ciDian-02.png",
+    "images/lesson18/ciDian/ciDian-03.png",
+    "images/lesson18/ciDian/ciDian-04.png",
+    "images/lesson18/ciDian/ciDian-05.png",
+    "images/lesson18/ciDian/ciDian-06.png",
+    "images/lesson18/ciDian/ciDian-07.png",
+    "images/lesson18/ciDian/ciDian-08.png"
+  ],
+  "characterAnimated": "images/character-animated/lesson18/ciDian.mp4",
+  "timecodes": [
+    "00:00:00",
+    "00:00:02",
+    "00:00:04",
+    "00:00:06",
+    "00:00:08",
+    "00:00:10",
+    "00:00:12",
+    "00:00:14"
+  ],
+  "englishTranslation": ""
+}

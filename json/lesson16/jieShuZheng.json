@@ -1,11 +1,13 @@
 {
   "id": "jieShuZheng",
-  "englishPhrase": "jiè shū zhèng",
-  "englishImportantCharacter":"jiè",
+  "chinese": "借书证",
+  "chinesePhrase": ["借", "书", "证"],
+  "romanizedPhrase": "jiè shū zhèng",
+  "romanizedImportantCharacter": "jiè",
   "strokes": 10,
-  "wordAudio":"audio/lesson16/jieShuZheng/word.mp3",
-    "phraseAudio": "audio/lesson16/jieShuZheng/phrase.mp3",
-  "importantCharacter":[0],
+  "wordAudio": "audio/lesson16/jieShuZheng/word.mp3",
+  "phraseAudio": "audio/lesson16/jieShuZheng/phrase.mp3",
+  "importantCharacter": [0],
   "mainGraphics": [
     "images/lesson16/characters/jieShuZheng-a.png",
     "images/lesson16/characters/jieShuZheng-b.png",
@@ -47,5 +49,6 @@
     "00:00:14",
     "00:00:16",
     "00:00:18"
-  ]
+  ],
+  "englishTranslation": ""
 }

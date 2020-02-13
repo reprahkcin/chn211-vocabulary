@@ -1,11 +1,13 @@
 {
   "id": "canGuan",
-  "englishPhrase": "cān guān",
-  "englishImportantCharacter":"guān",
+  "chinese": "参观",
+  "chinesePhrase": ["参", "观"],
+  "romanizedPhrase": "cān guān",
+  "romanizedImportantCharacter": "guān",
   "strokes": 6,
   "wordAudio": "audio/lesson15/canGuan/word.mp3",
   "phraseAudio": "audio/lesson15/canGuan/phrase.mp3",
-  "importantCharacter":[1],
+  "importantCharacter": [1],
   "mainGraphics": [
     "images/lesson15/characters/canGuan-a.png",
     "images/lesson15/characters/canGuan-b.png"
@@ -34,5 +36,6 @@
     "00:00:06",
     "00:00:08",
     "00:00:10"
-  ]
+  ],
+  "englishTranslation": ""
 }

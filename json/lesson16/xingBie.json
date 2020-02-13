@@ -1,11 +1,13 @@
 {
   "id": "xingBie",
-  "englishPhrase": "xìng bié",
-  "englishImportantCharacter":"xìng bié",
+  "chinese": "性别",
+  "chinesePhrase": ["性", "别"],
+  "romanizedPhrase": "xìng bié",
+  "romanizedImportantCharacter": "xìng bié",
   "strokes": 15,
-  "wordAudio":"audio/lesson16/xingBie/word.mp3",
-    "phraseAudio": "audio/lesson16/xingBie/phrase.mp3",
-  "importantCharacter":[0,1],
+  "wordAudio": "audio/lesson16/xingBie/word.mp3",
+  "phraseAudio": "audio/lesson16/xingBie/phrase.mp3",
+  "importantCharacter": [0, 1],
   "mainGraphics": [
     "images/lesson16/characters/xingBie-a.png",
     "images/lesson16/characters/xingBie-b.png"
@@ -61,5 +63,6 @@
     "00:00:24",
     "00:00:26",
     "00:00:28"
-  ]
+  ],
+  "englishTranslation": ""
 }
