@@ -1,0 +1,45 @@
+{
+  "id": "huan2",
+  "chinese": [
+    "换"
+  ],
+  "romanized": [
+    "huàn"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/huan2.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3"
+  ],
+  "strokePng": [
+    "images/huan2-01.png",
+    "images/huan2-02.png",
+    "images/huan2-03.png",
+    "images/huan2-04.png",
+    "images/huan2-05.png",
+    "images/huan2-06.png",
+    "images/huan2-07.png",
+    "images/huan2-08.png",
+    "images/huan2-09.png",
+    "images/huan2-10.png"
+  ],
+  "characterAnimated": "animation/huan2.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

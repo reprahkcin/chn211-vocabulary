@@ -1,0 +1,73 @@
+{
+  "id": "puTong",
+  "chinese": [
+    "普",
+    "通"
+  ],
+  "romanized": [
+    "pǔ",
+    "tōng"
+  ],
+  "importantCharacters": [
+    0,
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/puTong-a.png",
+    "images/puTong-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3",
+    "audio/12.mp3",
+    "audio/13.mp3",
+    "audio/14.mp3",
+    "audio/15.mp3",
+    "audio/16.mp3",
+    "audio/17.mp3",
+    "audio/18.mp3",
+    "audio/19.mp3",
+    "audio/20.mp3",
+    "audio/21.mp3",
+    "audio/22.mp3"
+  ],
+  "strokePng": [
+    "images/puTong-01.png",
+    "images/puTong-02.png",
+    "images/puTong-03.png",
+    "images/puTong-04.png",
+    "images/puTong-05.png",
+    "images/puTong-06.png",
+    "images/puTong-07.png",
+    "images/puTong-08.png",
+    "images/puTong-09.png",
+    "images/puTong-10.png",
+    "images/puTong-11.png",
+    "images/puTong-12.png",
+    "images/puTong-13.png",
+    "images/puTong-14.png",
+    "images/puTong-15.png",
+    "images/puTong-16.png",
+    "images/puTong-17.png",
+    "images/puTong-18.png",
+    "images/puTong-19.png",
+    "images/puTong-20.png",
+    "images/puTong-21.png",
+    "images/puTong-22.png"
+  ],
+  "characterAnimated": "animation/puTong.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": ""
+}

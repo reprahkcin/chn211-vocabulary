@@ -1,0 +1,39 @@
+{
+  "id": "wangFuJing",
+  "chinese": [
+    "王",
+    "府",
+    "井"
+  ],
+  "romanized": [
+    "wáng",
+    "fǔ",
+    "jǐng"
+  ],
+  "importantCharacters": [
+    2
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/wangFuJing-a.png",
+    "images/wangFuJing-b.png",
+    "images/wangFuJing-c.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3"
+  ],
+  "strokePng": [
+    "images/wangFuJing-01.png",
+    "images/wangFuJing-02.png",
+    "images/wangFuJing-03.png",
+    "images/wangFuJing-04.png"
+  ],
+  "characterAnimated": "animation/wangFuJing.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": "audio/word3.mp3"
+}

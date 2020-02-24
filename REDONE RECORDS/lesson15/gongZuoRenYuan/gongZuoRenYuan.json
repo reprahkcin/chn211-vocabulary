@@ -1,0 +1,49 @@
+{
+  "id": "gongZuoRenYuan",
+  "chinese": [
+    "工",
+    "作",
+    "人",
+    "员"
+  ],
+  "romanized": [
+    "gōng",
+    "zuò",
+    "rén",
+    "yuán"
+  ],
+  "importantCharacters": [
+    3
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/gongZuoRenYuan-a.png",
+    "images/gongZuoRenYuan-b.png",
+    "images/gongZuoRenYuan-c.png",
+    "images/gongZuoRenYuan-d.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/gongZuoRenYuan-01.png",
+    "images/gongZuoRenYuan-02.png",
+    "images/gongZuoRenYuan-03.png",
+    "images/gongZuoRenYuan-04.png",
+    "images/gongZuoRenYuan-05.png",
+    "images/gongZuoRenYuan-06.png",
+    "images/gongZuoRenYuan-07.png"
+  ],
+  "characterAnimated": "animation/gongZuoRenYuan.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": "audio/word3.mp3",
+  "word4Audio": "audio/word4.mp3"
+}

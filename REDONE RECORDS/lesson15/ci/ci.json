@@ -1,0 +1,37 @@
+{
+  "id": "ci",
+  "chinese": [
+    "次"
+  ],
+  "romanized": [
+    "cì"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/ci.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/ci-01.png",
+    "images/ci-02.png",
+    "images/ci-03.png",
+    "images/ci-04.png",
+    "images/ci-05.png",
+    "images/ci-06.png"
+  ],
+  "characterAnimated": "animation/ci.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

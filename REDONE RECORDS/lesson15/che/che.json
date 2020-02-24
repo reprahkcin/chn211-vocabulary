@@ -1,0 +1,33 @@
+{
+  "id": "che",
+  "chinese": [
+    "车"
+  ],
+  "romanized": [
+    "chē"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/che.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3"
+  ],
+  "strokePng": [
+    "images/che-01.png",
+    "images/che-02.png",
+    "images/che-03.png",
+    "images/che-04.png"
+  ],
+  "characterAnimated": "animation/che.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

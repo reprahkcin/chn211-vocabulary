@@ -1,0 +1,33 @@
+{
+  "id": "dui",
+  "chinese": [
+    "队"
+  ],
+  "romanized": [
+    "duì"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/dui.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3"
+  ],
+  "strokePng": [
+    "images/dui-01.png",
+    "images/dui-02.png",
+    "images/dui-03.png",
+    "images/dui-04.png"
+  ],
+  "characterAnimated": "animation/dui.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

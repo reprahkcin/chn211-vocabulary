@@ -1,0 +1,39 @@
+{
+  "id": "yong",
+  "chinese": [
+    "甬"
+  ],
+  "romanized": [
+    "yǒng"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/yong.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/yong-01.png",
+    "images/yong-02.png",
+    "images/yong-03.png",
+    "images/yong-04.png",
+    "images/yong-05.png",
+    "images/yong-06.png",
+    "images/yong-07.png"
+  ],
+  "characterAnimated": "animation/yong.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}
