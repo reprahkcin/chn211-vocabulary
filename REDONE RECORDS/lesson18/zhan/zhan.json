@@ -1,0 +1,45 @@
+{
+  "id": "zhan",
+  "chinese": [
+    "站"
+  ],
+  "romanized": [
+    "zhàn"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/zhan.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3"
+  ],
+  "strokePng": [
+    "images/zhan-01.png",
+    "images/zhan-02.png",
+    "images/zhan-03.png",
+    "images/zhan-04.png",
+    "images/zhan-05.png",
+    "images/zhan-06.png",
+    "images/zhan-07.png",
+    "images/zhan-08.png",
+    "images/zhan-09.png",
+    "images/zhan-10.png"
+  ],
+  "characterAnimated": "animation/zhan.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}
