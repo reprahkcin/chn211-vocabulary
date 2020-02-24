@@ -1,0 +1,42 @@
+{
+  "id": "gongYuan",
+  "chinese": [
+    "公",
+    "园"
+  ],
+  "romanized": [
+    "gōng",
+    "yuán"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/gongYuan-a.png",
+    "images/gongYuan-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/gongYuan-01.png",
+    "images/gongYuan-02.png",
+    "images/gongYuan-03.png",
+    "images/gongYuan-04.png",
+    "images/gongYuan-05.png",
+    "images/gongYuan-06.png",
+    "images/gongYuan-07.png"
+  ],
+  "characterAnimated": "animation/gongYuan.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": ""
+}

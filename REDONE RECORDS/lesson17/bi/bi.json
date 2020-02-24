@@ -1,0 +1,33 @@
+{
+  "id": "bi",
+  "chinese": [
+    "比"
+  ],
+  "romanized": [
+    "bǐ"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/bi.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3"
+  ],
+  "strokePng": [
+    "images/bi-01.png",
+    "images/bi-02.png",
+    "images/bi-03.png",
+    "images/bi-04.png"
+  ],
+  "characterAnimated": "animation/bi.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

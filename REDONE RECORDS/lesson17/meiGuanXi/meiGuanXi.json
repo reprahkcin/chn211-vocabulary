@@ -1,0 +1,43 @@
+{
+  "id": "meiGuanXi",
+  "chinese": [
+    "没",
+    "关",
+    "系"
+  ],
+  "romanized": [
+    "méi",
+    "guān",
+    "xì"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/meiGuanXi-a.png",
+    "images/meiGuanXi-b.png",
+    "images/meiGuanXi-c.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/meiGuanXi-01.png",
+    "images/meiGuanXi-02.png",
+    "images/meiGuanXi-03.png",
+    "images/meiGuanXi-04.png",
+    "images/meiGuanXi-05.png",
+    "images/meiGuanXi-06.png"
+  ],
+  "characterAnimated": "animation/meiGuanXi.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": "audio/word3.mp3"
+}

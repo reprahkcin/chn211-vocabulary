@@ -1,0 +1,35 @@
+{
+  "id": "si",
+  "chinese": [
+    "丝"
+  ],
+  "romanized": [
+    "sī"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/si.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3"
+  ],
+  "strokePng": [
+    "images/si-01.png",
+    "images/si-02.png",
+    "images/si-03.png",
+    "images/si-04.png",
+    "images/si-05.png"
+  ],
+  "characterAnimated": "animation/si.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

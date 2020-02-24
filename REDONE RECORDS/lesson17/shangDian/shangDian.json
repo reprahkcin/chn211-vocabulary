@@ -1,0 +1,44 @@
+{
+  "id": "shangDian",
+  "chinese": [
+    "商",
+    "店"
+  ],
+  "romanized": [
+    "shāng",
+    "diàn"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/shangDian-a.png",
+    "images/shangDian-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3"
+  ],
+  "strokePng": [
+    "images/shangDian-01.png",
+    "images/shangDian-02.png",
+    "images/shangDian-03.png",
+    "images/shangDian-04.png",
+    "images/shangDian-05.png",
+    "images/shangDian-06.png",
+    "images/shangDian-07.png",
+    "images/shangDian-08.png"
+  ],
+  "characterAnimated": "animation/shangDian.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": ""
+}

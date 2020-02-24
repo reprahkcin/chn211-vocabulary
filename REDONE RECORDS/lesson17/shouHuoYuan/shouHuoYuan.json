@@ -1,0 +1,66 @@
+{
+  "id": "shouHuoYuan",
+  "chinese": [
+    "售",
+    "货",
+    "员"
+  ],
+  "romanized": [
+    "shòu",
+    "huò",
+    "yuán"
+  ],
+  "importantCharacters": [
+    0,
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/shouHuoYuan-a.png",
+    "images/shouHuoYuan-b.png",
+    "images/shouHuoYuan-c.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3",
+    "audio/12.mp3",
+    "audio/13.mp3",
+    "audio/14.mp3",
+    "audio/15.mp3",
+    "audio/16.mp3",
+    "audio/17.mp3"
+  ],
+  "strokePng": [
+    "images/shouHuoYuan-01.png",
+    "images/shouHuoYuan-02.png",
+    "images/shouHuoYuan-03.png",
+    "images/shouHuoYuan-04.png",
+    "images/shouHuoYuan-05.png",
+    "images/shouHuoYuan-06.png",
+    "images/shouHuoYuan-07.png",
+    "images/shouHuoYuan-08.png",
+    "images/shouHuoYuan-09.png",
+    "images/shouHuoYuan-10.png",
+    "images/shouHuoYuan-11.png",
+    "images/shouHuoYuan-12.png",
+    "images/shouHuoYuan-13.png",
+    "images/shouHuoYuan-14.png",
+    "images/shouHuoYuan-15.png",
+    "images/shouHuoYuan-16.png",
+    "images/shouHuoYuan-17.png"
+  ],
+  "characterAnimated": "animation/shouHuoYuan.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": "audio/word3.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "heShi",
+  "chinese": [
+    "合",
+    "适"
+  ],
+  "romanized": [
+    "hé",
+    "shì"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/heShi-a.png",
+    "images/heShi-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/heShi-01.png",
+    "images/heShi-02.png",
+    "images/heShi-03.png",
+    "images/heShi-04.png",
+    "images/heShi-05.png",
+    "images/heShi-06.png"
+  ],
+  "characterAnimated": "animation/heShi.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": ""
+}
