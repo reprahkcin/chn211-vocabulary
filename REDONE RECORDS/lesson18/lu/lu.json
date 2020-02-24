@@ -1,0 +1,51 @@
+{
+  "id": "lu",
+  "chinese": [
+    "路"
+  ],
+  "romanized": [
+    "lù"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/lu.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3",
+    "audio/12.mp3",
+    "audio/13.mp3"
+  ],
+  "strokePng": [
+    "images/lu-01.png",
+    "images/lu-02.png",
+    "images/lu-03.png",
+    "images/lu-04.png",
+    "images/lu-05.png",
+    "images/lu-06.png",
+    "images/lu-07.png",
+    "images/lu-08.png",
+    "images/lu-09.png",
+    "images/lu-10.png",
+    "images/lu-11.png",
+    "images/lu-12.png",
+    "images/lu-13.png"
+  ],
+  "characterAnimated": "animation/lu.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

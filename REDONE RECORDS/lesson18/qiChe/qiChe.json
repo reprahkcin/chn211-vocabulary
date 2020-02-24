@@ -1,0 +1,42 @@
+{
+  "id": "qiChe",
+  "chinese": [
+    "汽",
+    "车"
+  ],
+  "romanized": [
+    "qì",
+    "chē"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/qiChe-a.png",
+    "images/qiChe-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/qiChe-01.png",
+    "images/qiChe-02.png",
+    "images/qiChe-03.png",
+    "images/qiChe-04.png",
+    "images/qiChe-05.png",
+    "images/qiChe-06.png",
+    "images/qiChe-07.png"
+  ],
+  "characterAnimated": "animation/qiChe.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": ""
+}

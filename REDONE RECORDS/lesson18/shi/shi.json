@@ -1,0 +1,35 @@
+{
+  "id": "shi",
+  "chinese": [
+    "失"
+  ],
+  "romanized": [
+    "shī"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/shi.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3"
+  ],
+  "strokePng": [
+    "images/shi-01.png",
+    "images/shi-02.png",
+    "images/shi-03.png",
+    "images/shi-04.png",
+    "images/shi-05.png"
+  ],
+  "characterAnimated": "animation/shi.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

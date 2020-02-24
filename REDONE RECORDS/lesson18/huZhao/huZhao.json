@@ -1,0 +1,42 @@
+{
+  "id": "huZhao",
+  "chinese": [
+    "护",
+    "照"
+  ],
+  "romanized": [
+    "hù",
+    "zhào"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/huZhao-a.png",
+    "images/huZhao-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/huZhao-01.png",
+    "images/huZhao-02.png",
+    "images/huZhao-03.png",
+    "images/huZhao-04.png",
+    "images/huZhao-05.png",
+    "images/huZhao-06.png",
+    "images/huZhao-07.png"
+  ],
+  "characterAnimated": "animation/huZhao.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": ""
+}

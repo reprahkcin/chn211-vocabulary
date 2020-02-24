@@ -1,0 +1,35 @@
+{
+  "id": "jiu",
+  "chinese": [
+    "旧"
+  ],
+  "romanized": [
+    "jiù"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/jiu.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3"
+  ],
+  "strokePng": [
+    "images/jiu-01.png",
+    "images/jiu-02.png",
+    "images/jiu-03.png",
+    "images/jiu-04.png",
+    "images/jiu-05.png"
+  ],
+  "characterAnimated": "animation/jiu.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

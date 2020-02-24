@@ -1,0 +1,35 @@
+{
+  "id": "fu",
+  "chinese": [
+    "弗"
+  ],
+  "romanized": [
+    "fú"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/fu.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3"
+  ],
+  "strokePng": [
+    "images/fu-01.png",
+    "images/fu-02.png",
+    "images/fu-03.png",
+    "images/fu-04.png",
+    "images/fu-05.png"
+  ],
+  "characterAnimated": "animation/fu.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

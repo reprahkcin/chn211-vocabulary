@@ -1,0 +1,35 @@
+{
+  "id": "ji",
+  "chinese": [
+    "记"
+  ],
+  "romanized": [
+    "jì"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/ji.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3"
+  ],
+  "strokePng": [
+    "images/ji-01.png",
+    "images/ji-02.png",
+    "images/ji-03.png",
+    "images/ji-04.png",
+    "images/ji-05.png"
+  ],
+  "characterAnimated": "animation/ji.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}
