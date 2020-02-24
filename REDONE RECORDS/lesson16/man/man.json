@@ -1,0 +1,53 @@
+{
+  "id": "man",
+  "chinese": [
+    "慢"
+  ],
+  "romanized": [
+    "màn"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/man.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3",
+    "audio/12.mp3",
+    "audio/13.mp3",
+    "audio/14.mp3"
+  ],
+  "strokePng": [
+    "images/man-01.png",
+    "images/man-02.png",
+    "images/man-03.png",
+    "images/man-04.png",
+    "images/man-05.png",
+    "images/man-06.png",
+    "images/man-07.png",
+    "images/man-08.png",
+    "images/man-09.png",
+    "images/man-10.png",
+    "images/man-11.png",
+    "images/man-12.png",
+    "images/man-13.png",
+    "images/man-14.png"
+  ],
+  "characterAnimated": "animation/man.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

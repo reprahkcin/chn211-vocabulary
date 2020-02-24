@@ -1,0 +1,37 @@
+{
+  "id": "jiao",
+  "chinese": [
+    "交"
+  ],
+  "romanized": [
+    "jiāo"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/jiao.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/jiao-01.png",
+    "images/jiao-02.png",
+    "images/jiao-03.png",
+    "images/jiao-04.png",
+    "images/jiao-05.png",
+    "images/jiao-06.png"
+  ],
+  "characterAnimated": "animation/jiao.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

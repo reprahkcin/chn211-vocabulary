@@ -1,0 +1,41 @@
+{
+  "id": "guan",
+  "chinese": [
+    "官"
+  ],
+  "romanized": [
+    "guān"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/guan.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3"
+  ],
+  "strokePng": [
+    "images/guan-01.png",
+    "images/guan-02.png",
+    "images/guan-03.png",
+    "images/guan-04.png",
+    "images/guan-05.png",
+    "images/guan-06.png",
+    "images/guan-07.png",
+    "images/guan-08.png"
+  ],
+  "characterAnimated": "animation/guan.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

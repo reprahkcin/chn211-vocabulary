@@ -1,0 +1,46 @@
+{
+  "id": "shengHuo",
+  "chinese": [
+    "生",
+    "活"
+  ],
+  "romanized": [
+    "shēng",
+    "huó"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/shengHuo-a.png",
+    "images/shengHuo-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3"
+  ],
+  "strokePng": [
+    "images/shengHuo-01.png",
+    "images/shengHuo-02.png",
+    "images/shengHuo-03.png",
+    "images/shengHuo-04.png",
+    "images/shengHuo-05.png",
+    "images/shengHuo-06.png",
+    "images/shengHuo-07.png",
+    "images/shengHuo-08.png",
+    "images/shengHuo-09.png"
+  ],
+  "characterAnimated": "animation/shengHuo.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": ""
+}

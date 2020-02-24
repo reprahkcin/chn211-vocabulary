@@ -1,0 +1,35 @@
+{
+  "id": "zheng",
+  "chinese": [
+    "正"
+  ],
+  "romanized": [
+    "zhèng"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/zheng.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3"
+  ],
+  "strokePng": [
+    "images/zheng-01.png",
+    "images/zheng-02.png",
+    "images/zheng-03.png",
+    "images/zheng-04.png",
+    "images/zheng-05.png"
+  ],
+  "characterAnimated": "animation/zheng.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

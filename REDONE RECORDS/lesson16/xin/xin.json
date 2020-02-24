@@ -1,0 +1,51 @@
+{
+  "id": "xin",
+  "chinese": [
+    "新"
+  ],
+  "romanized": [
+    "xīn"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/xin.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3",
+    "audio/12.mp3",
+    "audio/13.mp3"
+  ],
+  "strokePng": [
+    "images/xin-01.png",
+    "images/xin-02.png",
+    "images/xin-03.png",
+    "images/xin-04.png",
+    "images/xin-05.png",
+    "images/xin-06.png",
+    "images/xin-07.png",
+    "images/xin-08.png",
+    "images/xin-09.png",
+    "images/xin-10.png",
+    "images/xin-11.png",
+    "images/xin-12.png",
+    "images/xin-13.png"
+  ],
+  "characterAnimated": "animation/xin.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

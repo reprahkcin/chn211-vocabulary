@@ -1,0 +1,33 @@
+{
+  "id": "sa",
+  "chinese": [
+    "卅"
+  ],
+  "romanized": [
+    "sà"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/sa.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3"
+  ],
+  "strokePng": [
+    "images/sa-01.png",
+    "images/sa-02.png",
+    "images/sa-03.png",
+    "images/sa-04.png"
+  ],
+  "characterAnimated": "animation/sa.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}
