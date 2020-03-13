@@ -1,0 +1,54 @@
+{
+  "id": "buCuo",
+  "chinese": [
+    "不",
+    "错"
+  ],
+  "romanized": [
+    "bú",
+    "cuò"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/buCuo-a.png",
+    "images/buCuo-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3",
+    "audio/12.mp3",
+    "audio/13.mp3"
+  ],
+  "strokePng": [
+    "images/buCuo-01.png",
+    "images/buCuo-02.png",
+    "images/buCuo-03.png",
+    "images/buCuo-04.png",
+    "images/buCuo-05.png",
+    "images/buCuo-06.png",
+    "images/buCuo-07.png",
+    "images/buCuo-08.png",
+    "images/buCuo-09.png",
+    "images/buCuo-10.png",
+    "images/buCuo-11.png",
+    "images/buCuo-12.png",
+    "images/buCuo-13.png"
+  ],
+  "characterAnimated": "animation/buCuo.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": ""
+}

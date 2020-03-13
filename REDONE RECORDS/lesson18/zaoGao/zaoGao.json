@@ -1,0 +1,62 @@
+{
+  "id": "zaoGao",
+  "chinese": [
+    "糟",
+    "糕"
+  ],
+  "romanized": [
+    "zāo",
+    "gāo"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/zaoGao-a.png",
+    "images/zaoGao-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3",
+    "audio/12.mp3",
+    "audio/13.mp3",
+    "audio/14.mp3",
+    "audio/15.mp3",
+    "audio/16.mp3",
+    "audio/17.mp3"
+  ],
+  "strokePng": [
+    "images/zaoGao-01.png",
+    "images/zaoGao-02.png",
+    "images/zaoGao-03.png",
+    "images/zaoGao-04.png",
+    "images/zaoGao-05.png",
+    "images/zaoGao-06.png",
+    "images/zaoGao-07.png",
+    "images/zaoGao-08.png",
+    "images/zaoGao-09.png",
+    "images/zaoGao-10.png",
+    "images/zaoGao-11.png",
+    "images/zaoGao-12.png",
+    "images/zaoGao-13.png",
+    "images/zaoGao-14.png",
+    "images/zaoGao-15.png",
+    "images/zaoGao-16.png",
+    "images/zaoGao-17.png"
+  ],
+  "characterAnimated": "animation/zaoGao.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": ""
+}

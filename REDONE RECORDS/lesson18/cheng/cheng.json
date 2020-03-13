@@ -1,0 +1,45 @@
+{
+  "id": "cheng",
+  "chinese": [
+    "乘"
+  ],
+  "romanized": [
+    "chéng"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/cheng.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3"
+  ],
+  "strokePng": [
+    "images/cheng-01.png",
+    "images/cheng-02.png",
+    "images/cheng-03.png",
+    "images/cheng-04.png",
+    "images/cheng-05.png",
+    "images/cheng-06.png",
+    "images/cheng-07.png",
+    "images/cheng-08.png",
+    "images/cheng-09.png",
+    "images/cheng-10.png"
+  ],
+  "characterAnimated": "animation/cheng.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

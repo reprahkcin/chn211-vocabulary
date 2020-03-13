@@ -1,0 +1,39 @@
+{
+  "id": "ji2",
+  "chinese": [
+    "极"
+  ],
+  "romanized": [
+    "jí"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/ji2.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/ji2-01.png",
+    "images/ji2-02.png",
+    "images/ji2-03.png",
+    "images/ji2-04.png",
+    "images/ji2-05.png",
+    "images/ji2-06.png",
+    "images/ji2-07.png"
+  ],
+  "characterAnimated": "animation/ji2.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

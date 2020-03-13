@@ -1,0 +1,37 @@
+{
+  "id": "hang",
+  "chinese": [
+    "行"
+  ],
+  "romanized": [
+    "háng"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/hang.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/hang-01.png",
+    "images/hang-02.png",
+    "images/hang-03.png",
+    "images/hang-04.png",
+    "images/hang-05.png",
+    "images/hang-06.png"
+  ],
+  "characterAnimated": "animation/hang.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

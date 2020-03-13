@@ -1,0 +1,55 @@
+{
+  "id": "dong",
+  "chinese": [
+    "懂"
+  ],
+  "romanized": [
+    "dǒng"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/dong.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3",
+    "audio/12.mp3",
+    "audio/13.mp3",
+    "audio/14.mp3",
+    "audio/15.mp3"
+  ],
+  "strokePng": [
+    "images/dong-01.png",
+    "images/dong-02.png",
+    "images/dong-03.png",
+    "images/dong-04.png",
+    "images/dong-05.png",
+    "images/dong-06.png",
+    "images/dong-07.png",
+    "images/dong-08.png",
+    "images/dong-09.png",
+    "images/dong-10.png",
+    "images/dong-11.png",
+    "images/dong-12.png",
+    "images/dong-13.png",
+    "images/dong-14.png",
+    "images/dong-15.png"
+  ],
+  "characterAnimated": "animation/dong.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

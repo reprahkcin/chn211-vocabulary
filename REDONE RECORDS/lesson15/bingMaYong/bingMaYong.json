@@ -1,0 +1,45 @@
+{
+  "id": "bingMaYong",
+  "chinese": [
+    "兵",
+    "马",
+    "俑"
+  ],
+  "romanized": [
+    "bīng",
+    "mǎ",
+    "yǒng"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/bingMaYong-a.png",
+    "images/bingMaYong-b.png",
+    "images/bingMaYong-c.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/bingMaYong-01.png",
+    "images/bingMaYong-02.png",
+    "images/bingMaYong-03.png",
+    "images/bingMaYong-04.png",
+    "images/bingMaYong-05.png",
+    "images/bingMaYong-06.png",
+    "images/bingMaYong-07.png"
+  ],
+  "characterAnimated": "animation/bingMaYong.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": "audio/word3.mp3"
+}

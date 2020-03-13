@@ -1,0 +1,43 @@
+{
+  "id": "dai",
+  "chinese": [
+    "带"
+  ],
+  "romanized": [
+    "dài"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/dai.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3"
+  ],
+  "strokePng": [
+    "images/dai-01.png",
+    "images/dai-02.png",
+    "images/dai-03.png",
+    "images/dai-04.png",
+    "images/dai-05.png",
+    "images/dai-06.png",
+    "images/dai-07.png",
+    "images/dai-08.png",
+    "images/dai-09.png"
+  ],
+  "characterAnimated": "animation/dai.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

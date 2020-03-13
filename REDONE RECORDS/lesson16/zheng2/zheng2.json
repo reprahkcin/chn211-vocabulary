@@ -1,0 +1,39 @@
+{
+  "id": "zheng2",
+  "chinese": [
+    "证"
+  ],
+  "romanized": [
+    "zhèng"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/zheng2.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/zheng2-01.png",
+    "images/zheng2-02.png",
+    "images/zheng2-03.png",
+    "images/zheng2-04.png",
+    "images/zheng2-05.png",
+    "images/zheng2-06.png",
+    "images/zheng2-07.png"
+  ],
+  "characterAnimated": "animation/zheng2.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

@@ -1,0 +1,35 @@
+{
+  "id": "min",
+  "chinese": [
+    "民"
+  ],
+  "romanized": [
+    "mín"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/min.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3"
+  ],
+  "strokePng": [
+    "images/min-01.png",
+    "images/min-02.png",
+    "images/min-03.png",
+    "images/min-04.png",
+    "images/min-05.png"
+  ],
+  "characterAnimated": "animation/min.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

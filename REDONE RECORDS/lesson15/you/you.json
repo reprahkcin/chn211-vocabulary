@@ -1,0 +1,35 @@
+{
+  "id": "you",
+  "chinese": [
+    "尤"
+  ],
+  "romanized": [
+    "yóu",
+    "",
+    ""
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/you.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3"
+  ],
+  "strokePng": [
+    "images/you-01.png",
+    "images/you-02.png",
+    "images/you-03.png",
+    "images/you-04.png"
+  ],
+  "characterAnimated": "animation/you.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "zao",
+  "chinese": [
+    "早"
+  ],
+  "romanized": [
+    "zǎo"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/zao.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/zao-01.png",
+    "images/zao-02.png",
+    "images/zao-03.png",
+    "images/zao-04.png",
+    "images/zao-05.png",
+    "images/zao-06.png"
+  ],
+  "characterAnimated": "animation/zao.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

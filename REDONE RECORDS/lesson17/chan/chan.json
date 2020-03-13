@@ -1,0 +1,37 @@
+{
+  "id": "chan",
+  "chinese": [
+    "产"
+  ],
+  "romanized": [
+    "chǎn"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/chan.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/chan-01.png",
+    "images/chan-02.png",
+    "images/chan-03.png",
+    "images/chan-04.png",
+    "images/chan-05.png",
+    "images/chan-06.png"
+  ],
+  "characterAnimated": "animation/chan.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

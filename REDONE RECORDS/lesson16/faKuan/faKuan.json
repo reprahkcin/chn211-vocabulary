@@ -1,0 +1,71 @@
+{
+  "id": "faKuan",
+  "chinese": [
+    "罚",
+    "款"
+  ],
+  "romanized": [
+    "fá",
+    "kuǎn"
+  ],
+  "importantCharacters": [
+    0,
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/faKuan-a.png",
+    "images/faKuan-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3",
+    "audio/12.mp3",
+    "audio/13.mp3",
+    "audio/14.mp3",
+    "audio/15.mp3",
+    "audio/16.mp3",
+    "audio/17.mp3",
+    "audio/18.mp3",
+    "audio/19.mp3",
+    "audio/20.mp3",
+    "audio/21.mp3"
+  ],
+  "strokePng": [
+    "images/faKuan-01.png",
+    "images/faKuan-02.png",
+    "images/faKuan-03.png",
+    "images/faKuan-04.png",
+    "images/faKuan-05.png",
+    "images/faKuan-06.png",
+    "images/faKuan-07.png",
+    "images/faKuan-08.png",
+    "images/faKuan-09.png",
+    "images/faKuan-10.png",
+    "images/faKuan-11.png",
+    "images/faKuan-12.png",
+    "images/faKuan-13.png",
+    "images/faKuan-14.png",
+    "images/faKuan-15.png",
+    "images/faKuan-16.png",
+    "images/faKuan-17.png",
+    "images/faKuan-18.png",
+    "images/faKuan-19.png",
+    "images/faKuan-20.png",
+    "images/faKuan-21.png"
+  ],
+  "characterAnimated": "animation/faKuan.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": ""
+}

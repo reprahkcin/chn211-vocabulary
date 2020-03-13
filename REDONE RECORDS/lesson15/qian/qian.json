@@ -1,0 +1,31 @@
+{
+  "id": "qian",
+  "chinese": [
+    "千"
+  ],
+  "romanized": [
+    "qian"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/qian.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3"
+  ],
+  "strokePng": [
+    "images/qian-01.png",
+    "images/qian-02.png",
+    "images/qian-03.png"
+  ],
+  "characterAnimated": "animation/qian.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

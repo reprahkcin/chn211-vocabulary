@@ -1,0 +1,40 @@
+{
+  "id": "canGuan",
+  "chinese": [
+    "参",
+    "观"
+  ],
+  "romanized": [
+    "cān",
+    "guān"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/canGuan-a.png",
+    "images/canGuan-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/canGuan-01.png",
+    "images/canGuan-02.png",
+    "images/canGuan-03.png",
+    "images/canGuan-04.png",
+    "images/canGuan-05.png",
+    "images/canGuan-06.png"
+  ],
+  "characterAnimated": "animation/canGuan.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": "audio/word3.mp3"
+}

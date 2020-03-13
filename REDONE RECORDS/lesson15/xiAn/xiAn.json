@@ -1,0 +1,40 @@
+{
+  "id": "xiAn",
+  "chinese": [
+    "西",
+    "安"
+  ],
+  "romanized": [
+    "xī",
+    "ān"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/xiAn-a.png",
+    "images/xiAn-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/xiAn-01.png",
+    "images/xiAn-02.png",
+    "images/xiAn-03.png",
+    "images/xiAn-04.png",
+    "images/xiAn-05.png",
+    "images/xiAn-06.png"
+  ],
+  "characterAnimated": "animation/xiAn.mp4",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "audio/word2.mp3",
+  "word3Audio": ""
+}

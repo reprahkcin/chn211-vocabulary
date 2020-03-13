@@ -1,0 +1,33 @@
+{
+  "id": "shao",
+  "chinese": [
+    "少"
+  ],
+  "romanized": [
+    "shǎo"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/shao.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3"
+  ],
+  "strokePng": [
+    "images/shao-01.png",
+    "images/shao-02.png",
+    "images/shao-03.png",
+    "images/shao-04.png"
+  ],
+  "characterAnimated": "animation/shao.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

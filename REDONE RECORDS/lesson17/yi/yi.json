@@ -1,0 +1,31 @@
+{
+  "id": "yi",
+  "chinese": [
+    "已"
+  ],
+  "romanized": [
+    "yǐ"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/yi.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3"
+  ],
+  "strokePng": [
+    "images/yi-01.png",
+    "images/yi-02.png",
+    "images/yi-03.png"
+  ],
+  "characterAnimated": "animation/yi.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

@@ -1,0 +1,49 @@
+{
+  "id": "jiu2",
+  "chinese": [
+    "就"
+  ],
+  "romanized": [
+    "jiù"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/jiu2.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3",
+    "audio/12.mp3"
+  ],
+  "strokePng": [
+    "images/jiu2-01.png",
+    "images/jiu2-02.png",
+    "images/jiu2-03.png",
+    "images/jiu2-04.png",
+    "images/jiu2-05.png",
+    "images/jiu2-06.png",
+    "images/jiu2-07.png",
+    "images/jiu2-08.png",
+    "images/jiu2-09.png",
+    "images/jiu2-10.png",
+    "images/jiu2-11.png",
+    "images/jiu2-12.png"
+  ],
+  "characterAnimated": "animation/jiu2.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

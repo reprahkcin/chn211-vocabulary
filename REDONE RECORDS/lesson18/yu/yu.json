@@ -1,0 +1,37 @@
+{
+  "id": "yu",
+  "chinese": [
+    "聿"
+  ],
+  "romanized": [
+    "yù"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/yu.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/yu-01.png",
+    "images/yu-02.png",
+    "images/yu-03.png",
+    "images/yu-04.png",
+    "images/yu-05.png",
+    "images/yu-06.png"
+  ],
+  "characterAnimated": "animation/yu.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

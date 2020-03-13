@@ -1,0 +1,39 @@
+{
+  "id": "ba",
+  "chinese": [
+    "把"
+  ],
+  "romanized": [
+    "bǎ"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/ba.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/ba-01.png",
+    "images/ba-02.png",
+    "images/ba-03.png",
+    "images/ba-04.png",
+    "images/ba-05.png",
+    "images/ba-06.png",
+    "images/ba-07.png"
+  ],
+  "characterAnimated": "animation/ba.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}

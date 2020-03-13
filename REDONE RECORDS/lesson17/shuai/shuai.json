@@ -1,0 +1,35 @@
+{
+  "id": "shuai",
+  "chinese": [
+    "帅"
+  ],
+  "romanized": [
+    "shuài"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/shuai.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3"
+  ],
+  "strokePng": [
+    "images/shuai-01.png",
+    "images/shuai-02.png",
+    "images/shuai-03.png",
+    "images/shuai-04.png",
+    "images/shuai-05.png"
+  ],
+  "characterAnimated": "animation/shuai.mp4",
+  "phraseAudio": "",
+  "wordAudio": "audio/word.mp3",
+  "word2Audio": "",
+  "word3Audio": ""
+}
