@@ -1,0 +1,31 @@
+{
+  "id": "feng",
+  "chinese": [
+    "风"
+  ],
+  "romanized": [
+    "fēng"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/feng.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3"
+  ],
+  "strokePng": [
+    "images/feng-01.png",
+    "images/feng-02.png",
+    "images/feng-03.png",
+    "images/feng-04.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

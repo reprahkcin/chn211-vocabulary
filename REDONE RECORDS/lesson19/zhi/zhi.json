@@ -1,0 +1,37 @@
+{
+  "id": "zhi",
+  "chinese": [
+    "纸"
+  ],
+  "romanized": [
+    "zhǐ"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/zhi.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/zhi-01.png",
+    "images/zhi-02.png",
+    "images/zhi-03.png",
+    "images/zhi-04.png",
+    "images/zhi-05.png",
+    "images/zhi-06.png",
+    "images/zhi-07.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

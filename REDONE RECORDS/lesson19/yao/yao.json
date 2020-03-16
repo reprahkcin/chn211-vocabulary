@@ -1,0 +1,31 @@
+{
+  "id": "yao",
+  "chinese": [
+    "夭"
+  ],
+  "romanized": [
+    "yāo"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/yao.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3"
+  ],
+  "strokePng": [
+    "images/yao-01.png",
+    "images/yao-02.png",
+    "images/yao-03.png",
+    "images/yao-04.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dou",
+  "chinese": [
+    "斗"
+  ],
+  "romanized": [
+    "dòu"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/dou.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3"
+  ],
+  "strokePng": [
+    "images/dou-01.png",
+    "images/dou-02.png",
+    "images/dou-03.png",
+    "images/dou-04.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

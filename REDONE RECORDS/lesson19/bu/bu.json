@@ -1,0 +1,33 @@
+{
+  "id": "bu",
+  "chinese": [
+    "布"
+  ],
+  "romanized": [
+    "bù"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/bu.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3"
+  ],
+  "strokePng": [
+    "images/bu-01.png",
+    "images/bu-02.png",
+    "images/bu-03.png",
+    "images/bu-04.png",
+    "images/bu-05.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

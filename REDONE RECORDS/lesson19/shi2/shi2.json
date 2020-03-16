@@ -1,0 +1,35 @@
+{
+  "id": "shi2",
+  "chinese": [
+    "式"
+  ],
+  "romanized": [
+    "shì"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/shi2.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/shi2-01.png",
+    "images/shi2-02.png",
+    "images/shi2-03.png",
+    "images/shi2-04.png",
+    "images/shi2-05.png",
+    "images/shi2-06.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}
