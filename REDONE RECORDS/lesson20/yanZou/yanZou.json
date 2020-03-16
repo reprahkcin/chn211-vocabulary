@@ -2,13 +2,11 @@
   "id": "yanZou",
   "chinese": [
     "演",
-    "奏",
-    ""
+    "奏"
   ],
   "romanized": [
     "yǎn",
-    "zòu",
-    ""
+    "zòu"
   ],
   "importantCharacters": [
     0,
@@ -17,8 +15,7 @@
   "englishTranslation": "",
   "mainGraphics": [
     "images/yanZou-a.png",
-    "images/yanZou-b.png",
-    "images/yanZou-c.png"
+    "images/yanZou-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

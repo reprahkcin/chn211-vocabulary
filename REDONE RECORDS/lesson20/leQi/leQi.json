@@ -2,13 +2,11 @@
   "id": "leQi",
   "chinese": [
     "乐",
-    "器",
-    ""
+    "器"
   ],
   "romanized": [
     "lè",
-    "qì",
-    ""
+    "qì"
   ],
   "importantCharacters": [
     1
@@ -16,8 +14,7 @@
   "englishTranslation": "",
   "mainGraphics": [
     "images/leQi-a.png",
-    "images/leQi-b.png",
-    "images/leQi-c.png"
+    "images/leQi-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

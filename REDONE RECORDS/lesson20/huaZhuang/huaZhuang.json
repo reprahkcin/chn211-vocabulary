@@ -2,13 +2,11 @@
   "id": "huaZhuang",
   "chinese": [
     "化",
-    "妆",
-    ""
+    "妆"
   ],
   "romanized": [
     "huà",
-    "zhuāng",
-    ""
+    "zhuāng"
   ],
   "importantCharacters": [
     0,
@@ -17,8 +15,7 @@
   "englishTranslation": "",
   "mainGraphics": [
     "images/huaZhuang-a.png",
-    "images/huaZhuang-b.png",
-    "images/huaZhuang-c.png"
+    "images/huaZhuang-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

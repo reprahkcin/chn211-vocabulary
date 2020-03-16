@@ -1,23 +1,17 @@
 {
   "id": "re",
   "chinese": [
-    "热",
-    "",
-    ""
+    "热"
   ],
   "romanized": [
-    "rè",
-    "",
-    ""
+    "rè"
   ],
   "importantCharacters": [
     0
   ],
   "englishTranslation": "",
   "mainGraphics": [
-    "images/re-a.png",
-    "images/re-b.png",
-    "images/re-c.png"
+    "images/re.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

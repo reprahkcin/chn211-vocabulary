@@ -2,13 +2,11 @@
   "id": "gongXi",
   "chinese": [
     "恭",
-    "喜",
-    ""
+    "喜"
   ],
   "romanized": [
     "gōng",
-    "xǐ",
-    ""
+    "xǐ"
   ],
   "importantCharacters": [
     0
@@ -16,8 +14,7 @@
   "englishTranslation": "",
   "mainGraphics": [
     "images/gongXi-a.png",
-    "images/gongXi-b.png",
-    "images/gongXi-c.png"
+    "images/gongXi-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

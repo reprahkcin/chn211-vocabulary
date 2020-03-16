@@ -2,13 +2,11 @@
   "id": "zheJi",
   "chinese": [
     "着",
-    "急",
-    ""
+    "急"
   ],
   "romanized": [
     "zhe",
-    "jí",
-    ""
+    "jí"
   ],
   "importantCharacters": [
     0,
@@ -17,8 +15,7 @@
   "englishTranslation": "",
   "mainGraphics": [
     "images/zheJi-a.png",
-    "images/zheJi-b.png",
-    "images/zheJi-c.png"
+    "images/zheJi-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

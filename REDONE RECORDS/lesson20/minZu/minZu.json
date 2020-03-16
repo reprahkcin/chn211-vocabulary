@@ -2,13 +2,11 @@
   "id": "minZu",
   "chinese": [
     "民",
-    "族",
-    ""
+    "族"
   ],
   "romanized": [
     "mín",
-    "zú",
-    ""
+    "zú"
   ],
   "importantCharacters": [
     1
@@ -16,8 +14,7 @@
   "englishTranslation": "",
   "mainGraphics": [
     "images/minZu-a.png",
-    "images/minZu-b.png",
-    "images/minZu-c.png"
+    "images/minZu-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

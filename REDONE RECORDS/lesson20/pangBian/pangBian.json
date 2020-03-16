@@ -2,13 +2,11 @@
   "id": "pangBian",
   "chinese": [
     "旁",
-    "边",
-    ""
+    "边"
   ],
   "romanized": [
     "páng",
-    "biān",
-    ""
+    "biān"
   ],
   "importantCharacters": [
     0
@@ -16,8 +14,7 @@
   "englishTranslation": "",
   "mainGraphics": [
     "images/pangBian-a.png",
-    "images/pangBian-b.png",
-    "images/pangBian-c.png"
+    "images/pangBian-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

@@ -2,13 +2,11 @@
   "id": "jiaoQu",
   "chinese": [
     "郊",
-    "区",
-    ""
+    "区"
   ],
   "romanized": [
     "jiāo",
-    "qū",
-    ""
+    "qū"
   ],
   "importantCharacters": [
     0,
@@ -17,8 +15,7 @@
   "englishTranslation": "",
   "mainGraphics": [
     "images/jiaoQu-a.png",
-    "images/jiaoQu-b.png",
-    "images/jiaoQu-c.png"
+    "images/jiaoQu-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

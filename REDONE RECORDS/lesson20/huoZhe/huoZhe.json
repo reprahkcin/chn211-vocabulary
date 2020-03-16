@@ -2,13 +2,11 @@
   "id": "huoZhe",
   "chinese": [
     "或",
-    "者",
-    ""
+    "者"
   ],
   "romanized": [
     "huò",
-    "zhě",
-    ""
+    "zhě"
   ],
   "importantCharacters": [
     0
@@ -16,8 +14,7 @@
   "englishTranslation": "",
   "mainGraphics": [
     "images/huoZhe-a.png",
-    "images/huoZhe-b.png",
-    "images/huoZhe-c.png"
+    "images/huoZhe-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

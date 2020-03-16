@@ -2,13 +2,11 @@
   "id": "wenZhang",
   "chinese": [
     "文",
-    "章",
-    ""
+    "章"
   ],
   "romanized": [
     "wén",
-    "zhāng",
-    ""
+    "zhāng"
   ],
   "importantCharacters": [
     1
@@ -16,8 +14,7 @@
   "englishTranslation": "",
   "mainGraphics": [
     "images/wenZhang-a.png",
-    "images/wenZhang-b.png",
-    "images/wenZhang-c.png"
+    "images/wenZhang-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

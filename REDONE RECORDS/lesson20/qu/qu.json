@@ -1,20 +1,17 @@
 {
   "id": "qu",
   "chinese": [
-    "曲",
-    ""
+    "曲"
   ],
   "romanized": [
-    "qǔ",
-    ""
+    "qǔ"
   ],
   "importantCharacters": [
     0
   ],
   "englishTranslation": "",
   "mainGraphics": [
-    "images/qu-a.png",
-    "images/qu-b.png"
+    "images/qu-a.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

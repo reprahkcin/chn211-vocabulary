@@ -1,23 +1,17 @@
 {
   "id": "pian",
   "chinese": [
-    "篇",
-    "",
-    ""
+    "篇"
   ],
   "romanized": [
-    "piān",
-    "",
-    ""
+    "piān"
   ],
   "importantCharacters": [
     0
   ],
   "englishTranslation": "",
   "mainGraphics": [
-    "images/pian-a.png",
-    "images/pian-b.png",
-    "images/pian-c.png"
+    "images/pian.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

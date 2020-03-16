@@ -1,20 +1,17 @@
 {
   "id": "jiu",
   "chinese": [
-    "九",
-    ""
+    "九"
   ],
   "romanized": [
-    "jiǔ",
-    ""
+    "jiǔ"
   ],
   "importantCharacters": [
     0
   ],
   "englishTranslation": "",
   "mainGraphics": [
-    "images/jiu-a.png",
-    "images/jiu-b.png"
+    "images/jiu-a.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",

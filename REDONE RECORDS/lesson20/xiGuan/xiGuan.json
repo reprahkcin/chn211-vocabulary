@@ -2,13 +2,11 @@
   "id": "xiGuan",
   "chinese": [
     "习",
-    "惯",
-    ""
+    "惯"
   ],
   "romanized": [
     "xí",
-    "guàn",
-    ""
+    "guàn"
   ],
   "importantCharacters": [
     1
@@ -16,8 +14,7 @@
   "englishTranslation": "",
   "mainGraphics": [
     "images/xiGuan-a.png",
-    "images/xiGuan-b.png",
-    "images/xiGuan-c.png"
+    "images/xiGuan-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",
