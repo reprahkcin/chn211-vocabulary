@@ -1,0 +1,48 @@
+{
+  "id": "qiNg",
+  "chinese": [
+    "爱",
+    "情"
+  ],
+  "romanized": [
+    "qí",
+    "ng"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/qiNg-a.png",
+    "images/qiNg-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3"
+  ],
+  "strokePng": [
+    "images/qiNg-01.png",
+    "images/qiNg-02.png",
+    "images/qiNg-03.png",
+    "images/qiNg-04.png",
+    "images/qiNg-05.png",
+    "images/qiNg-06.png",
+    "images/qiNg-07.png",
+    "images/qiNg-08.png",
+    "images/qiNg-09.png",
+    "images/qiNg-10.png",
+    "images/qiNg-11.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

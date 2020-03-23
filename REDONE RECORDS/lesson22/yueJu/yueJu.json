@@ -1,0 +1,46 @@
+{
+  "id": "yueJu",
+  "chinese": [
+    "越",
+    "剧"
+  ],
+  "romanized": [
+    "yuè",
+    "jù"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/yueJu-a.png",
+    "images/yueJu-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3"
+  ],
+  "strokePng": [
+    "images/yueJu-01.png",
+    "images/yueJu-02.png",
+    "images/yueJu-03.png",
+    "images/yueJu-04.png",
+    "images/yueJu-05.png",
+    "images/yueJu-06.png",
+    "images/yueJu-07.png",
+    "images/yueJu-08.png",
+    "images/yueJu-09.png",
+    "images/yueJu-10.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

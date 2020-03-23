@@ -1,0 +1,36 @@
+{
+  "id": "zuoBian",
+  "chinese": [
+    "左",
+    "边"
+  ],
+  "romanized": [
+    "zuǒ",
+    "biān"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/zuoBian-a.png",
+    "images/zuoBian-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3"
+  ],
+  "strokePng": [
+    "images/zuoBian-01.png",
+    "images/zuoBian-02.png",
+    "images/zuoBian-03.png",
+    "images/zuoBian-04.png",
+    "images/zuoBian-05.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

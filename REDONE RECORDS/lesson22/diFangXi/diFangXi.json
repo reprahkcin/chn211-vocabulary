@@ -1,0 +1,41 @@
+{
+  "id": "diFangXi",
+  "chinese": [
+    "地",
+    "方",
+    "戏"
+  ],
+  "romanized": [
+    "dì",
+    "fāng",
+    "xì"
+  ],
+  "importantCharacters": [
+    2
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/diFangXi-a.png",
+    "images/diFangXi-b.png",
+    "images/diFangXi-c.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/diFangXi-01.png",
+    "images/diFangXi-02.png",
+    "images/diFangXi-03.png",
+    "images/diFangXi-04.png",
+    "images/diFangXi-05.png",
+    "images/diFangXi-06.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

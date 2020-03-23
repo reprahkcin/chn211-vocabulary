@@ -1,0 +1,40 @@
+{
+  "id": "danShi",
+  "chinese": [
+    "但",
+    "是"
+  ],
+  "romanized": [
+    "dàn",
+    "shì"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/danShi-a.png",
+    "images/danShi-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/danShi-01.png",
+    "images/danShi-02.png",
+    "images/danShi-03.png",
+    "images/danShi-04.png",
+    "images/danShi-05.png",
+    "images/danShi-06.png",
+    "images/danShi-07.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

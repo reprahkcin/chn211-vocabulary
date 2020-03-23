@@ -1,0 +1,49 @@
+{
+  "id": "yangTai",
+  "chinese": [
+    "阳",
+    "台"
+  ],
+  "romanized": [
+    "yáng",
+    "tái"
+  ],
+  "importantCharacters": [
+    0,
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/yangTai-a.png",
+    "images/yangTai-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3"
+  ],
+  "strokePng": [
+    "images/yangTai-01.png",
+    "images/yangTai-02.png",
+    "images/yangTai-03.png",
+    "images/yangTai-04.png",
+    "images/yangTai-05.png",
+    "images/yangTai-06.png",
+    "images/yangTai-07.png",
+    "images/yangTai-08.png",
+    "images/yangTai-09.png",
+    "images/yangTai-10.png",
+    "images/yangTai-11.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

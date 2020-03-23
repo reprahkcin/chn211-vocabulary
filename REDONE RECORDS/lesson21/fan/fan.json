@@ -1,0 +1,29 @@
+{
+  "id": "fan",
+  "chinese": [
+    "凡"
+  ],
+  "romanized": [
+    "fán"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/fan.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3"
+  ],
+  "strokePng": [
+    "images/fan-01.png",
+    "images/fan-02.png",
+    "images/fan-03.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

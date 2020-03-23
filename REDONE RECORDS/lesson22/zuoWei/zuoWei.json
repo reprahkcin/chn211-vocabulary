@@ -1,0 +1,46 @@
+{
+  "id": "zuoWei",
+  "chinese": [
+    "座",
+    "位"
+  ],
+  "romanized": [
+    "zuò",
+    "wèi"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/zuoWei-a.png",
+    "images/zuoWei-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3"
+  ],
+  "strokePng": [
+    "images/zuoWei-01.png",
+    "images/zuoWei-02.png",
+    "images/zuoWei-03.png",
+    "images/zuoWei-04.png",
+    "images/zuoWei-05.png",
+    "images/zuoWei-06.png",
+    "images/zuoWei-07.png",
+    "images/zuoWei-08.png",
+    "images/zuoWei-09.png",
+    "images/zuoWei-10.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

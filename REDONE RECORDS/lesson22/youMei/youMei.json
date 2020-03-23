@@ -1,0 +1,38 @@
+{
+  "id": "youMei",
+  "chinese": [
+    "优",
+    "美"
+  ],
+  "romanized": [
+    "yōu",
+    "měi"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/youMei-a.png",
+    "images/youMei-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/youMei-01.png",
+    "images/youMei-02.png",
+    "images/youMei-03.png",
+    "images/youMei-04.png",
+    "images/youMei-05.png",
+    "images/youMei-06.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

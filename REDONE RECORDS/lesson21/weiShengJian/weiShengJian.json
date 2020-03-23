@@ -1,0 +1,35 @@
+{
+  "id": "weiShengJian",
+  "chinese": [
+    "卫",
+    "生",
+    "间"
+  ],
+  "romanized": [
+    "wèi",
+    "shēng",
+    "jiān"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/weiShengJian-a.png",
+    "images/weiShengJian-b.png",
+    "images/weiShengJian-c.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3"
+  ],
+  "strokePng": [
+    "images/weiShengJian-01.png",
+    "images/weiShengJian-02.png",
+    "images/weiShengJian-03.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}
