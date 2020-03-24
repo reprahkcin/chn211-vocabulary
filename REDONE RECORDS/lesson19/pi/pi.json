@@ -1,0 +1,31 @@
+{
+  "id": "pi",
+  "chinese": [
+    "匹"
+  ],
+  "romanized": [
+    "pǐ"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/pi.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3"
+  ],
+  "strokePng": [
+    "images/pi-01.png",
+    "images/pi-02.png",
+    "images/pi-03.png",
+    "images/pi-04.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

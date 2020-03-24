@@ -1,0 +1,38 @@
+{
+  "id": "juTuan",
+  "chinese": [
+    "剧",
+    "团"
+  ],
+  "romanized": [
+    "jù",
+    "tuán"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/juTuan-a.png",
+    "images/juTuan-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/juTuan-01.png",
+    "images/juTuan-02.png",
+    "images/juTuan-03.png",
+    "images/juTuan-04.png",
+    "images/juTuan-05.png",
+    "images/juTuan-06.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

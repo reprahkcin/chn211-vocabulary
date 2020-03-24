@@ -1,0 +1,41 @@
+{
+  "id": "qiBaiShi",
+  "chinese": [
+    "齐",
+    "白",
+    "石"
+  ],
+  "romanized": [
+    "qí",
+    "bái",
+    "shí"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/qiBaiShi-a.png",
+    "images/qiBaiShi-b.png",
+    "images/qiBaiShi-c.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/qiBaiShi-01.png",
+    "images/qiBaiShi-02.png",
+    "images/qiBaiShi-03.png",
+    "images/qiBaiShi-04.png",
+    "images/qiBaiShi-05.png",
+    "images/qiBaiShi-06.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

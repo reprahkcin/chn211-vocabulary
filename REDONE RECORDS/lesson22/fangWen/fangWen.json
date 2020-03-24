@@ -1,0 +1,38 @@
+{
+  "id": "fangWen",
+  "chinese": [
+    "访",
+    "问"
+  ],
+  "romanized": [
+    "fǎng",
+    "wèn"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/fangWen-a.png",
+    "images/fangWen-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/fangWen-01.png",
+    "images/fangWen-02.png",
+    "images/fangWen-03.png",
+    "images/fangWen-04.png",
+    "images/fangWen-05.png",
+    "images/fangWen-06.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

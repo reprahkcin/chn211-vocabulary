@@ -1,0 +1,40 @@
+{
+  "id": "zhuJiao",
+  "chinese": [
+    "主",
+    "角"
+  ],
+  "romanized": [
+    "zhǔ",
+    "jiǎo"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/zhuJiao-a.png",
+    "images/zhuJiao-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3"
+  ],
+  "strokePng": [
+    "images/zhuJiao-01.png",
+    "images/zhuJiao-02.png",
+    "images/zhuJiao-03.png",
+    "images/zhuJiao-04.png",
+    "images/zhuJiao-05.png",
+    "images/zhuJiao-06.png",
+    "images/zhuJiao-07.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

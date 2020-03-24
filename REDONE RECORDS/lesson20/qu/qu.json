@@ -1,0 +1,35 @@
+{
+  "id": "qu",
+  "chinese": [
+    "曲"
+  ],
+  "romanized": [
+    "qǔ"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/qu-a.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/qu-01.png",
+    "images/qu-02.png",
+    "images/qu-03.png",
+    "images/qu-04.png",
+    "images/qu-05.png",
+    "images/qu-06.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

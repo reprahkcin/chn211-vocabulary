@@ -1,0 +1,27 @@
+{
+  "id": "jiu",
+  "chinese": [
+    "九"
+  ],
+  "romanized": [
+    "jiǔ"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/jiu-a.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3"
+  ],
+  "strokePng": [
+    "images/jiu-01.png",
+    "images/jiu-02.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "xiGuan",
+  "chinese": [
+    "习",
+    "惯"
+  ],
+  "romanized": [
+    "xí",
+    "guàn"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/xiGuan-a.png",
+    "images/xiGuan-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3"
+  ],
+  "strokePng": [
+    "images/xiGuan-01.png",
+    "images/xiGuan-02.png",
+    "images/xiGuan-03.png",
+    "images/xiGuan-04.png",
+    "images/xiGuan-05.png",
+    "images/xiGuan-06.png",
+    "images/xiGuan-07.png",
+    "images/xiGuan-08.png",
+    "images/xiGuan-09.png",
+    "images/xiGuan-10.png",
+    "images/xiGuan-11.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

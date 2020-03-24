@@ -1,0 +1,57 @@
+{
+  "id": "ying",
+  "chinese": [
+    "赢"
+  ],
+  "romanized": [
+    "yíng"
+  ],
+  "importantCharacters": [
+    0
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/ying.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3",
+    "audio/07.mp3",
+    "audio/08.mp3",
+    "audio/09.mp3",
+    "audio/10.mp3",
+    "audio/11.mp3",
+    "audio/12.mp3",
+    "audio/13.mp3",
+    "audio/14.mp3",
+    "audio/15.mp3",
+    "audio/16.mp3",
+    "audio/17.mp3"
+  ],
+  "strokePng": [
+    "images/ying-01.png",
+    "images/ying-02.png",
+    "images/ying-03.png",
+    "images/ying-04.png",
+    "images/ying-05.png",
+    "images/ying-06.png",
+    "images/ying-07.png",
+    "images/ying-08.png",
+    "images/ying-09.png",
+    "images/ying-10.png",
+    "images/ying-11.png",
+    "images/ying-12.png",
+    "images/ying-13.png",
+    "images/ying-14.png",
+    "images/ying-15.png",
+    "images/ying-16.png",
+    "images/ying-17.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}

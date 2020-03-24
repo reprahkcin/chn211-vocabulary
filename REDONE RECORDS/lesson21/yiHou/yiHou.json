@@ -1,0 +1,38 @@
+{
+  "id": "yiHou",
+  "chinese": [
+    "以",
+    "后"
+  ],
+  "romanized": [
+    "yǐ",
+    "hòu"
+  ],
+  "importantCharacters": [
+    1
+  ],
+  "englishTranslation": "",
+  "mainGraphics": [
+    "images/yiHou-a.png",
+    "images/yiHou-b.png"
+  ],
+  "strokeAudio": [
+    "audio/01.mp3",
+    "audio/02.mp3",
+    "audio/03.mp3",
+    "audio/04.mp3",
+    "audio/05.mp3",
+    "audio/06.mp3"
+  ],
+  "strokePng": [
+    "images/yiHou-01.png",
+    "images/yiHou-02.png",
+    "images/yiHou-03.png",
+    "images/yiHou-04.png",
+    "images/yiHou-05.png",
+    "images/yiHou-06.png"
+  ],
+  "characterAnimated": "character-animated/",
+  "phraseAudio": "audio/phrase.mp3",
+  "wordAudio": "audio/word.mp3"
+}
