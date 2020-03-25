@@ -1,20 +1,20 @@
 {
-  "id": "qiNg",
+  "id": "aiQing",
   "chinese": [
     "爱",
     "情"
   ],
   "romanized": [
-    "qí",
-    "ng"
+    "ài",
+    "qíng"
   ],
   "importantCharacters": [
     1
   ],
   "englishTranslation": "",
   "mainGraphics": [
-    "images/qiNg-a.png",
-    "images/qiNg-b.png"
+    "images/aiQing-a.png",
+    "images/aiQing-b.png"
   ],
   "strokeAudio": [
     "audio/01.mp3",
@@ -30,17 +30,17 @@
     "audio/11.mp3"
   ],
   "strokePng": [
-    "images/qiNg-01.png",
-    "images/qiNg-02.png",
-    "images/qiNg-03.png",
-    "images/qiNg-04.png",
-    "images/qiNg-05.png",
-    "images/qiNg-06.png",
-    "images/qiNg-07.png",
-    "images/qiNg-08.png",
-    "images/qiNg-09.png",
-    "images/qiNg-10.png",
-    "images/qiNg-11.png"
+    "images/aiQing-01.png",
+    "images/aiQing-02.png",
+    "images/aiQing-03.png",
+    "images/aiQing-04.png",
+    "images/aiQing-05.png",
+    "images/aiQing-06.png",
+    "images/aiQing-07.png",
+    "images/aiQing-08.png",
+    "images/aiQing-09.png",
+    "images/aiQing-10.png",
+    "images/aiQing-11.png"
   ],
   "characterAnimated": "character-animated/",
   "phraseAudio": "audio/phrase.mp3",
